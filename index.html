@@ -79,13 +79,15 @@
   <div class="article-content">
     <div class="entry">
       
-        <p>今天做了一天的数据预处理，简直被自己蠢哭，以下做一定的记录。<br>首先是数据的批量改名，这个很easy，如图，在不同类别图片之前给予不同的序号（我的数据有4个类别，后三类就不展示啦），这么做的目的也是为了方便后面labels的读取<br><img src="C:/Users/moon/Desktop/blog/ESUX(J%RJNZB]3H(H$XW04W.png"></p>
+        <p>今天做了一天的数据预处理，简直被自己蠢哭，以下做一定的记录。<br>首先是数据的批量改名，这个很easy，如图，在不同类别图片之前给予不同的序号（我的数据有4个类别，后三类就不展示啦），这么做的目的也是为了方便后面labels的读取</p>
+<p><img src="/2018/03/07/数据预处理随笔/1.png" alt="4mylove"></p>
 <p>其次就是将图片读取成可以用于CNN训练的nparray格式<br>在这里先定义读label的函数<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">def read_lable(img_name):</span><br><span class="line">    basename=os.path.basename(img_name)</span><br><span class="line">    data=basename.split(&apos;_&apos;)[0]</span><br><span class="line">    return data</span><br></pre></td></tr></table></figure></p>
 <p>然后根据路径和文件名分别建立nparray格式的数据集和label集<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">for fn in os.listdir(&apos;path&apos;):</span><br><span class="line">    if fn.endswith(&apos;.jpg&apos;):           #判断文件后缀名是否为jpg格式</span><br><span class="line">        fd=os.path.join(&apos;path&apos;,fn)</span><br><span class="line">        images.append(img_to_array(load_img(fd)))</span><br><span class="line">        lables.append(int(read_lable(fd)))</span><br><span class="line">y=np.array(lables)</span><br></pre></td></tr></table></figure></p>
 <p>随后调用sklearn.model_selection中的train_test_split随机划分训练与测试集，sklearn广泛应用于交叉验证，有兴趣的小伙可以自行查阅参数<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.3,random_state=30)                   #训练集测试集73开</span><br></pre></td></tr></table></figure></p>
 <p>将labels转为向量形式<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">y_train=np_utils.to_categorical(y_train,4)       #我的数据有4类，因此第一类数据的标签就会转化成[1,0,0,0]形式，以此类推</span><br><span class="line">y_test=np_utils.to_categorical(y_test,4)</span><br></pre></td></tr></table></figure></p>
 <p>做到这里，我准备将x数据集做归一化处理，但是疯狂报错我也不知道原因，后来在大佬的帮助下我发现了一个贼尴尬的问题，我的数据集分辨率不一致（tmd），大的高达696<em>570，小的只有256</em>256<br>在研究了很长时间ImageDataGenerator即keras下图片数据扩充方法（以后再详述，很有用）后我发现，直接<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">out = my_img.resize((512, 512), Image.ANTIALIAS)</span><br></pre></td></tr></table></figure></p>
-<p>不就解决了吗？？？？？？？？写到这里真的想抽自己<br><img src="C:/Users/moon/Desktop/blog/KF48C0FSK82BEHAJ(Y$)]_K.png"></p>
+<p>不就解决了吗？？？？？？？？写到这里真的想抽自己</p>
+<p><img src="/2018/03/07/数据预处理随笔/2.png" alt="4mylove"></p>
 <p>然后对数据集进行归一化处理就可以了，接下来就是神经网络的构建过程，我们下次再说啦</p>
 
       
