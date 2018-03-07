@@ -3,21 +3,27 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Moon</title>
+  <title>数据预处理随笔 | Moon</title>
 
   
   <meta name="author" content="Moon">
   
 
   
+  <meta name="description" content="今天做了一天的数据预处理，简直被自己蠢哭，以下做一定的记录。首先是数据的批量改名，这个很easy，如图，在不同类别图片之前给予不同的序号（我的数据有4个类别，后三类就不展示啦），这么做的目的也是为了方便后面labels的读取
+其次就是将图片读取成可以用于CNN训练的nparray格式在这里先定义读l">
+  
 
+  
+  
+  <meta name="keywords" content="">
   
 
   <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-  
+  <meta property="og:title" content="数据预处理随笔"/>
 
   <meta property="og:site_name" content="Moon"/>
 
@@ -54,12 +60,11 @@
 </header>
 
     <main class="site-main posts-loop">
-    
-  <article>
+    <article>
 
   
     
-    <h3 class="article-title"><a href="/2018/03/07/数据预处理随笔/"><span>数据预处理随笔</span></a></h3>
+    <h3 class="article-title"><span>数据预处理随笔</span></h3>
     
   
 
@@ -107,58 +112,6 @@
 </article>
 
 
-
-  <article>
-
-  
-    
-    <h3 class="article-title"><a href="/2018/03/05/关于LSTM中Embedding层/"><span>关于LSTM中Embedding层</span></a></h3>
-    
-  
-
-  <div class="article-top-meta">
-    <span class="posted-on">
-      <a href="/2018/03/05/关于LSTM中Embedding层/" rel="bookmark">
-        <time class="entry-date published" datetime="2018-03-05T01:29:16.000Z">
-          2018-03-05
-        </time>
-      </a>
-    </span>
-  </div>
-
-
-  
-
-  <div class="article-content">
-    <div class="entry">
-      
-        <p>最近在做cnn-lstm的实验，在keras的examples中发现有个embedding层，于是百度并自己理解如下。<br>首先，一个词转为词向量有一种 one hot representation 的方法，即有多少词就造一个多少维的向量，如我们要构造一个含有一万个词的 representation，就需要一个一万维的向量来表示，其中”a”这个词表示为[1,0,0…..0]T,”apple”可能表示为[0,0,0,0,1,0…]T，也就是在这一万维向量中，只有一个1，其余都是0，这样总共能表示一万个词。<br>但是这种方法有很大一个缺陷，即没有考虑语义之间的相似性，比如”pen”和”pencil”之间虽然是不同的东西，但都属于文具这一类，因此在向量表示中应该有较大的相似性。此外，单复数、时态、词性也很难在one hot representation中表示出来。最重要的是，一个一万维的向量，明明可以表示210000个词，但是却只用来表示一万个词，对于运算、存储等都造成了很大的负担。<br>因此，embedding的作用说白了就是降维，它能将一个一万维的向量降成几千甚至几百维，其中每一维都有特定的含义，比如前几维表示词性，后几维表示时态、单复数等等。这样的话，具有相似含义的词就会有较高相似度（可以用词向量之间距离计算）。<br>具体怎么实现的嘛，哈哈哈哈，还是没太看懂，不过keras都实现好了，只需要 model.add(Embedding）就OK啦！<br>第一篇笔记，有点low，大家见谅哦，如有问题大佬们一定要告诉我啊！</p>
-
-      
-    </div>
-
-  </div>
-
-  <div class="article-footer">
-    <div class="article-meta pull-left">
-
-    
-
-    
-
-    </div>
-
-    
-  </div>
-</article>
-
-
-
-
-<nav class="pagination">
-  
-  
-</nav>
     </main>
 
     <footer class="site-footer">
