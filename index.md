@@ -19,7 +19,7 @@ The ruby gem is available on the Ruby Gems website at the following location. [h
 
 ## GitHub Pages
 
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
+The theme caaaan be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
 
 ```yml
 remote_theme: chrisrhymes/bulma-clean-theme
