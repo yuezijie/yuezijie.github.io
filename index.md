@@ -15,20 +15,9 @@ Welcome to the group page of the team Shi which advising by Prof. Shi. This site
 ## Scheduled Events
 
 
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
+* 22/10/2021, XXX!
+* 21/10/2021, XXX!
+* 20/10/2021, XXX!
 * Post [11](https://rubygems.org/gems/bulma-clean-theme)
 
 ## Group News

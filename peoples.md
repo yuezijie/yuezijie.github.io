@@ -15,7 +15,7 @@ show_sidebar: false
 ## Current members
 
 - Zhipeng Du
-- Zijie Yue1
+- Zijie Yue
 - Yingxue Xu
 - Minna He
 - Meng Wei
