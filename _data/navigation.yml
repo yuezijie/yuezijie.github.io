@@ -8,9 +8,12 @@
   #   - name: Zijie Yue
   #     #link: /page-3/
 
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
+- name: Post
+  link: /blog/
+- name: Archive
+  link: /#
+  dropdown:
+    - name: 2020
+      link: /ach20/
 - name: About
   link: /about/
