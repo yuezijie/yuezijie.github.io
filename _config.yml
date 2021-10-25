@@ -6,10 +6,10 @@ email: 164910798@qq.com
 description: >
   Group site for team Shi
 # baseurl: "/bulma-clean-theme"
-url: "https://yuezijie.github.io/"
+# url: "https://yuezijie.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: yuezijie
+# gh_sponsor: yuezijie
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
