@@ -1,25 +1,17 @@
 ---
 title: TeamShi
-subtitle: Group site for team Shi
+subtitle: Welcome to group site for team Shi
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 
-Welcome to the group page of the team Shi which advising by Prof. Shi. This site will collect some documents and news from our group.
+## News
+
+- 10/2021, Welcome Tiarna, Meng, Zijie, Yingyue, Zhipeng to join our team!
+- 9/2021, I was invited to give for a lecture on the frontier of Science at Tongji University 
 
 
-## Upcoming Events
-
-
-## Scheduled Events
-
-
-* 22/10/2021, group meeting!
-* 21/10/2021, academic report by XXX!
-* 20/10/2021, XXX!
-* Post [academic report by XXX](https://rubygems.org/gems/bulma-clean-theme)
-
-## Group News
-
-- 22/10/2021, Welcome XXX join our team!
+- 9/2021, One paper accepted to Pattern Recognition
+- 6/2021, One paper accepted to ISWC 2021
+- 11/2020, Two papers accepted to WACV 2021
+- 9/2020, One paper accepted to NeurIPS 2020

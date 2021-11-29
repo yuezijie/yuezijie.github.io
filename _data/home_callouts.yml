@@ -1,11 +1,11 @@
-style: is-light
-items:
-  - title: Learn
-    subtitle: In doing we learn.
-    icon: fa-book
-  - title: Research
-    subtitle: A bold attempt is half success.
-    icon: fa-graduation-cap
-  - title: Share
-    subtitle: Happiness is to share.
-    icon: fa-share-alt
+#style: is-light
+##items:
+##  - title: Learn
+##    subtitle: In doing we learn.
+##    icon: fa-book
+##  - title: Research
+##    subtitle: A bold attempt is half success.
+##    icon: fa-graduation-cap
+##  - title: Share
+##    subtitle: Happiness is to share.
+##    icon: fa-share-alt

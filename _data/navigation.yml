@@ -1,4 +1,4 @@
-- name: People
+- name: Members
   link: /peoples/
   # dropdown:
   #   - name: Prof. Shi
@@ -7,13 +7,16 @@
   #     #link: /page-2/
   #   - name: Zijie Yue
   #     #link: /page-3/
-
-- name: Post
-  link: /blog/
-- name: Archive
-  link: /#
-  dropdown:
-    - name: 2020
-      link: /ach20/
-- name: About
-  link: /about/
+- name: Research
+  link: /publications/
+- name: Opportunities
+  link: /opportunities/
+#- name: Post
+#  link: /blog/
+#- name: Archive
+#  link: /#
+#  dropdown:
+#    - name: 2020
+#      link: /ach20/
+#- name: About
+#  link: /about/
