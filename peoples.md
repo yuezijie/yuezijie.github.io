@@ -7,7 +7,7 @@ show_sidebar: false
 *King's College London, Informatics*\\
 *BH(N) 5.07, Bush House, Strand Campus,*\\
 *30, Aldwych, London WC2B 4BG*
-## Advisor
+## Head
 <div>
     <table>
         <tr align="center">
@@ -28,7 +28,6 @@ show_sidebar: false
 
 </div>
 
-## Students
 
 ### Post-doctoral Fellow
 <div>
@@ -58,16 +57,6 @@ show_sidebar: false
         <tr align="center">
             <td width="30%">
                 <figure class="image is-128x128">
-                  <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-                </figure>
-                <a href="">
-                    <font color="#000000">
-                    Meng Wei (2021-)
-                    </font>
-                </a>
-            </td>
-            <td width="30%">
-                <figure class="image is-128x128">
                    <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
                 </figure>
                 <a href="">
@@ -88,6 +77,28 @@ show_sidebar: false
             </td>
         </tr>
         <tr align="center">
+            <td width="30%">
+                <figure class="image is-128x128">
+                  <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+                </figure>
+                <a href="">
+                    <font color="#000000">
+                    Meng Wei (2021-)
+                    </font>
+                </a>
+            </td>
+            <td>
+                <figure class="image is-128x128">
+                  <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+                </figure>
+                    <a href="">
+                        <font color="#000000">
+                        Kholoud AlGhamdi (2020-)
+                        </font>
+                    </a>      
+            </td>
+        </tr>
+        <tr align="center">
             <td>
             <figure class="image is-128x128">
               <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
@@ -99,20 +110,18 @@ show_sidebar: false
             </a>
             </td>
             <td>
-                <figure class="image is-128x128">
-                  <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-                </figure>
-    
-                    <a href="">
-                        <font color="#000000">
-                        Kholoud AlGhamdi ()
-                        </font>
-                    </a>
-                
+            <figure class="image is-128x128">
+              <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+            </figure>
+            <a href="">
+                <font color="#000000">
+                Jinlai Ning (Co-supervised with Michael Spratling)
+                </font>
+            </a>
             </td>
         </tr>
     </table>
 </div>
 
-
+### Former Members
 

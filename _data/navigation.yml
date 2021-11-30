@@ -7,8 +7,10 @@
   #     #link: /page-2/
   #   - name: Zijie Yue
   #     #link: /page-3/
-- name: Research
+- name: Publications
   link: /publications/
+- name: Rewards
+  link: /rewards/
 - name: Opportunities
   link: /opportunities/
 #- name: Post

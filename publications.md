@@ -1,25 +1,30 @@
 ---
-title: Research
-subtitle: Research Interest and Publications
+title: Publications
 layout: page
 show_sidebar: false
 ---
-## Research Interest
-Computer Vision, focusing on visual learning and understanding with limited supervision\\
-We've worked on projects including object detection, semantic segmentation, crowd counting, visual relationship detection, and object pose estimation.
-
-## Publications
-
 
 ### 2021
 ----------------------
 <div>
-<a href="https://arxiv.org/pdf/1912.00384">
-<font style="color: #aa2116;font-weight: bold">Training object detectors from few weakly-labeled and many unlabeled images</font>
-</a>
+<table>
+    <tr>
+        <td>
+        <figure class="image is-128x128">
+          <img src="https://bulma.io/images/placeholders/128x128.png">
+        </figure>
+        </td>
+        <td>
+        <a href="https://arxiv.org/pdf/1912.00384">
+        <font style="color: #aa2116;font-weight: bold">Training object detectors from few weakly-labeled and many unlabeled images</font>
+        </a>
+        Zhaohui Yang, **Miaojing Shi**, Chao Xu, Vittorio Ferrari, Yannis Avrithis\\
+        *Pattern Recognition*
+        </td>
+    </tr>
+</table>
 </div>
-Zhaohui Yang, **Miaojing Shi**, Chao Xu, Vittorio Ferrari, Yannis Avrithis\\
-*Pattern Recognition*
+
 
 
 
