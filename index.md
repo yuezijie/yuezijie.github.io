@@ -1,6 +1,5 @@
 ---
 title: TeamShi
-subtitle: Welcome to the XXX research group homepage.
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false
