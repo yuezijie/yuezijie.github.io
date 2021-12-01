@@ -2,6 +2,7 @@
 title: Opportunities
 subtitle: Opportunities to join us
 layout: page
+hero_height: is-fullwidth
 show_sidebar: false
 ---
 

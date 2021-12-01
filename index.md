@@ -1,7 +1,8 @@
 ---
 title: TeamShi
-subtitle: Welcome to group site for team Shi
+subtitle: Welcome to the XXX research group homepage.
 layout: page
+hero_height: is-fullwidth
 show_sidebar: false
 ---
 Welcome to xxx homepage. We are part of Informatics of King's College London.
