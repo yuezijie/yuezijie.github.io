@@ -9,17 +9,19 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-        <td>
-        <figure class="image is-128x128">
-          <img src="https://bulma.io/images/placeholders/128x128.png">
+        <td style="width: 15%">
+        <figure>
+          <img src="/img/TrainingObjectDetectors.png">
         </figure>
         </td>
         <td>
         <a href="https://arxiv.org/pdf/1912.00384">
         <font style="color: #aa2116;font-weight: bold">Training object detectors from few weakly-labeled and many unlabeled images</font>
         </a>
-        Zhaohui Yang, **Miaojing Shi**, Chao Xu, Vittorio Ferrari, Yannis Avrithis\\
-        *Pattern Recognition*
+        <br>
+        Zhaohui Yang, <B>Miaojing Shi</B>, Chao Xu, Vittorio Ferrari, Yannis Avrithis
+        <br>
+        <i>Pattern Recognition</i>
         </td>
     </tr>
 </table>
@@ -29,34 +31,75 @@ show_sidebar: false
 
 
 <div>
-<a href="https://arxiv.org/pdf/2107.06423">
-<font style="color: #aa2116;font-weight: bold">Learning to recommend items to wikidata editors</font>
-</a>
+<table>
+    <tr>
+            <td style="width: 15%">
+            <figure>
+              <img src="/img/LearningtoRecommend.png">
+            </figure>
+            </td>
+    <td>
+    <a href="https://arxiv.org/pdf/2107.06423">
+    <font style="color: #aa2116;font-weight: bold">Learning to recommend items to wikidata editors</font>
+    </a>
+    <br>
+    <B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl
+    <br>
+    <i>ISWC</i>
+    </td>
+    </tr>
+    </table>
+
 </div>
-**Kholoud AlGhamdi**, **Miaojing Shi**, Elena Simperl\\
-*ISWC*
+
 
 
 
 <div>
-<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Qian_Fast_Fourier_Intrinsic_Network_WACV_2021_paper.pdf">
-<font style="color: #aa2116;font-weight: bold">Fast Fourier Intrinsic Network</font>
-</a>
+<table>
+    <tr>
+    <td style="width: 15%">
+                <figure>
+                  <img src="/img/FFIntrinsic.png">
+                </figure>
+    </td>
+        <td>
+                <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Qian_Fast_Fourier_Intrinsic_Network_WACV_2021_paper.pdf">
+                <font style="color: #aa2116;font-weight: bold">Fast Fourier Intrinsic Network</font>
+                </a>
+                <br>
+                Yanlin Qian, <B>Miaojing Shi</B>, Joni-Kristian Kamarainen, Jiri Matas
+                <br>
+                <i>WACV, 2021</i>
+        </td>
+    </tr>
+</table>
 </div>
-Yanlin Qian, **Miaojing Shi**, Joni-Kristian Kamarainen, Jiri Matas\\
-*WACV, 2021*
+
 
 
 
 <div>
-<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Kumaraswamy_Detecting_Human-Object_Interaction_With_Mixed_Supervision_WACV_2021_paper.pdf">
-<font style="color: #aa2116;font-weight: bold">
-Detecting Human-Object Interaction with Mixed Supervision
-</font>
-</a>
+    <table>
+        <tr>
+            <td style="width: 15%">
+                        <figure>
+                          <img src="/img/DetectHumanObjInteraction.png">
+                        </figure>        
+            </td>
+            <td>
+                    <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Kumaraswamy_Detecting_Human-Object_Interaction_With_Mixed_Supervision_WACV_2021_paper.pdf">
+                    <font style="color: #aa2116;font-weight: bold">
+                    Detecting Human-Object Interaction with Mixed Supervision
+                    </font>
+                    </a>
+                    Suresh Kirthi Kumaraswamy, **Miaojing Shi**, Ewa Kijak\\
+                    *WACV, 2021*
+            </td>
+        </tr>
+    </table>
 </div>
-Suresh Kirthi Kumaraswamy, **Miaojing Shi**, Ewa Kijak\\
-*WACV, 2021*
+
 
 ### 2020
 ----------------------------------------
