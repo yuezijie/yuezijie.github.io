@@ -2,6 +2,7 @@
 title: Members
 subtitle: Members in TeamShi
 layout: page
+hero_height: is-fullwidth
 show_sidebar: false
 ---
 *King's College London, Informatics*\\
