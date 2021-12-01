@@ -4,9 +4,9 @@ subtitle: Welcome to group site for team Shi
 layout: page
 show_sidebar: false
 ---
-Welcome to xxx.
+Welcome to xxx homepage. We are part of Informatics of King's College London.
 
-Computer Vision, focusing on visual learning and understanding with limited supervision\\
+Our research relates to visual learning and understanding with limited supervision.\\
 We've worked on projects including object detection, semantic segmentation, crowd counting, visual relationship detection, and object pose estimation.
 
 
