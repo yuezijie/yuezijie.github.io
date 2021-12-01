@@ -53,7 +53,7 @@ show_sidebar: false
 
 ### Postgraduate Students
 <div>
-    <table>
+    <table width="50%">
         <tr align="center">
             <td width="30%">
                 <figure class="image is-128x128">
@@ -65,16 +65,20 @@ show_sidebar: false
                     </font>
                 </a>
             </td>
-            <td width="30%">
-                <figure class="image is-128x128">
-                  <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-                </figure>            
-                    <a href="">
-                        <font color="#000000">
-                        Zhipeng Du (2021-)
-                        </font>
-                    </a>
-            </td>
+           <td width="30%"></td>
+           <td width="30%"></td>
+        </tr>
+        <tr align="center">
+                    <td width="30%">
+                        <figure class="image is-128x128">
+                          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+                        </figure>            
+                            <a href="">
+                                <font color="#000000">
+                                Zhipeng Du (2021-)
+                                </font>
+                            </a>
+                    </td>
         </tr>
         <tr align="center">
             <td width="30%">
@@ -87,19 +91,21 @@ show_sidebar: false
                     </font>
                 </a>
             </td>
-            <td>
-                <figure class="image is-128x128">
-                  <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-                </figure>
-                    <a href="">
-                        <font color="#000000">
-                        Kholoud AlGhamdi (2020-)
-                        </font>
-                    </a>      
-            </td>
         </tr>
         <tr align="center">
-            <td>
+                    <td width="30%">
+                        <figure class="image is-128x128">
+                          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+                        </figure>
+                            <a href="">
+                                <font color="#000000">
+                                Kholoud AlGhamdi (2020-)
+                                </font>
+                            </a>      
+                    </td>
+        </tr>
+        <tr align="center">
+            <td width="30%">
             <figure class="image is-128x128">
               <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
             </figure>
@@ -109,16 +115,13 @@ show_sidebar: false
                 </font>
             </a>
             </td>
-            <td>
-            <figure class="image is-128x128">
-              <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-            </figure>
-            <a href="">
-                <font color="#000000">
-                Jinlai Ning (Co-supervised with Michael Spratling)
-                </font>
-            </a>
-            </td>
+        </tr>
+        <tr align="center">
+                    <td width="30%">
+                        <font color="#000000">
+                        Jinlai Ning
+                        </font>
+                    </td>
         </tr>
     </table>
 </div>

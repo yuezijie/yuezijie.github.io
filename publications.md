@@ -9,7 +9,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-        <td style="width: 15%">
+        <td style="width: 35%">
         <figure>
           <img src="/img/TrainingObjectDetectors.png">
         </figure>
@@ -33,7 +33,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-            <td style="width: 15%">
+            <td style="width: 35%">
             <figure>
               <img src="/img/LearningtoRecommend.png">
             </figure>
@@ -58,7 +58,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-    <td style="width: 15%">
+    <td style="width: 35%">
                 <figure>
                   <img src="/img/FFIntrinsic.png">
                 </figure>
@@ -82,7 +82,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 15%">
+            <td style="width: 35%">
                         <figure>
                           <img src="/img/DetectHumanObjInteraction.png">
                         </figure>        
@@ -93,8 +93,10 @@ show_sidebar: false
                     Detecting Human-Object Interaction with Mixed Supervision
                     </font>
                     </a>
-                    Suresh Kirthi Kumaraswamy, **Miaojing Shi**, Ewa Kijak\\
-                    *WACV, 2021*
+                    <br>
+                    Suresh Kirthi Kumaraswamy, <B>Miaojing Shi</B>, Ewa Kijak
+                    <br>
+                    <i>WACV, 2021</i>
             </td>
         </tr>
     </table>
