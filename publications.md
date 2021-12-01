@@ -23,6 +23,8 @@ show_sidebar: false
         Zhaohui Yang, <B>Miaojing Shi</B>, Chao Xu, Vittorio Ferrari, Yannis Avrithis
         <br>
         <i>Pattern Recognition</i>
+        <br>
+        [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">code</a>]
         </td>
     </tr>
 </table>
@@ -47,6 +49,8 @@ show_sidebar: false
     <B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl
     <br>
     <i>ISWC</i>
+    <br>
+    [<a href="https://github.com/WikidataRec-developer/Wikidata_Recommender">code</a>]
     </td>
     </tr>
     </table>
@@ -124,6 +128,8 @@ show_sidebar: false
                 Yukuan Yang, Fangyu Wei, <B>Miaojing Shi</B>, Guoqi Li
                 <br>
                 <i>NeurIPS 2020</i>
+                <br>
+                [<a href="https://github.com/yang-yk/NP-RepMet">code</a>]
             </td>
         </tr>
     </table>
@@ -146,9 +152,11 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Wenqing Liu, <B>Miaojing Shi</B>, Teddy Furon, Li Li
+                Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li
                 <br>
                 <i>ACM MM 2020</i>
+                <br>
+                [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FLiuWenQingS%2FDefending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement&sa=D&sntz=1&usg=AFQjCNEBbRiaP9OGmq2S9JODRUmvLSCAkA">code</a>]
             </td>
         </tr>
     </table>
@@ -173,7 +181,7 @@ show_sidebar: false
                 <br>
                 Yuting Liu, Zheng Wang, <B>Miaojing Shi</B>, Shin'ichi Satoh, Qijun Zhao, Hongyu Yang
                 <br>
-                <i>ACM MM 2020</i>
+                <i>ACM MM 2020(Oral)</i>
             </td>
         </tr>
     </table>
@@ -248,7 +256,7 @@ show_sidebar: false
                 <br>
                 Yuting Liu, <B>Miaojing Shi</B>, Qijun Zhao, Xiaofang Wang
                 <br>
-                <i>CVPR 2019</i>
+                <i>CVPR 2019(Oral)</i>
             </td>
         </tr>
     </table>
@@ -368,7 +376,7 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Yuan Gao, <B>Miaojing Shi</B>, Dacheng Tao, Chao Xu
+                Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu
                 <br>
                 <i>Transactions on Multimedia</i>
             </td>
@@ -400,3 +408,77 @@ show_sidebar: false
     </table>
 </div>
 
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 35%">
+                <figure>
+                   <img src="/img/GroupTesting.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://hal.inria.fr/hal-01062531v1/document">
+                <font style="color: #aa2116;font-weight: bold">
+                A Group Testing Framework for Similarity Search in High-dimensional Spaces
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, Teddy Furon, Hervé Jégou
+                <br>
+                <i>ACM MM 2014(Oral)</i>
+                <br>
+                [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1nt1fu7R&sa=D&sntz=1&usg=AFQjCNEUkYzMtuQu0f4WIyCKVD-ksWHLZw">code</a>]
+                [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1mgkm1YS%2F&sa=D&sntz=1&usg=AFQjCNH0qTDn7pRC3W8fyzzG1941jQekUg">data</a>]
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 35%">
+                <figure>
+                   <img src="/img/W-TreeIndex.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://ieeexplore.ieee.org/document/6357283">
+                <font style="color: #aa2116;font-weight: bold">
+                W-Tree Indexing for Fast Visual Word Generation
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, Ruixin Xu, Dacheng Tao, and Chao Xu
+                <br>
+                <i>Transactions on Image Processing</i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 35%">
+                <figure>
+                   <img src="/img/ExploitingWord.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://projet.liris.cnrs.fr/imagine/pub/proceedings/ACM-MULTIMEDIA-2012/mm/p69.pdf">
+                <font style="color: #aa2116;font-weight: bold">
+                Exploiting Visual Word Co-occurrence for Image Retrieval 
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu
+                <br>
+                <i>ACM MM 2012(Oral)</i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
