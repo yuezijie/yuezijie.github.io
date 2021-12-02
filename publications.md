@@ -10,7 +10,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-        <td style="width: 35%">
+        <td style="width: 30%">
         <figure>
           <img src="/img/TrainingObjectDetectors.png">
         </figure>
@@ -36,7 +36,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
             <figure>
               <img src="/img/LearningtoRecommend.png">
             </figure>
@@ -63,7 +63,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-    <td style="width: 35%">
+    <td style="width: 30%">
                 <figure>
                   <img src="/img/FFIntrinsic.png">
                 </figure>
@@ -87,7 +87,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                         <figure>
                           <img src="/img/DetectHumanObjInteraction.png">
                         </figure>        
@@ -102,6 +102,8 @@ show_sidebar: false
                     Suresh Kirthi Kumaraswamy, <B>Miaojing Shi</B>, Ewa Kijak
                     <br>
                     <i>WACV, 2021</i>
+                    <br>
+                    [<a href="https://drive.google.com/file/d/1e8blTrz7gXvqkLvOwq3q2u5eKPVQSbBo/view?usp=sharing">sup</a>]
             </td>
         </tr>
     </table>
@@ -113,7 +115,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                         <figure>
                           <img src="/img/RestoreNeg.png">
                         </figure>        
@@ -140,7 +142,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/DefendingAdv.png">
                 </figure>        
@@ -167,7 +169,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/TowardsUnsup.png">
                 </figure>        
@@ -191,7 +193,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/ActiveCC.png">
                 </figure>        
@@ -206,6 +208,8 @@ show_sidebar: false
                 Zhen Zhao, <B>Miaojing Shi</B>, Xiaoxiao Zhao, Li Li
                 <br>
                 <i>ECCV 2020</i>
+                <br>
+                [<a href="https://drive.google.com/file/d/1_qh-8N8riKg3hwh8Kz9QL0p5vuHjyfuW/view?usp=sharing">sup</a>]
             </td>
         </tr>
     </table>
@@ -216,7 +220,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/FriendRec.png">
                 </figure>        
@@ -242,7 +246,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/PointIn.png">
                 </figure>        
@@ -267,7 +271,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/RevisitingPers.png">
                 </figure>        
@@ -292,7 +296,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/UsingThingsandStuffTran.png">
                 </figure>        
@@ -307,6 +311,8 @@ show_sidebar: false
                 <B>Miaojing Shi</B>, Holger Caesar, Vittorio Ferrari
                 <br>
                 <i>ICCV 2017</i>
+                <br>
+                [<a href="http://www.google.com/url?q=http%3A%2F%2Fcalvin.inf.ed.ac.uk%2Fwp-content%2Fuploads%2FPublications%2Fshi17iccv-supp.pdf&sa=D&sntz=1&usg=AFQjCNHKf1L66BlBVgyzXt9xqSKti2Zjtg">sup</a>]
             </td>
         </tr>
     </table>
@@ -316,7 +322,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/SizeEstimates.png">
                 </figure>        
@@ -340,7 +346,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/DCTInspired.png">
                 </figure>        
@@ -364,7 +370,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/DatabaseSaliency.png">
                 </figure>        
@@ -388,7 +394,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/EarlyBurst.png">
                 </figure>        
@@ -412,7 +418,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/GroupTesting.png">
                 </figure>        
@@ -438,7 +444,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/W-TreeIndex.png">
                 </figure>        
@@ -462,7 +468,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 35%">
+            <td style="width: 30%">
                 <figure>
                    <img src="/img/ExploitingWord.png">
                 </figure>        

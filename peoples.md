@@ -62,6 +62,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Yingyue Xu</p>
                         <p class="subtitle is-6">yingyue.xu@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2021-)</p>
                       </div>
                     </div>  
                   </div>
@@ -75,30 +76,12 @@ show_sidebar: false
 </div>
 </Body>
 
-### Postgraduate Students
+### PhDs
 <Body>
 <div>
     <table width="50%">
         <tr align="center">
-            <td width="30%">
-                <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Tiarna Lee</p>
-                        <p class="subtitle is-6">tiarna.lee@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021-)</p>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-            </td>
-            <td width="30%">
+           <td width="30%">
                 <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -116,6 +99,24 @@ show_sidebar: false
                   </div>
                 </div>
            </td>
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Tiarna Lee</p>
+                        <p class="subtitle is-6">tiarna.lee@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2021- co-supervised by Andrew King)</p>
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
            <td width="30%">
               <div class="card">
                   <div class="card-content">
@@ -128,7 +129,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Meng Wei</p>
                         <p class="subtitle is-6">meng.wei@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021-)</p>
+                        <p class="subtitle is-6">(2021- co-supervised by Tom Vercauteren)</p>
                       </div>
                     </div>  
                   </div>
@@ -148,7 +149,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Kholoud AlGhamdi</p>
                         <p class="subtitle is-6">kholoud.alghamdi@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2020-)</p>
+                        <p class="subtitle is-6">(2020- co-supervised by Elena Simperl)</p>
                       </div>
                     </div>  
                   </div>
@@ -187,6 +188,8 @@ show_sidebar: false
                       </div>
                       <div class="media-content">
                         <p class="title is-4">Jinlai Ning</p>
+                        <p class="subtitle is-6">jinlai.ning@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2020- co-supervised by Michael Spratling)</p>   
                       </div>
                     </div>  
                   </div>
@@ -201,3 +204,31 @@ show_sidebar: false
 
 ### Former Members
 
+<Body>
+<div>
+    <table>
+        <tr>
+            <td width="30%">
+              <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Zedong Chu</p>
+                        <p class="subtitle is-6">now at Toutiao </p>
+                        <p class="subtitle is-6">(2021.01 - 2021.09)</p>   
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
+            <td width="30%"></td>
+            <td width="30%"></td>
+        </tr>
+    </table>
+</div>
+</Body>
