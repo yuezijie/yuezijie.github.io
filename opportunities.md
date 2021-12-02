@@ -71,7 +71,7 @@ If you are interested, feel free to drop me an email xxx@kcl.ac.uk.
         Candidates are requested to send an initial expression of interest to me (miaojing.shi@kcl.ac.uk ).</p>
         <p>
         <figure>
-          <img src="https://lh5.googleusercontent.com/lK9qLa8ubsTqKe-PS9hNED3lAH9rJY9DiIVtMycBsqhOj9hzjAc062lyTSMelePxW_QJQqC4v0k7BFn5slPmAx9pNAmCVHcuHermaQ9IeXJx68Q2JN-_xqTnoSl2xJh_Fg=w1280">
+          <img src="../img/opportunities/opportunity-04.jpg">
         </figure>
         The target starting date is Oct. 2021. The PhD will be supervised by Dr Miaojing Shi and <a href="https://sites.google.com/site/tomvercauteren/"> Prof Tom Vercauteren</a>. Work will be carried out within the <a href="https://www.kcl.ac.uk/informatics"> Department of Informatics</a>, with access to <a href="https://www.surgerycdt.com/"> CDT Surgical & Interventional Engineering</a>, King’s College London.
         </p>
