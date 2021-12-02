@@ -1,9 +1,9 @@
 # Site Settings
 lang: cn
-title:
-tagline: Group site for team Shi
-email: 164910798@qq.com
-description: >
+# title:
+# tagline: Group site for team Shi
+# email: 164910798@qq.com
+# description: >
 
 # baseurl: "/bulma-clean-theme"
 # url: "https://yuezijie.github.io/"
@@ -79,4 +79,4 @@ collections:
     image: https://via.placeholder.com/800x600
     show_sidebar: false
 
-fixed_navbar: top1
+# fixed_navbar: top1
