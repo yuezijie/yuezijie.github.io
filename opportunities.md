@@ -10,7 +10,6 @@ show_sidebar: false
 I am looking for students to work on CV tasks with ML.\\
 If you are interested, feel free to drop me an email xxx@kcl.ac.uk.
 
-- 10/2021 EU-H2020 research grant RESET  accepted !!  The grant topic is Restarting the Economy in Support of Environment, through Technology. It is a three-year project with Mark Mulligan from the Department of Geography, KCL and other five consortiums. I will RECRUIT one POSTDOC starting from 2021 working on machine learning algorithms in remote sensing imagery and time series data.
 
 - 08/2021 [Closed] One post-doc position in computer vision and remote sensing imagery.
 <i class="fa fa-info-circle" id="opportunity-05" style="color:red" aria-hidden="true"></i>
