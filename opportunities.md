@@ -10,17 +10,18 @@ show_sidebar: false
 I am looking for students to work on CV tasks with ML.\\
 If you are interested, feel free to drop me an email xxx@kcl.ac.uk.
 
+- 11/2021 [<B>Open</B>] We have two PhD projects opened at EPSRC CDT Smart Medical Imaging for 2022 intake: (1) <a href="https://www.imagingcdt.com/project/exploiting-multi-task-learning-for-endoscopic-vision-in-robotic-surgery/"> Exploiting multi-task learning for endoscopic vision in robotic surgery.</a> (2) <a href="https://www.imagingcdt.com/project/ai-enabled-assessment-of-cardiac-function-from-echocardiography/"> AI-Enabled Assessment of Cardiac Function from Echocardiography.</a> <B> International applicants are welcomed!</B> 
 
-- 08/2021 [Closed] One post-doc position in computer vision and remote sensing imagery.
+- 08/2021 [<B>Closed</B>] One post-doc position in computer vision and remote sensing imagery.
 <i class="fa fa-info-circle" id="opportunity-05" style="color:red" aria-hidden="true"></i>
 
-- 07/2021 [Closed] One UK PhD position on exploiting multi-task learning for endoscopic vision in robotic surgery.
+- 07/2021 [<B>Closed</B>] One UK PhD position on exploiting multi-task learning for endoscopic vision in robotic surgery.
 <i class="fa fa-info-circle" id="opportunity-04" style="color:red" aria-hidden="true"></i>
-- 06/2021 [Closed] One UK PhD position on visual recognition with minimal supervision.
+- 06/2021 [<B>Closed</B>] One UK PhD position on visual recognition with minimal supervision.
 <i class="fa fa-info-circle" id="opportunity-03" style="color:red" aria-hidden="true"></i>
-- 05/2021 [Closed] One UK PhD position as a joint of BMEIS and NMS  at King's.
+- 05/2021 [<B>Closed</B>] One UK PhD position as a joint of BMEIS and NMS  at King's.
 <i class="fa fa-info-circle" id="opportunity-02" style="color:red" aria-hidden="true"></i>
-- 05/2021 [Closed] One UK PhD postion open at EPSRC CDT Smart Medical Imaging.
+- 05/2021 [<B>Closed</B>] One UK PhD postion open at EPSRC CDT Smart Medical Imaging.
 <i class="fa fa-info-circle" id="opportunity-01" style="color:red" aria-hidden="true"></i>
 
 
