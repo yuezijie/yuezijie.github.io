@@ -94,6 +94,7 @@ show_sidebar: false
                         <p class="title is-4">Zhipeng Du</p>
                         <p class="subtitle is-6">zhipeng.du@kcl.ac.uk</p>
                         <p class="subtitle is-6">(2021-)</p>
+                        <p class="subtitle is-6" style="color: #ffffff">&</p>     
                       </div>
                     </div>  
                   </div>
@@ -111,7 +112,8 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Tiarna Lee</p>
                         <p class="subtitle is-6">tiarna.lee@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021- co-supervised by Andrew King)</p>
+                        <p class="subtitle is-6">(2021-)</p>
+                        <p class="subtitle is-6">co-advised by Andrew King</p>
                       </div>
                     </div>  
                   </div>
@@ -129,7 +131,8 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Meng Wei</p>
                         <p class="subtitle is-6">meng.wei@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021- co-supervised by Tom Vercauteren)</p>
+                        <p class="subtitle is-6">(2021-)</p>
+                        <p class="subtitle is-6">co-advised by Tom Vercauteren</p>
                       </div>
                     </div>  
                   </div>
@@ -149,7 +152,8 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Kholoud AlGhamdi</p>
                         <p class="subtitle is-6">kholoud.alghamdi@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2020- co-supervised by Elena Simperl)</p>
+                        <p class="subtitle is-6">(2020-)</p>
+                        <p class="subtitle is-6">co-advised by Elena Simperl</p>
                       </div>
                     </div>  
                   </div>
@@ -171,7 +175,8 @@ show_sidebar: false
                                         </a>
                                     </p>
                                     <p class="subtitle is-6">zijie.yue@kcl.ac.uk</p>
-                                    <p class="subtitle is-6">(Visiting PhD)</p>                                                                   
+                                    <p class="subtitle is-6">(Visiting PhD)</p> 
+                                    <p class="subtitle is-6" style="color: #ffffff">&</p>                                                                  
                                   </div>
                                 </div>  
                               </div>
@@ -189,7 +194,8 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Jinlai Ning</p>
                         <p class="subtitle is-6">jinlai.ning@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2020- co-supervised by Michael Spratling)</p>   
+                        <p class="subtitle is-6">(2020-)</p>   
+                        <p class="subtitle is-6">co-advised by Michael Spratling</p>
                       </div>
                     </div>  
                   </div>
@@ -204,31 +210,4 @@ show_sidebar: false
 
 ### Former Members
 
-<Body>
-<div>
-    <table>
-        <tr>
-            <td width="30%">
-              <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Zedong Chu</p>
-                        <p class="subtitle is-6">now at Toutiao </p>
-                        <p class="subtitle is-6">(2021.01 - 2021.09)</p>   
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-            </td>
-            <td width="30%"></td>
-            <td width="30%"></td>
-        </tr>
-    </table>
-</div>
-</Body>
+- **Zedong Chu**(2021.01 - 2021.09), now at Toutiao.

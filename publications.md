@@ -22,7 +22,7 @@ show_sidebar: false
         <br>
         Zhaohui Yang, <B>Miaojing Shi</B>, Chao Xu, Vittorio Ferrari, Yannis Avrithis
         <br>
-        <i>Pattern Recognition</i>
+        <B><i>Pattern Recognition</i></B>
         <br>
         [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">code</a>]
         </td>
@@ -48,7 +48,7 @@ show_sidebar: false
     <br>
     <B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl
     <br>
-    <i>ISWC</i>
+    <B><i>ISWC</i></B>
     <br>
     [<a href="https://github.com/WikidataRec-developer/Wikidata_Recommender">code</a>]
     </td>
@@ -75,7 +75,7 @@ show_sidebar: false
                 <br>
                 Yanlin Qian, <B>Miaojing Shi</B>, Joni-Kristian Kamarainen, Jiri Matas
                 <br>
-                <i>WACV, 2021</i>
+                <i><B>WACV</B>, 2021</i>
         </td>
     </tr>
 </table>
@@ -101,7 +101,7 @@ show_sidebar: false
                     <br>
                     Suresh Kirthi Kumaraswamy, <B>Miaojing Shi</B>, Ewa Kijak
                     <br>
-                    <i>WACV, 2021</i>
+                    <i><B>WACV</B>, 2021</i>
                     <br>
                     [<a href="https://drive.google.com/file/d/1e8blTrz7gXvqkLvOwq3q2u5eKPVQSbBo/view?usp=sharing">sup</a>]
             </td>
@@ -129,7 +129,7 @@ show_sidebar: false
                 <br>
                 Yukuan Yang, Fangyu Wei, <B>Miaojing Shi</B>, Guoqi Li
                 <br>
-                <i>NeurIPS 2020</i>
+                <i><B>NeurIPS</B> 2020</i>
                 <br>
                 [<a href="https://github.com/yang-yk/NP-RepMet">code</a>]
             </td>
@@ -154,9 +154,9 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li
+                Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li(*Co-first author) 
                 <br>
-                <i>ACM MM 2020</i>
+                <i><B>ACM MM</B> 2020</i>
                 <br>
                 [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FLiuWenQingS%2FDefending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement&sa=D&sntz=1&usg=AFQjCNEBbRiaP9OGmq2S9JODRUmvLSCAkA">code</a>]
             </td>
@@ -183,7 +183,7 @@ show_sidebar: false
                 <br>
                 Yuting Liu, Zheng Wang, <B>Miaojing Shi</B>, Shin'ichi Satoh, Qijun Zhao, Hongyu Yang
                 <br>
-                <i>ACM MM 2020(Oral)</i>
+                <i><B>ACM MM</B> 2020(Oral)</i>
             </td>
         </tr>
     </table>
@@ -205,9 +205,9 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Zhen Zhao, <B>Miaojing Shi</B>, Xiaoxiao Zhao, Li Li
+                Zhen Zhao*, <B>Miaojing Shi*</B>, Xiaoxiao Zhao, Li Li(*Co-first author) 
                 <br>
-                <i>ECCV 2020</i>
+                <i><B>ECCV</B> 2020</i>
                 <br>
                 [<a href="https://drive.google.com/file/d/1_qh-8N8riKg3hwh8Kz9QL0p5vuHjyfuW/view?usp=sharing">sup</a>]
             </td>
@@ -234,7 +234,7 @@ show_sidebar: false
                 <br>
                 Shugang Li, Xuewei Song, Hanyu Lu, Linyi Zeng, <B>Miaojing Shi</B>, Fang Liu
                 <br>
-                <i>Expert Systems with Applications</i>
+                <B><i>Expert Systems with Applications</i></B>
             </td>
         </tr>
     </table>
@@ -260,7 +260,7 @@ show_sidebar: false
                 <br>
                 Yuting Liu, <B>Miaojing Shi</B>, Qijun Zhao, Xiaofang Wang
                 <br>
-                <i>CVPR 2019(Oral)</i>
+                <i><B>CVPR</B> 2019(Oral)</i>
             </td>
         </tr>
     </table>
@@ -285,7 +285,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Zhaohui Yang, Chao Xu, Qijun Chen
                 <br>
-                <i>CVPR 2019</i>
+                <i><B>CVPR</B> 2019</i>
             </td>
         </tr>
     </table>
@@ -310,7 +310,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Holger Caesar, Vittorio Ferrari
                 <br>
-                <i>ICCV 2017</i>
+                <i><B>ICCV</B> 2017</i>
                 <br>
                 [<a href="http://www.google.com/url?q=http%3A%2F%2Fcalvin.inf.ed.ac.uk%2Fwp-content%2Fuploads%2FPublications%2Fshi17iccv-supp.pdf&sa=D&sntz=1&usg=AFQjCNHKf1L66BlBVgyzXt9xqSKti2Zjtg">sup</a>]
             </td>
@@ -336,7 +336,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Vittorio Ferrari
                 <br>
-                <i>ECCV 2016</i>
+                <i><B>ECCV</B> 2016</i>
             </td>
         </tr>
     </table>
@@ -360,7 +360,7 @@ show_sidebar: false
                 <br>
                 Yunhe Wang, <B>Miaojing Shi</B>, Shan You, Chao Xu
                 <br>
-                <i>Transactions on Image Processing</i>
+                <B><i>Transactions on Image Processing</i></B>
             </td>
         </tr>
     </table>
@@ -382,9 +382,9 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu
+                Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu(*Co-first author) 
                 <br>
-                <i>Transactions on Multimedia</i>
+                <B><i>Transactions on Multimedia</i></B>
             </td>
         </tr>
     </table>
@@ -408,7 +408,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Yannis Avrithis, Hervé Jégou
                 <br>
-                <i>CVPR 2015</i>
+                <i><B>CVPR</B> 2015</i>
             </td>
         </tr>
     </table>
@@ -432,7 +432,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Teddy Furon, Hervé Jégou
                 <br>
-                <i>ACM MM 2014(Oral)</i>
+                <i><B>ACM MM</B> 2014(Oral)</i>
                 <br>
                 [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1nt1fu7R&sa=D&sntz=1&usg=AFQjCNEUkYzMtuQu0f4WIyCKVD-ksWHLZw">code</a>]
                 [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1mgkm1YS%2F&sa=D&sntz=1&usg=AFQjCNH0qTDn7pRC3W8fyzzG1941jQekUg">data</a>]
@@ -458,7 +458,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Ruixin Xu, Dacheng Tao, and Chao Xu
                 <br>
-                <i>Transactions on Image Processing</i>
+                <B><i>Transactions on Image Processing</i></B>
                 <br>
             </td>
         </tr>
@@ -482,7 +482,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu
                 <br>
-                <i>ACM MM 2012(Oral)</i>
+                <i><B>ACM MM</B> 2012(Oral)</i>
                 <br>
             </td>
         </tr>

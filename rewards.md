@@ -10,10 +10,10 @@ show_sidebar: false
 [Restarting the Economy in Support of Environment, through Technology.](https://cordis.europa.eu/project/id/101017857)
 
 - **2020.09 - 2021.09** Co-Principal Investigator, **King's Together Grant** (£18K)
-[<i id="award-01" style="color:gray" aria-hidden="true">more</i>]
+[<i id="award-01" style="color:red" aria-hidden="true">more</i>]
 
 - **2019.01 - 2020.12** Principal Investigator, **China National Natural Science Fund for Overseas Scholars** (¥180K)
-[<i id="award-02" style="color:gray" aria-hidden="true">more</i>]
+[<i id="award-02" style="color:red" aria-hidden="true">more</i>]
 
 <div id="detail-01" class="modal">
   <div class="modal-background"></div>

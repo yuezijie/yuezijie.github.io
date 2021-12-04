@@ -6,26 +6,28 @@ show_sidebar: false
 ---
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
+<Body>
 We are always looking for excellent researchers, including interns, PhDs, Post-docs, and visiting students to work with us on computer vision and multimmedia projects.
 
-If you are interested, feel free to drop an messgae to Dr. Shi **miaojing.shi@kcl.ac.uk**.
+If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@kcl.ac.uk</B>.
 
-- 06/2022 [<B>Open</B>] One UK PhD position on visual recognition with minimal supervision.
-[<i id="opportunity-03" style="color:gray" aria-hidden="true">more</i>]
+</Body>
+
+- 12/2021 [<B>Open</B>] One UK PhD position on visual recognition with minimal supervision.
+[<i id="opportunity-03" style="color:red" aria-hidden="true">more</i>]
 
 - 11/2021 [<B>Open</B>] We have two PhD projects opened at EPSRC CDT Smart Medical Imaging for 2022 intake: (1) <a href="https://www.imagingcdt.com/project/exploiting-multi-task-learning-for-endoscopic-vision-in-robotic-surgery/"> Exploiting multi-task learning for endoscopic vision in robotic surgery.</a> (2) <a href="https://www.imagingcdt.com/project/ai-enabled-assessment-of-cardiac-function-from-echocardiography/"> AI-Enabled Assessment of Cardiac Function from Echocardiography.</a> <B> International applicants are welcomed!</B> 
 
 - 08/2021 [<B>Closed</B>] One post-doc position in computer vision and remote sensing imagery.
-[<i id="opportunity-05" style="color:gray" aria-hidden="true">more</i>]
+[<i id="opportunity-05" style="color:red" aria-hidden="true">more</i>]
 
 - 07/2021 [<B>Closed</B>] One UK PhD position on exploiting multi-task learning for endoscopic vision in robotic surgery.
-[<i id="opportunity-04" style="color:gray" aria-hidden="true">more</i>]
+[<i id="opportunity-04" style="color:red" aria-hidden="true">more</i>]
 
 - 05/2021 [<B>Closed</B>] One UK PhD position as a joint of BMEIS and NMS  at King's.
-[<i id="opportunity-02" style="color:gray" aria-hidden="true">more</i>]
+[<i id="opportunity-02" style="color:red" aria-hidden="true">more</i>]
 - 05/2021 [<B>Closed</B>] One UK PhD postion open at EPSRC CDT Smart Medical Imaging.
-[<i id="opportunity-01" style="color:gray" aria-hidden="true">more</i>]
+[<i id="opportunity-01" style="color:red" aria-hidden="true">more</i>]
 
 
 
@@ -99,8 +101,6 @@ If you are interested, feel free to drop an messgae to Dr. Shi **miaojing.shi@kc
         <h1>Title</h1>
         <p>Visual recognition with limited supervision in deep learning context</p>
         <h2>Content</h2>
-        <p>Details here: <a href="https://www.kcl.ac.uk/study/funding/visual-recognition-with-minimal-supervision-in-deep-learning"> https://www.kcl.ac.uk/study/funding/visual-recognition-with-minimal-supervision-in-deep-learning</a> <br>
-        <br>
         The goal of this PhD is to study object detection/segmentation in images or video with limited supervision. This task will be placed into a setting where only image-level annotation is provided. To begin, additional supervision such as clicks, strokes, or bounding boxes may also be assumed. Towards the end of the PhD, the student is expected to work with datasets of mixed levels of supervision, including a harder, semi-supervised setting where there are only a few image-level labels as well as a large amount of unlabeled images. Few-shot learning is another challenging direction to explore. <br>
         <br>
         Several ideas can be investigated in the context of deep learning. For instance, generative adversarial learning can be employed to either augment the dataset or bridge the predicted detections with their ground truth. Recurrent neural networks can be applied to video segmentation in particular to localize and segment semantic parts across nearby frames. On unstructured image datasets, ideas like random-walk label propagation can be extended across pairs or groups of images. Deep metric learning and cross-category transfer learning can be studied in a few-shot scenario. <br>
