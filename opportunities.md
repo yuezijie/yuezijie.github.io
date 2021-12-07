@@ -29,6 +29,12 @@ If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@k
 - 05/2021 [<B>Closed</B>] One UK PhD postion open at EPSRC CDT Smart Medical Imaging.
 [<i id="opportunity-01" style="color:red" aria-hidden="true">more</i>]
 
+- 11/2020 [<B>Closed</B>] One funded PhD positions on medical imaging processing.
+[<i id="opportunity-00" style="color:red" aria-hidden="true">more</i>]
+
+- 10/2020 [<B>Closed</B>] One funded research assistant!
+[<i id="opportunity--01" style="color:red" aria-hidden="true">more</i>]
+
 
 
 <div id="detail-05" class="modal">
@@ -101,7 +107,7 @@ If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@k
         <h1>Title</h1>
         <p>Visual recognition with limited supervision in deep learning context</p>
         <h2>Content</h2>
-        The goal of this PhD is to study object detection/segmentation in images or video with limited supervision. This task will be placed into a setting where only image-level annotation is provided. To begin, additional supervision such as clicks, strokes, or bounding boxes may also be assumed. Towards the end of the PhD, the student is expected to work with datasets of mixed levels of supervision, including a harder, semi-supervised setting where there are only a few image-level labels as well as a large amount of unlabeled images. Few-shot learning is another challenging direction to explore. <br>
+        <p>The goal of this PhD is to study object detection/segmentation in images or video with limited supervision. This task will be placed into a setting where only image-level annotation is provided. To begin, additional supervision such as clicks, strokes, or bounding boxes may also be assumed. Towards the end of the PhD, the student is expected to work with datasets of mixed levels of supervision, including a harder, semi-supervised setting where there are only a few image-level labels as well as a large amount of unlabeled images. Few-shot learning is another challenging direction to explore. <br>
         <br>
         Several ideas can be investigated in the context of deep learning. For instance, generative adversarial learning can be employed to either augment the dataset or bridge the predicted detections with their ground truth. Recurrent neural networks can be applied to video segmentation in particular to localize and segment semantic parts across nearby frames. On unstructured image datasets, ideas like random-walk label propagation can be extended across pairs or groups of images. Deep metric learning and cross-category transfer learning can be studied in a few-shot scenario. <br>
         <br>
@@ -109,8 +115,7 @@ If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@k
         <br>
         This is a UK studentship for three years. The target starting date is Oct. 2021. The PhD will be supervised by Dr Miaojing Shi and Dr Michael Spratling. Work will be carried out within the Department of Informatics, King’s College London. More details can be found here: <a href="https://www.kcl.ac.uk/informatics/postgraduate/research-degrees"> https://www.kcl.ac.uk/informatics/postgraduate/research-degrees.</a> <br>
         <br>
-        Application Instructions: Candidates are requested to send an initial expression of interest to me (miaojing.shi@kcl.ac.uk ) preferably with updated CV and motivation letter.
-        </p>
+        Application Instructions: Candidates are requested to send an initial expression of interest to me (miaojing.shi@kcl.ac.uk ) preferably with updated CV and motivation letter.</p>
       </div>
     </section>
     <footer class="modal-card-foot">
@@ -164,6 +169,53 @@ If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@k
   </div>
 </div>
 
+<div id="detail-00" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Opportunity</p>
+      <button class="delete" id="top-close-00" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h1>Title</h1>
+        <p>Semi-supervised detection and tracking of instruments for robotic surgery guidance  </p>
+        <h2>Content</h2>
+        <p>Details here: <a href="https://www.imagingcdt.com/project/semi-supervised-detection-and-tracking-of-instruments-for-robotic-surgery-guidance/">   https://www.imagingcdt.com/project/semi-supervised-detection-and-tracking-of-instruments-for-robotic-surgery-guidance/ </a>
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-00">Close</button>
+    </footer>
+  </div>
+</div>
+
+<div id="detail--01" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Opportunity</p>
+      <button class="delete" id="top-close--01" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h1>Title</h1>
+        <p>Remote sensing and machine learning to detect global dams and associated reservoirs</p>
+        <h2>Content</h2>
+        <p>This project is supported by King’s Together: Multi & Interdisciplinary Research Scheme which brings expertise from both Informatics and Geography to work on developing new machine learning approaches linked with (new) remote sensing data sources. Our focus will be to develop algorithms to separate dammed reservoirs from the millions of other water bodies on Earth. Pilot studies that we have carried out in the Volta and Limpopo basins indicate that dammed reservoirs tend to have a triangular or elongate triangular shape, whereas natural reservoirs tend to be round. The goal of this RA is thus to employ machine learning techniques, e.g. deep neural networks, to detect and recognize dammed reservoirs in remote sensing imagery. By identifying water bodies spectrally in earth observation imagery and then analysing their shape we hope to extend our database of large and medium sized dams to the many millions of small dams important for smallholder irrigation.<br>
+        <br>
+        The selected RA will be mainly responsible to develop computer vision algorithms for the detection of dammed reservoirs in satellite images. Work will be carried out within the Department of Informatics, King’s College London. The RA will be working with Dr. Miaojing Shi (miaojing.shi@kcl.ac.uk Informatics), Dr. Arnout Van Soesbergen and Dr. Mark Mulligan (Geography). <br>
+        <br>
+        The candidate should ideally have a master degree in Computer Science, or Electrical Engineering; solid mathematical background and programming skills; preferably, prior experience in computer vision, machine learning and deep learning.</p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close--01">Close</button>
+    </footer>
+  </div>
+</div>
+
 
 <script>
 $("#opportunity-05").click(function() {
@@ -210,6 +262,24 @@ $("#top-close-01").click(function() {
 });
 $("#close-01").click(function() {
    $("#detail-01").removeClass("is-active");
+});
+$("#opportunity-00").click(function() {
+   $("#detail-00").addClass("is-active");
+});
+$("#top-close-00").click(function() {
+   $("#detail-00").removeClass("is-active");
+});
+$("#close-00").click(function() {
+   $("#detail-00").removeClass("is-active");
+});
+$("#opportunity--01").click(function() {
+   $("#detail--01").addClass("is-active");
+});
+$("#top-close--01").click(function() {
+   $("#detail--01").removeClass("is-active");
+});
+$("#close--01").click(function() {
+   $("#detail--01").removeClass("is-active");
 });
 
 </script>

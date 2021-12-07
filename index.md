@@ -41,4 +41,4 @@ show_sidebar: false
 - **Jul. 2021** One paper accepted on Pattern Recognition
 - **Jun. 2021** One paper accepted to ISWC 2021
 
-[[more news]](https://sites.google.com/site/miaojingshi/home/news)
+[more news](/news/)
