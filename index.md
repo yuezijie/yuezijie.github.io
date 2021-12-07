@@ -6,14 +6,24 @@ show_sidebar: false
 ---
 
 <Body>
-    <div>
-    <B>Welcome to the Visual Computing (VisCom) research team. We are part of the Informatics at King’s College London.</B>
-    </div>
-    <div>
-        Our research field is <i>computer vision</i> and <i>multimedia computing</i>.
-        We are interested in a wide range of topics, and our current focus is on 
-        visual learning and understanding with multi-task and limited supervision. 
-    </div>
+    <table>
+        <tr>
+            <td>
+                <div>
+                            <B>Welcome to the Visual Computing (VisCom) research team. We are part of the Informatics at King’s College London.</B>
+                </div>
+                <div>
+                    Our research field is <i>computer vision</i> and <i>multimedia computing</i>.
+                    We are interested in a wide range of topics, and our current focus is on 
+                    visual learning and understanding with multi-task and limited supervision. 
+                </div>
+            </td>
+            <td width="15%">
+                  <img src="img/logo.jpg">
+            </td>
+        </tr>
+    </table>
+
 </Body>
 
 
