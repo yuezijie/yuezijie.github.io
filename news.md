@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 
 
-- **Dec. 2021**  Dr. Shi become an associate editor for [Autonomous Intelligent Systems](https://www.google.com/url?q=https%3A%2F%2Fwww.springer.com%2Fjournal%2F43684&sa=D&sntz=1&usg=AFQjCNE9AV4remuoK32e8RFo9P0cgyjalQ).
+- **Dec. 2021**  Dr. Shi becomes an associate editor for [Autonomous Intelligent Systems](https://www.google.com/url?q=https%3A%2F%2Fwww.springer.com%2Fjournal%2F43684&sa=D&sntz=1&usg=AFQjCNE9AV4remuoK32e8RFo9P0cgyjalQ).
 - **Nov. 2021**  Dr. Shi was invited for a seminar talk in School of Management, Shanghai University.
 
 
@@ -21,9 +21,9 @@ show_sidebar: false
 - **May. 2021** We have one UK PhD position open as a joint of BMEIS and NMS at King's: [Fairness in AI for Cardiac Imaging](https://www.kcl.ac.uk/study-legacy/funding/fairness-in-ai-for-cardiac-imaging)!!
 - **May. 2021** We have one UK PhD position open at EPSRC CDT Smart Medical Imaging: [AI-Enabled Assessment of Cardiac Function from Echocardiography](https://www.imagingcdt.com/project/ai-enabled-assessment-of-cardiac-function-from-echocardiography/).
 - **Apr-May. 2021** Dr. Shi was invited to give lectures on deep learning and computer vision for postgraduates at Tongji University.
-- **Nov. 2020** Master student <B>Mr. WANG Jun</B> has won the prize for the <B>best overall performance on the MSc in Artificial Intelligence at King's.</B> Congrats!
+- **Nov. 2020** Our master student <B>Mr. WANG Jun</B> has won the prize for the <B>best overall performance on the MSc in Artificial Intelligence at King's.</B> Congrats!
 - **Nov. 2020** Two papers accepted on <B>WACV 2021</B>: 1) [Fast Fourier Intrinsic Network](https://arxiv.org/abs/2011.04612v1); 2) [Detecting Human-Object Interaction with Mixed Supervision](https://arxiv.org/abs/2011.04971). They are collaborated with Tampere University, Czech Technical University, and INRIA Rennes!
-- **Oct. 2020** [EU-H2020](https://ec.europa.eu/programmes/horizon2020/en) research grant <B>RESET</B> accepted!! The grant topic is <B>Restarting the Economy in Support of Environment, through Technology</B>. It is a three-year project with Mark Mulligan from the Department of Geography, KCL and other five consortiums. I will <B>RECRUIT</B> one <B>POSTDOC</B> starting from 2021 working on machine learning algorithms in remote sensing imagery and time series data. Details later!
+- **Oct. 2020** [EU-H2020](https://ec.europa.eu/programmes/horizon2020/en) research grant <B>RESET</B> accepted!! The grant topic is <B>Restarting the Economy in Support of Environment, through Technology</B>. It is a three-year project with Mark Mulligan from the Department of Geography, KCL and other five consortiums. We will <B>RECRUIT</B> one <B>POSTDOC</B> starting from 2021 working on machine learning algorithms in remote sensing imagery and time series data. Details later!
 - **Sep. 2020** One paper accepted on <B>NeurIPS 2020</B> -[Restoring Negative Information in Few-Shot Object Detection](https://arxiv.org/abs/2010.11714)- This is a collaboration with Microsoft Research Asia and Tsinghua University.
 - **Jul. 2020** Two full papers accepted on <B>ACM MM 2020</B>: 1) [Towards Unsupervised Crowd Counting via Regression-Detection Bi-knowledge Transfer](https://arxiv.org/abs/2008.05383) (Oral); 2) [Defending Adversarial Examples via DNN Bottleneck Reinforcement](https://arxiv.org/abs/2008.05230). They are collaborated with Sichuan University, NII Japan, INRIA Rennes, and Tongji University!
 - **Jul. 2020** Together with Mark Mulligan from Department of Geography, we obtained a <B>King’s Together Multi and Interdisciplinary Research Fund</B> since this September. Dr. Shi will <B>RECRUIT a Research Assistant working</B> on "<i>Remote sensing and machine learning to detect global dams and associated reservoirs</i>". <B>Job post</B> [here](https://sites.google.com/site/miaojingshi/home/opportunities)!

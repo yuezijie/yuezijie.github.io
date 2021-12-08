@@ -48,7 +48,7 @@ show_sidebar: false
     <br>
     <B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl
     <br>
-    <B><i>ISWC</i></B>
+    <B><i>ISWC 2021</i></B>
     <br>
     [<a href="https://github.com/WikidataRec-developer/Wikidata_Recommender">code</a>]
     </td>
@@ -75,7 +75,7 @@ show_sidebar: false
                 <br>
                 Yanlin Qian, <B>Miaojing Shi</B>, Joni-Kristian Kamarainen, Jiri Matas
                 <br>
-                <i><B>WACV</B>, 2021</i>
+                <i><B>WACV 2021</B></i>
         </td>
     </tr>
 </table>
@@ -101,7 +101,7 @@ show_sidebar: false
                     <br>
                     Suresh Kirthi Kumaraswamy, <B>Miaojing Shi</B>, Ewa Kijak
                     <br>
-                    <i><B>WACV</B>, 2021</i>
+                    <i><B>WACV 2021</B></i>
                     <br>
                     [<a href="https://drive.google.com/file/d/1e8blTrz7gXvqkLvOwq3q2u5eKPVQSbBo/view?usp=sharing">sup</a>]
             </td>
@@ -129,7 +129,7 @@ show_sidebar: false
                 <br>
                 Yukuan Yang, Fangyu Wei, <B>Miaojing Shi</B>, Guoqi Li
                 <br>
-                <i><B>NeurIPS</B> 2020</i>
+                <i><B>NeurIPS 2020</B></i>
                 <br>
                 [<a href="https://github.com/yang-yk/NP-RepMet">code</a>]
             </td>
@@ -156,7 +156,7 @@ show_sidebar: false
                 <br>
                 Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li(*Co-first author) 
                 <br>
-                <i><B>ACM MM</B> 2020</i>
+                <i><B>ACM MM 2020</B></i>
                 <br>
                 [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FLiuWenQingS%2FDefending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement&sa=D&sntz=1&usg=AFQjCNEBbRiaP9OGmq2S9JODRUmvLSCAkA">code</a>]
             </td>

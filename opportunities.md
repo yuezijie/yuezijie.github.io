@@ -7,9 +7,9 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <Body>
-We are always looking for excellent researchers, including interns, PhDs, Post-docs, and visiting students to work with us on computer vision and multimmedia projects.
+We are always looking for excellent researchers, including interns, PhDs, post-docs, and visiting students to work with us on computer vision and multimedia projects.
 
-If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@kcl.ac.uk</B>.
+If you are interested, feel free to drop an message to Dr. Shi <B>miaojing.shi@kcl.ac.uk</B>.
 
 </Body>
 
@@ -79,7 +79,7 @@ If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@k
         <h2>Content</h2>
         <p>Multi-task learning is common in deep learning, where clear evidence shows that jointly learning correlated tasks can improve on individual performances. Notwithstanding, in reality, many tasks are processed independently. The reasons are manifold: 1) many tasks are not strongly correlated, benefits might be obtained for only one or none of the tasks in joint learning; 2) the scalability of learning multiple tasks is limited with the number of tasks in terms of both network optimization and practical implementation. Having a scalable and robust multi-task learning strategy however is very meaningful and of substantial potential in many real applications, i.e. endoscopic image processing. This project studies multi-task learning in endoscopic vision for robotic surgery with a particular focus on depth and optical flow estimation, surgical instrument detection and anatomy recognition, as well as surgical action recognition. The aim is to design effective multi-task learning strategies to improve the performance on all tasks.<br>
         <br>
-        Candidates are requested to send an initial expression of interest to me (miaojing.shi@kcl.ac.uk ).</p>
+        Candidates are requested to send an initial expression of interest to Dr.Shi (miaojing.shi@kcl.ac.uk ).</p>
         <p>
         <figure>
           <img src="../img/opportunities/opportunity-04.jpg">
@@ -113,7 +113,7 @@ If you are interested, feel free to drop an messgae to Dr. Shi <B>miaojing.shi@k
         <br>
         The candidate should ideally have a master degree in Computer Science, Applied Mathematics or Electrical Engineering; solid mathematical background and programming skills; fluency in English language; preferably, prior experience in computer vision, machine learning and deep learning. <br>
         <br>
-        This is a UK studentship for three years. The target starting date is Oct. 2021. The PhD will be supervised by Dr Miaojing Shi and Dr Michael Spratling. Work will be carried out within the Department of Informatics, King’s College London. More details can be found here: <a href="https://www.kcl.ac.uk/informatics/postgraduate/research-degrees"> https://www.kcl.ac.uk/informatics/postgraduate/research-degrees.</a> <br>
+        This is a UK studentship for three years. The target starting date is Oct. 2022. The PhD will be supervised by Dr Miaojing Shi and Dr Michael Spratling. Work will be carried out within the Department of Informatics, King’s College London. More details can be found here: <a href="https://www.kcl.ac.uk/informatics/postgraduate/research-degrees"> https://www.kcl.ac.uk/informatics/postgraduate/research-degrees.</a> <br>
         <br>
         Application Instructions: Candidates are requested to send an initial expression of interest to me (miaojing.shi@kcl.ac.uk ) preferably with updated CV and motivation letter.</p>
       </div>
