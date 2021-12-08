@@ -17,7 +17,7 @@ show_sidebar: false
         </td>
         <td>
         <a href="https://arxiv.org/pdf/1912.00384">
-        <font style="color: #aa2116;font-weight: bold">Training object detectors from few weakly-labeled and many unlabeled images</font>
+        <font style="color: #aa2116;font-weight: bold">Training Object Detectors from Few Weakly-labeled and Many Unlabeled Images</font>
         </a>
         <br>
         Zhaohui Yang, <B>Miaojing Shi</B>, Chao Xu, Vittorio Ferrari, Yannis Avrithis
@@ -43,7 +43,7 @@ show_sidebar: false
             </td>
     <td>
     <a href="https://arxiv.org/pdf/2107.06423">
-    <font style="color: #aa2116;font-weight: bold">Learning to recommend items to wikidata editors</font>
+    <font style="color: #aa2116;font-weight: bold">Learning to Recommend Items to Wikidata Editors</font>
     </a>
     <br>
     <B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl
@@ -154,7 +154,7 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li(*Co-first author) 
+                Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li(<B>*Co-first author</B>) 
                 <br>
                 <i><B>ACM MM 2020</B></i>
                 <br>
@@ -183,7 +183,7 @@ show_sidebar: false
                 <br>
                 Yuting Liu, Zheng Wang, <B>Miaojing Shi</B>, Shin'ichi Satoh, Qijun Zhao, Hongyu Yang
                 <br>
-                <i><B>ACM MM</B> 2020(Oral)</i>
+                <i><B>ACM MM 2020(Oral)</B></i>
             </td>
         </tr>
     </table>
@@ -205,9 +205,9 @@ show_sidebar: false
                 </font>
                 </a>
                 <br>
-                Zhen Zhao*, <B>Miaojing Shi*</B>, Xiaoxiao Zhao, Li Li(*Co-first author) 
+                Zhen Zhao*, <B>Miaojing Shi*</B>, Xiaoxiao Zhao, Li Li(<B>*Co-first author</B>) 
                 <br>
-                <i><B>ECCV</B> 2020</i>
+                <i><B>ECCV 2020</B></i>
                 <br>
                 [<a href="https://drive.google.com/file/d/1_qh-8N8riKg3hwh8Kz9QL0p5vuHjyfuW/view?usp=sharing">sup</a>]
             </td>
@@ -228,7 +228,7 @@ show_sidebar: false
             <td>
                 <a href="https://hal.inria.fr/hal-02383107/file/1-s2.0-S095741741930541X-main.pdf">
                 <font style="color: #aa2116;font-weight: bold">
-                Friend recommendation for cross marketing in online brand community based on intelligent attention allocation link prediction algorithm
+                Friend Recommendation for Cross Marketing in Online Brand Community based on Intelligent Attention Allocation Link Prediction Algorithm
                 </font>
                 </a>
                 <br>
@@ -260,7 +260,7 @@ show_sidebar: false
                 <br>
                 Yuting Liu, <B>Miaojing Shi</B>, Qijun Zhao, Xiaofang Wang
                 <br>
-                <i><B>CVPR</B> 2019(Oral)</i>
+                <i><B>CVPR 2019(Oral)</B></i>
             </td>
         </tr>
     </table>
@@ -285,7 +285,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Zhaohui Yang, Chao Xu, Qijun Chen
                 <br>
-                <i><B>CVPR</B> 2019</i>
+                <i><B>CVPR 2019</B></i>
             </td>
         </tr>
     </table>
@@ -310,7 +310,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Holger Caesar, Vittorio Ferrari
                 <br>
-                <i><B>ICCV</B> 2017</i>
+                <i><B>ICCV 2017</B></i>
                 <br>
                 [<a href="http://www.google.com/url?q=http%3A%2F%2Fcalvin.inf.ed.ac.uk%2Fwp-content%2Fuploads%2FPublications%2Fshi17iccv-supp.pdf&sa=D&sntz=1&usg=AFQjCNHKf1L66BlBVgyzXt9xqSKti2Zjtg">sup</a>]
             </td>
@@ -330,13 +330,13 @@ show_sidebar: false
             <td>
                 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46454-1_7">
                 <font style="color: #aa2116;font-weight: bold">
-                Weakly supervised object localization using size estimates
+                Weakly Supervised Object Localization Using Size Estimates
                 </font>
                 </a>
                 <br>
                 <B>Miaojing Shi</B>, Vittorio Ferrari
                 <br>
-                <i><B>ECCV</B> 2016</i>
+                <i><B>ECCV 2016</B></i>
             </td>
         </tr>
     </table>
@@ -360,7 +360,7 @@ show_sidebar: false
                 <br>
                 Yunhe Wang, <B>Miaojing Shi</B>, Shan You, Chao Xu
                 <br>
-                <B><i>Transactions on Image Processing</i></B>
+                <B><i>IEEE Transactions on Image Processing</i></B>
             </td>
         </tr>
     </table>
@@ -378,13 +378,13 @@ show_sidebar: false
             <td>
                 <a href="https://kclpure.kcl.ac.uk/portal/files/128588316/Gao2015database_3_.pdf">
                 <font style="color: #aa2116;font-weight: bold">
-                Database saliency for fast image retrieval
+                Database Saliency for Fast Image Retrieval
                 </font>
                 </a>
                 <br>
-                Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu(*Co-first author) 
+                Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu(<B>*Co-first author</B>) 
                 <br>
-                <B><i>Transactions on Multimedia</i></B>
+                <B><i>IEEE Transactions on Multimedia</i></B>
             </td>
         </tr>
     </table>
@@ -408,7 +408,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Yannis Avrithis, Hervé Jégou
                 <br>
-                <i><B>CVPR</B> 2015</i>
+                <i><B>CVPR 2015</B></i>
             </td>
         </tr>
     </table>
@@ -432,7 +432,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Teddy Furon, Hervé Jégou
                 <br>
-                <i><B>ACM MM</B> 2014(Oral)</i>
+                <i><B>ACM MM 2014(Oral)</B></i>
                 <br>
                 [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1nt1fu7R&sa=D&sntz=1&usg=AFQjCNEUkYzMtuQu0f4WIyCKVD-ksWHLZw">code</a>]
                 [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1mgkm1YS%2F&sa=D&sntz=1&usg=AFQjCNH0qTDn7pRC3W8fyzzG1941jQekUg">data</a>]
@@ -458,7 +458,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Ruixin Xu, Dacheng Tao, and Chao Xu
                 <br>
-                <B><i>Transactions on Image Processing</i></B>
+                <B><i>IEEE Transactions on Image Processing</i></B>
                 <br>
             </td>
         </tr>
@@ -482,7 +482,7 @@ show_sidebar: false
                 <br>
                 <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu
                 <br>
-                <i><B>ACM MM</B> 2012(Oral)</i>
+                <i><B>ACM MM 2012(Oral)</B></i>
                 <br>
             </td>
         </tr>
