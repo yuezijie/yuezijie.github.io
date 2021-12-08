@@ -10,7 +10,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-        <td style="width: 30%">
+        <td style="width: 23%">
         <figure>
           <img src="/img/TrainingObjectDetectors.png">
         </figure>
@@ -36,7 +36,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
             <figure>
               <img src="/img/LearningtoRecommend.png">
             </figure>
@@ -63,7 +63,7 @@ show_sidebar: false
 <div>
 <table>
     <tr>
-    <td style="width: 30%">
+    <td style="width: 23%">
                 <figure>
                   <img src="/img/FFIntrinsic.png">
                 </figure>
@@ -87,7 +87,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                         <figure>
                           <img src="/img/DetectHumanObjInteraction.png">
                         </figure>        
@@ -115,7 +115,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                         <figure>
                           <img src="/img/RestoreNeg.png">
                         </figure>        
@@ -142,7 +142,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/DefendingAdv.png">
                 </figure>        
@@ -169,7 +169,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/TowardsUnsup.png">
                 </figure>        
@@ -193,7 +193,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/ActiveCC.png">
                 </figure>        
@@ -220,7 +220,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/FriendRec.png">
                 </figure>        
@@ -246,7 +246,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/PointIn.png">
                 </figure>        
@@ -271,7 +271,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/RevisitingPers.png">
                 </figure>        
@@ -292,11 +292,35 @@ show_sidebar: false
 </div>
 
 
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/ScaleAdapCNN.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://arxiv.org/pdf/1711.04433.pdf">
+                <font style="color: #aa2116;font-weight: bold">
+                Crowd Counting via Scale-Adaptive Convolutional Neural Network
+                </font>
+                </a>
+                <br>
+                Lu Zhang*, <B>Miaojing Shi*</B>, Qiaobo Chen(<B>*Co-first author</B>)
+                <br>
+                <i><B>WACV 2018</B></i>
+                <br>
+                [<a href="https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu">code</a>]
+            </td>
+        </tr>
+    </table>
+</div>
 
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/UsingThingsandStuffTran.png">
                 </figure>        
@@ -322,7 +346,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/SizeEstimates.png">
                 </figure>        
@@ -346,7 +370,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/DCTInspired.png">
                 </figure>        
@@ -370,7 +394,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/DatabaseSaliency.png">
                 </figure>        
@@ -394,7 +418,7 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/EarlyBurst.png">
                 </figure>        
@@ -414,11 +438,57 @@ show_sidebar: false
     </table>
 </div>
 
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/LocalitySensitiveHarshing.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://drive.google.com/file/d/0ByXxql-6aZjybjBFNC1WT0UxNlk/view?resourcekey=0-xnKw6rPuHah_sIIJ4fORwg">
+                <font style="color: #aa2116;font-weight: bold">
+                Supervised Multi-scale Locality Sensitive Hashing
+                </font>
+                </a>
+                <br>
+                Li Weng, I-Hong Jhuo, <B>Miaojing Shi</B>, Meng Sun, Wen-Huang Cheng, Laurent Amsaleg. 
+                <br>
+                <i><B>ICMR 2015</B></i>
+            </td>
+        </tr>
+    </table>
+</div>
+
 
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/ExploreSpatialCorre.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://www.researchgate.net/profile/Miaojing-Shi/publication/263711970_Exploring_Spatial_Correlation_for_Visual_Object_Retrieval/links/00b4953bbb8d01abce000000/Exploring-Spatial-Correlation-for-Visual-Object-Retrieval.pdf">
+                <font style="color: #aa2116;font-weight: bold">
+                Exploring Spatial Correlation for Visual Object Retrieval
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu, George Baciu, Hong Liu. 
+                <br>
+                <i><B>ACM Transactions on Intelligent Systems and Technology (TIST)</B></i>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/GroupTesting.png">
                 </figure>        
@@ -441,10 +511,62 @@ show_sidebar: false
     </table>
 </div>
 
+
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/SaliencyOriented.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://ieeexplore.ieee.org/abstract/document/7049999">
+                <font style="color: #aa2116;font-weight: bold">
+                Saliency oriented object image re-ranking
+                </font>
+                </a>
+                <br>
+                Chao Xu, Yuan Gao, <B>Miaojing Shi</B>. 
+                <br>
+                <i><B>IEEE Electronics Circuits and Systems (ICECS) , 2014
+                 </B></i>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/BioGeoVec.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://cmjournal.biomedcentral.com/articles/10.1186/1749-8546-9-7">
+                <font style="color: #aa2116;font-weight: bold">
+                Computerized Tongue Image Segmentation via Double Geo-Vector Flow
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, GZ. Li, Fufeng Li, Chao Xu. 
+                <br>
+                <i><B>BMC Chinese Medicine
+                 </B></i>
+                <br>
+                [<a href="https://www.google.com/url?q=https%3A%2F%2Fstatic-content.springer.com%2Fesm%2Fart%253A10.1186%252F1749-8546-9-7%2FMediaObjects%2F13020_2013_201_MOESM1_ESM.zip&sa=D&sntz=1&usg=AFQjCNHjuWyhRI2QeafzmLXGhd79x6oo_g">code</a>]
+                [<a href="https://www.google.com/url?q=https%3A%2F%2Fstatic-content.springer.com%2Fesm%2Fart%253A10.1186%252F1749-8546-9-7%2FMediaObjects%2F13020_2013_201_MOESM2_ESM.zip&sa=D&sntz=1&usg=AFQjCNEQeUwviCkLGEGusrY8KeR4ZXpfVQ">data</a>]
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/W-TreeIndex.png">
                 </figure>        
@@ -468,7 +590,32 @@ show_sidebar: false
 <div>
     <table>
         <tr>
-            <td style="width: 30%">
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/C2G2Snake.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://www.researchgate.net/publication/257686487_C2G2FSnake_Automatic_tongue_image_segmentation_utilizing_prior_knowledge">
+                <font style="color: #aa2116;font-weight: bold">
+                C2G2FSnake: Automatic Tongue image segmentation utilizing prior knowledge
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, GZ. Li, Fufeng Li. 
+                <br>
+                <i><B>SCIENCE CHINA: Information Science</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
                 <figure>
                    <img src="/img/ExploitingWord.png">
                 </figure>        
@@ -483,6 +630,200 @@ show_sidebar: false
                 <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu
                 <br>
                 <i><B>ACM MM 2012(Oral)</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/DoubleGeodesicFlow.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://www.researchgate.net/publication/260982990_A_novel_tongue_segmentation_approach_utilizing_double_geodesic_flow">
+                <font style="color: #aa2116;font-weight: bold">
+                A Novel Tongue Image Segmentation Approach via Double Geodesic Flow
+                </font>
+                </a>
+                <br>
+                <B>Miaojing Shi</B>, GZ. Li, Fufeng Li, Chao Xu. 
+                <br>
+                <i><B>IEEE Computer Science& Education (ICCSE) ,2012</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td style="width: 23%">
+                <figure>
+                   <img src="/img/SpatialNeighbor.png">
+                </figure>        
+            </td>
+            <td>
+                <a href="https://ieeexplore.ieee.org/document/6011893">
+                <font style="color: #aa2116;font-weight: bold">
+                Fast visual word quantization via spatial neighborhood boosting
+                </font>
+                </a>
+                <br>
+                Ruixin Xu, <B>Miaojing Shi</B>, Bo Geng, Chao Xu
+                <br>
+                <i><B>IEEE Multimedia and Expo (ICME), 2011.</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+### Other papers/patents
+----------------------------------------
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.hindawi.com/journals/cin/2019/1240162/">
+                <font style="color: #aa2116;font-weight: bold">
+                A selective biogeography-based optimizer considering resource allocation for large-scale global optimization
+                </font>
+                </a>
+                <br>
+                Meiji Cui, Li Li, <B>Miaojing Shi</B>.   
+                <br>
+                <i><B>Computational Intelligence and Neuroscience, 2019.  </B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.researchgate.net/publication/334105452_Select_the_potential_brand_spokesperson_on_social_network_based_on_the_smart_link_prediction">
+                <font style="color: #aa2116;font-weight: bold">
+                Select the potential brand spokesperson on social network based on the smart link prediction
+                </font>
+                </a>
+                <br>
+                Nannan Cai, Shugang Li, Zhaoxu Yu, <B>Miaojing Shi</B>.  
+                <br>
+                <i><B>Journal of Intelligent & Fuzzy Systems, 2019.   </B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.researchgate.net/profile/Miaojing-Shi/publication/260984462_Intelligent_parking_guidance_system_based_on_wireless_sensor_networks/links/00b7d53c00646bed81000000/Intelligent-parking-guidance-system-based-on-wireless-sensor-networks.pdf">
+                <font style="color: #aa2116;font-weight: bold">
+                Intelligent Parking Guidance System Based on Wireless Sensor Network
+                </font>
+                </a>
+                <br>
+                Yan Liu, Xiaoping Zou, <B>Miaojing Shi</B>, Guangtao Zhuang.    
+                <br>
+                <i><B>International Conference on Cloud Computing and Intelligence Systems,  2012. </B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://www.researchgate.net/publication/260984299_Visual_words_refining_exploiting_spatial_co-occurrence_table">
+                <font style="color: #aa2116;font-weight: bold">
+                Visual words refining exploiting spatial co-occurrence table
+                </font>
+                </a>
+                <br>
+                Yunhe Wang, <B>Miaojing Shi</B>, Yuan Gao, Chao Xu.       
+                <br>
+                <i><B>Global High Tech Congress on Electronics (GHTCE), 2013.</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://drive.google.com/file/d/0ByXxql-6aZjyQkU0cFlUZXk5MU0/view">
+                <font style="color: #aa2116;font-weight: bold">
+                基于概率预测的视觉词语产生算法
+                </font>
+                </a>
+                <br>
+                <B>史淼晶</B>，徐蕊鑫，许超       
+                <br>
+                <i><B>中国图像与图形报</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://drive.google.com/file/d/0ByXxql-6aZjyX1pvSEREcGFLckU/view">
+                <font style="color: #aa2116;font-weight: bold">
+                舌体图像分割技术的实验实验分析与改进
+                </font>
+                </a>
+                <br>
+                李国正，<B>史淼晶</B>，李福凤，王忆勤        
+                <br>
+                <i><B>山东大学学报（工学版）</B></i>
+                <br>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+<div>
+    <table>
+        <tr>
+            <td>
+                <a href="https://patents.google.com/patent/CN102799614A/zh">
+                <font style="color: #aa2116;font-weight: bold">
+                舌体图像分割技术的实验实验分析与改进
+                </font>
+                </a>
+                <br>
+                <B>史淼晶</B>，徐蕊鑫，许超      
+                <br>
+                <i><B>北京大学, 专利号：201210199158.7, 2012 </B></i>
                 <br>
             </td>
         </tr>
