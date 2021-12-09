@@ -19,11 +19,11 @@ show_sidebar: false
         <a href="https://arxiv.org/pdf/1912.00384">
         <font style="color: #aa2116;font-weight: bold">Training Object Detectors from Few Weakly-labeled and Many Unlabeled Images</font>
         </a>
-        <div style="margin-top: 5px">Zhaohui Yang, <B>Miaojing Shi</B>, Chao Xu, Vittorio Ferrari, Yannis Avrithis</div>
-        <div style="margin-top: 5px;">
+        <div style="margin-top: 10px">Zhaohui Yang, <B>Miaojing Shi</B>, Chao Xu, Vittorio Ferrari, Yannis Avrithis</div>
+        <div style="margin-top: 10px;">
             <B><i>Pattern Recognition</i></B>
         </div>
-        <div style="margin-top: 5px">
+        <div style="margin-top: 10px">
         [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">code</a>]
         </div>
         </td>
@@ -38,19 +38,19 @@ show_sidebar: false
 <table>
     <tr>
             <td style="width: 23%">
-            <figure style="width: 80%;margin: auto">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/LearningtoRecommend.png">
             </figure>
             </td>
     <td>
-    <div style="margin-top: 5px">
+    <div style="margin-top: 10px">
     <a href="https://arxiv.org/pdf/2107.06423">
     <font style="color: #aa2116;font-weight: bold">Learning to Recommend Items to Wikidata Editors</font>
     </a>
     </div>
-    <div style="margin-top: 5px"><B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl</div>
-    <div style="margin-top: 5px"><B><i>ISWC 2021</i></B></div>
-    <div style="margin-top: 5px">[<a href="https://github.com/WikidataRec-developer/Wikidata_Recommender">code</a>]</div>
+    <div style="margin-top: 10px"><B>Kholoud AlGhamdi</B>, <B>Miaojing Shi</B>, Elena Simperl</div>
+    <div style="margin-top: 10px"><B><i>ISWC 2021</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/WikidataRec-developer/Wikidata_Recommender">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -64,20 +64,20 @@ show_sidebar: false
 <table>
     <tr>
     <td style="width: 23%">
-                <figure>
+                <figure style="width: 70%;margin: auto">
                   <img src="/img/FFIntrinsic.png">
                 </figure>
     </td>
         <td>
-        <div style="margin-top: 5px">
+        <div style="margin-top: 10px">
                 <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Qian_Fast_Fourier_Intrinsic_Network_WACV_2021_paper.pdf">
                 <font style="color: #aa2116;font-weight: bold">Fast Fourier Intrinsic Network</font>
                 </a>
         </div>
-        <div style="margin-top: 5px">
+        <div style="margin-top: 10px">
                 Yanlin Qian, <B>Miaojing Shi</B>, Joni-Kristian Kamarainen, Jiri Matas
         </div>
-        <div style="margin-top: 5px"><i><B>WACV 2021</B></i></div>
+        <div style="margin-top: 10px"><i><B>WACV 2021</B></i></div>
         </td>
     </tr>
 </table>
@@ -90,24 +90,24 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                        <figure>
+                        <figure style="width: 80%;margin: auto">
                           <img src="/img/DetectHumanObjInteraction.png">
                         </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                     <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Kumaraswamy_Detecting_Human-Object_Interaction_With_Mixed_Supervision_WACV_2021_paper.pdf">
                     <font style="color: #aa2116;font-weight: bold">
                     Detecting Human-Object Interaction with Mixed Supervision
                     </font>
                     </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                     Suresh Kirthi Kumaraswamy, <B>Miaojing Shi</B>, Ewa Kijak
             </div>
-            <div style="margin-top: 5px"><i><B>WACV 2021</B></i>
+            <div style="margin-top: 10px"><i><B>WACV 2021</B></i>
             </div>
-            <div style="margin-top: 5px">[<a href="https://drive.google.com/file/d/1e8blTrz7gXvqkLvOwq3q2u5eKPVQSbBo/view?usp=sharing">sup</a>]</div>
+            <div style="margin-top: 10px">[<a href="https://drive.google.com/file/d/1e8blTrz7gXvqkLvOwq3q2u5eKPVQSbBo/view?usp=sharing">sup</a>]</div>
             </td>
         </tr>
     </table>
