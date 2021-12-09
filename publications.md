@@ -397,7 +397,7 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure style="width: 80%;margin: auto">
+                <figure style="width: 80%;margin: autobundle exec jekyll serve">
                    <img src="/img/DCTInspired.png">
                 </figure>        
             </td>
