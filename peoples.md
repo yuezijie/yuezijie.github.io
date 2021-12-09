@@ -91,11 +91,17 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                          <img src="/img/Photo_ZhipengDu.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Zhipeng Du</p>
+                        <p class="title is-4">Zhipeng Du
+                           <a>
+                              <i id="people-02" aria-hidden="true">
+                                 <ion-icon name="school-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
                         <p class="subtitle is-6">zhipeng.du@kcl.ac.uk</p>
                         <p class="subtitle is-6">(2021-)</p>
                         <p class="subtitle is-6" style="color: #ffffff">&</p>     
@@ -238,7 +244,7 @@ show_sidebar: false
       <div class="content">
         <h2>Meng Wei</h2>
         <p>
-        Meng is is a PhD student in the <a href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.imagingcdt.com%2F&data=04%7C01%7Czhipeng.du%40kcl.ac.uk%7C55e88040047f495dba3308d9bb0eb118%7C8370cf1416f34c16b83c724071654356%7C0%7C0%7C637746494031293155%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=TXMWowIu3HnfawaWEw9YQ%2BI30v2LFSeuIhA%2FzhLnk5Y%3D&reserved=0">EPSRC CDT in Smart Medical Imaging</a> at King’s College London and Imperial College London, supervised by Prof. Tom Vercauteren and Dr. Miaojing Shi. Meng received her undergraduate degree in Telecommunication Engineering from the University of Liverpool in 2020, followed by a Master’s degree focused on medical images, artificial intelligence, and medical robotics at Imperial College London in 2021. Her project is on Semi-supervised detection and tracking of instruments for robotic surgery guidance, and her research interests include deep learning, medical imaging computing, and computer vision.
+        Meng is a PhD student in the <a href="https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.imagingcdt.com%2F&data=04%7C01%7Czhipeng.du%40kcl.ac.uk%7C55e88040047f495dba3308d9bb0eb118%7C8370cf1416f34c16b83c724071654356%7C0%7C0%7C637746494031293155%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=TXMWowIu3HnfawaWEw9YQ%2BI30v2LFSeuIhA%2FzhLnk5Y%3D&reserved=0">EPSRC CDT in Smart Medical Imaging</a> at King’s College London and Imperial College London, supervised by Prof. Tom Vercauteren and Dr. Miaojing Shi. Meng received her undergraduate degree in Telecommunication Engineering from the University of Liverpool in 2020, followed by a Master’s degree focused on medical images, artificial intelligence, and medical robotics at Imperial College London in 2021. Her project is on Semi-supervised detection and tracking of instruments for robotic surgery guidance, and her research interests include deep learning, medical imaging computing, and computer vision.
         </p>
       </div>
     </section>
@@ -248,6 +254,26 @@ show_sidebar: false
   </div>
 </div>
 
+<div id="detail-02" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">PhD</p>
+      <button class="delete" id="top-close-02" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Zhipeng Du</h2>
+        <p>
+        Zhipeng is a Ph.D. student at VisCom supervised by Dr. Shi. Before his Ph.D., Zhipeng received his B.Eng. degree in Software Engineering from Beihang University in 2021. For undergraduate research, he worked with Prof. Yan Xu, who is affiliated with Beihang and MSRA. He now focuses on computer vision and deep learning, especially their applications on crowd analysis.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-02">Close</button>
+    </footer>
+  </div>
+</div>
 
 <script>
 $("#people-01").click(function() {
@@ -258,5 +284,14 @@ $("#top-close-01").click(function() {
 });
 $("#close-01").click(function() {
    $("#detail-01").removeClass("is-active");
+});
+$("#people-02").click(function() {
+  $("#detail-02").addClass("is-active");  
+});
+$("#top-close-02").click(function() {
+   $("#detail-02").removeClass("is-active");
+});
+$("#close-02").click(function() {
+   $("#detail-02").removeClass("is-active");
 });
 </script>
