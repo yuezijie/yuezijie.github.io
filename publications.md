@@ -178,7 +178,7 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure>
+                <figure style="width: 70%; margin: auto">
                    <img src="/img/TowardsUnsup.png">
                 </figure>        
             </td>
@@ -288,7 +288,7 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure>
+                <figure style="width: 60%; margin: auto">
                    <img src="/img/RevisitingPers.png">
                 </figure>        
             </td>
@@ -342,7 +342,7 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure>
+                <figure style="width: 70%; margin: auto">
                    <img src="/img/UsingThingsandStuffTran.png">
                 </figure>        
             </td>
@@ -449,7 +449,7 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure>
+                <figure style="width: 70%; margin: auto">
                    <img src="/img/EarlyBurst.png">
                 </figure>        
             </td>
@@ -615,7 +615,7 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure style="width: 70%;margin: auto">
+                <figure style="width: 50%;margin: auto">
                    <img src="/img/W-TreeIndex.png">
                 </figure>        
             </td>
