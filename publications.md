@@ -125,18 +125,18 @@ show_sidebar: false
                         </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://arxiv.org/pdf/2010.11714">
                 <font style="color: #aa2116;font-weight: bold">
                 Restoring Negative Information in Few-Shot Object Detection
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Yukuan Yang, Fangyu Wei, <B>Miaojing Shi</B>, Guoqi Li
             </div>
-            <div style="margin-top: 5px"><i><B>NeurIPS 2020</B></i></div>
-            <div style="margin-top: 5px">[<a href="https://github.com/yang-yk/NP-RepMet">code</a>]</div>
+            <div style="margin-top: 10px"><i><B>NeurIPS 2020</B></i></div>
+            <div style="margin-top: 10px">[<a href="https://github.com/yang-yk/NP-RepMet">code</a>]</div>
             </td>
         </tr>
     </table>
@@ -153,18 +153,18 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://arxiv.org/pdf/2008.05230">
                 <font style="color: #aa2116;font-weight: bold">
                 Defending Adversarial Examples via DNN Bottleneck Reinforcement
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li(<B>*Co-first author</B>) 
             </div>
-            <div style="margin-top: 5px"><i><B>ACM MM 2020</B></i></div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px"><i><B>ACM MM 2020</B></i></div>
+            <div style="margin-top: 10px">
                 [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FLiuWenQingS%2FDefending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement&sa=D&sntz=1&usg=AFQjCNEBbRiaP9OGmq2S9JODRUmvLSCAkA">code</a>]
             </div>
             </td>
@@ -183,17 +183,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://arxiv.org/pdf/2008.05383">
                 <font style="color: #aa2116;font-weight: bold">
                 Towards Unsupervised Crowd Counting via Regression-Detection Bi-knowledge Transfer
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Yuting Liu, Zheng Wang, <B>Miaojing Shi</B>, Shin'ichi Satoh, Qijun Zhao, Hongyu Yang
             </div>
-            <div style="margin-top: 5px"><i><B>ACM MM 2020(Oral)</B></i></div>
+            <div style="margin-top: 10px"><i><B>ACM MM 2020(Oral)</B></i></div>
             </td>
         </tr>
     </table>
@@ -209,19 +209,19 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://arxiv.org/pdf/2007.06334">
                 <font style="color: #aa2116;font-weight: bold">
                 Active Crowd Counting with Limited Supervision
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Zhen Zhao*, <B>Miaojing Shi*</B>, Xiaoxiao Zhao, Li Li(<B>*Co-first author</B>) 
             </div>
-            <div style="margin-top: 5px"><i><B>ECCV 2020</B></i>
+            <div style="margin-top: 10px"><i><B>ECCV 2020</B></i>
             </div>
-            <div style="margin-top: 5px">[<a href="https://drive.google.com/file/d/1_qh-8N8riKg3hwh8Kz9QL0p5vuHjyfuW/view?usp=sharing">sup</a>]</div>
+            <div style="margin-top: 10px">[<a href="https://drive.google.com/file/d/1_qh-8N8riKg3hwh8Kz9QL0p5vuHjyfuW/view?usp=sharing">sup</a>]</div>
             </td>
         </tr>
     </table>
@@ -238,17 +238,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://hal.inria.fr/hal-02383107/file/1-s2.0-S095741741930541X-main.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Friend Recommendation for Cross Marketing in Online Brand Community based on Intelligent Attention Allocation Link Prediction Algorithm
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Shugang Li, Xuewei Song, Hanyu Lu, Linyi Zeng, <B>Miaojing Shi</B>, Fang Liu
             </div>
-            <div style="margin-top: 5px"><B><i>Expert Systems with Applications</i></B></div>
+            <div style="margin-top: 10px"><B><i>Expert Systems with Applications</i></B></div>
             </td>
         </tr>
     </table>
@@ -266,17 +266,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Point_in_Box_Out_Beyond_Counting_Persons_in_Crowds_CVPR_2019_paper.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Point in, Box out: Beyond Counting Persons in Crowds
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Yuting Liu, <B>Miaojing Shi</B>, Qijun Zhao, Xiaofang Wang
             </div>
-            <div style="margin-top: 5px"><i><B>CVPR 2019(Oral)</B></i></div>
+            <div style="margin-top: 10px"><i><B>CVPR 2019(Oral)</B></i></div>
             </td>
         </tr>
     </table>
@@ -293,17 +293,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top:10px">
                 <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Revisiting_Perspective_Information_for_Efficient_Crowd_Counting_CVPR_2019_paper.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Revisiting Perspective Information for Efficient Crowd Counting
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Zhaohui Yang, Chao Xu, Qijun Chen
             </div>
-            <div style="margin-top: 5px"><i><B>CVPR 2019</B></i></div>
+            <div style="margin-top: 10px"><i><B>CVPR 2019</B></i></div>
             </td>
         </tr>
     </table>
@@ -319,20 +319,20 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://arxiv.org/pdf/1711.04433.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Crowd Counting via Scale-Adaptive Convolutional Neural Network
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Lu Zhang*, <B>Miaojing Shi*</B>, Qiaobo Chen(<B>*Co-first author</B>)
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>WACV 2018</B></i>
             </div>
-            <div style="margin-top: 5px">[<a href="https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu">code</a>]</div>
+            <div style="margin-top: 10px">[<a href="https://github.com/miao0913/SaCNN-CrowdCounting-Tencent_Youtu">code</a>]</div>
             </td>
         </tr>
     </table>
@@ -347,20 +347,20 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Shi_Weakly_Supervised_Object_ICCV_2017_paper.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Weakly Supervised Object Localization Using Things and Stuff Transfer
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Holger Caesar, Vittorio Ferrari
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>ICCV 2017</B></i>
             </div>
-            <div style="margin-top: 5px">[<a href="http://www.google.com/url?q=http%3A%2F%2Fcalvin.inf.ed.ac.uk%2Fwp-content%2Fuploads%2FPublications%2Fshi17iccv-supp.pdf&sa=D&sntz=1&usg=AFQjCNHKf1L66BlBVgyzXt9xqSKti2Zjtg">sup</a>]</div>
+            <div style="margin-top: 10px">[<a href="http://www.google.com/url?q=http%3A%2F%2Fcalvin.inf.ed.ac.uk%2Fwp-content%2Fuploads%2FPublications%2Fshi17iccv-supp.pdf&sa=D&sntz=1&usg=AFQjCNHKf1L66BlBVgyzXt9xqSKti2Zjtg">sup</a>]</div>
             </td>
         </tr>
     </table>
@@ -376,17 +376,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://link.springer.com/chapter/10.1007/978-3-319-46454-1_7">
                 <font style="color: #aa2116;font-weight: bold">
                 Weakly Supervised Object Localization Using Size Estimates
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Vittorio Ferrari
             </div>
-            <div style="margin-top: 5px"><i><B>ECCV 2016</B></i></div>
+            <div style="margin-top: 10px"><i><B>ECCV 2016</B></i></div>
             </td>
         </tr>
     </table>
@@ -397,22 +397,22 @@ show_sidebar: false
     <table>
         <tr>
             <td style="width: 23%">
-                <figure style="width: 80%;margin: autobundle exec jekyll serve">
+                <figure style="width: 80%;margin: auto">
                    <img src="/img/DCTInspired.png">
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://kclpure.kcl.ac.uk/portal/files/128588105/wang16dct_1_.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 DCT Inspired Feature Transform for Image Retrieval and Reconstruction
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Yunhe Wang, <B>Miaojing Shi</B>, Shan You, Chao Xu
             </div>
-            <div style="margin-top: 5px"><B><i>IEEE Transactions on Image Processing</i></B></div>
+            <div style="margin-top: 10px"><B><i>IEEE Transactions on Image Processing</i></B></div>
             </td>
         </tr>
     </table>
@@ -428,17 +428,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://kclpure.kcl.ac.uk/portal/files/128588316/Gao2015database_3_.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Database Saliency for Fast Image Retrieval
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu(<B>*Co-first author</B>) 
             </div>
-            <div style="margin-top: 5px"><B><i>IEEE Transactions on Multimedia</i></B></div>
+            <div style="margin-top: 10px"><B><i>IEEE Transactions on Multimedia</i></B></div>
             </td>
         </tr>
     </table>
@@ -454,17 +454,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="http://openaccess.thecvf.com/content_cvpr_2015/papers/Shi_Early_Burst_Detection_2015_CVPR_paper.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Early burst detection for memory-efficient image retrieval
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Yannis Avrithis, Hervé Jégou
             </div>
-            <div style="margin-top: 5px"><i><B>CVPR 2015</B></i></div>
+            <div style="margin-top: 10px"><i><B>CVPR 2015</B></i></div>
             </td>
         </tr>
     </table>
@@ -479,17 +479,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://drive.google.com/file/d/0ByXxql-6aZjybjBFNC1WT0UxNlk/view?resourcekey=0-xnKw6rPuHah_sIIJ4fORwg">
                 <font style="color: #aa2116;font-weight: bold">
                 Supervised Multi-scale Locality Sensitive Hashing
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Li Weng, I-Hong Jhuo, <B>Miaojing Shi</B>, Meng Sun, Wen-Huang Cheng, Laurent Amsaleg. 
             </div>
-            <div style="margin-top: 5px"><i><B>ICMR 2015</B></i></div>
+            <div style="margin-top: 10px"><i><B>ICMR 2015</B></i></div>
             </td>
         </tr>
     </table>
@@ -505,17 +505,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://www.researchgate.net/profile/Miaojing-Shi/publication/263711970_Exploring_Spatial_Correlation_for_Visual_Object_Retrieval/links/00b4953bbb8d01abce000000/Exploring-Spatial-Correlation-for-Visual-Object-Retrieval.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Exploring Spatial Correlation for Visual Object Retrieval
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu, George Baciu, Hong Liu. 
             </div>
-            <div style="margin-top: 5px"><i><B>ACM Transactions on Intelligent Systems and Technology (TIST)</B></i></div>
+            <div style="margin-top: 10px"><i><B>ACM Transactions on Intelligent Systems and Technology (TIST)</B></i></div>
             </td>
         </tr>
     </table>
@@ -530,20 +530,20 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://hal.inria.fr/hal-01062531v1/document">
                 <font style="color: #aa2116;font-weight: bold">
                 A Group Testing Framework for Similarity Search in High-dimensional Spaces
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Teddy Furon, Hervé Jégou
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>ACM MM 2014(Oral)</B></i>
             </div>
-            <div style="margin-top: 5px">[<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1nt1fu7R&sa=D&sntz=1&usg=AFQjCNEUkYzMtuQu0f4WIyCKVD-ksWHLZw">code</a>]
+            <div style="margin-top: 10px">[<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1nt1fu7R&sa=D&sntz=1&usg=AFQjCNEUkYzMtuQu0f4WIyCKVD-ksWHLZw">code</a>]
             [<a href="http://www.google.com/url?q=http%3A%2F%2Fpan.baidu.com%2Fs%2F1mgkm1YS%2F&sa=D&sntz=1&usg=AFQjCNH0qTDn7pRC3W8fyzzG1941jQekUg">data</a>]</div>
             </td>
         </tr>
@@ -560,17 +560,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://ieeexplore.ieee.org/abstract/document/7049999">
                 <font style="color: #aa2116;font-weight: bold">
                 Saliency oriented object image re-ranking
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Chao Xu, Yuan Gao, <B>Miaojing Shi</B>. 
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>IEEE Electronics Circuits and Systems (ICECS) , 2014
                  </B></i>
              </div>
@@ -588,21 +588,21 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://cmjournal.biomedcentral.com/articles/10.1186/1749-8546-9-7">
                 <font style="color: #aa2116;font-weight: bold">
                 Computerized Tongue Image Segmentation via Double Geo-Vector Flow
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, GZ. Li, Fufeng Li, Chao Xu. 
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>BMC Chinese Medicine
                  </B></i>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 [<a href="https://www.google.com/url?q=https%3A%2F%2Fstatic-content.springer.com%2Fesm%2Fart%253A10.1186%252F1749-8546-9-7%2FMediaObjects%2F13020_2013_201_MOESM1_ESM.zip&sa=D&sntz=1&usg=AFQjCNHjuWyhRI2QeafzmLXGhd79x6oo_g">code</a>]
                 [<a href="https://www.google.com/url?q=https%3A%2F%2Fstatic-content.springer.com%2Fesm%2Fart%253A10.1186%252F1749-8546-9-7%2FMediaObjects%2F13020_2013_201_MOESM2_ESM.zip&sa=D&sntz=1&usg=AFQjCNEQeUwviCkLGEGusrY8KeR4ZXpfVQ">data</a>]
             </div>
@@ -620,17 +620,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://ieeexplore.ieee.org/document/6357283">
                 <font style="color: #aa2116;font-weight: bold">
                 W-Tree Indexing for Fast Visual Word Generation
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Ruixin Xu, Dacheng Tao, and Chao Xu
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B><i>IEEE Transactions on Image Processing</i></B>
             </div>
             </td>
@@ -647,17 +647,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://www.researchgate.net/publication/257686487_C2G2FSnake_Automatic_tongue_image_segmentation_utilizing_prior_knowledge">
                 <font style="color: #aa2116;font-weight: bold">
                 C2G2FSnake: Automatic Tongue image segmentation utilizing prior knowledge
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, GZ. Li, Fufeng Li. 
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>SCIENCE CHINA: Information Science</B></i>
             </div>
             </td>
@@ -675,17 +675,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://projet.liris.cnrs.fr/imagine/pub/proceedings/ACM-MULTIMEDIA-2012/mm/p69.pdf">
                 <font style="color: #aa2116;font-weight: bold">
                 Exploiting Visual Word Co-occurrence for Image Retrieval 
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>ACM MM 2012(Oral)</B></i>
             </div>
             </td>
@@ -703,17 +703,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://www.researchgate.net/publication/260982990_A_novel_tongue_segmentation_approach_utilizing_double_geodesic_flow">
                 <font style="color: #aa2116;font-weight: bold">
                 A Novel Tongue Image Segmentation Approach via Double Geodesic Flow
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, GZ. Li, Fufeng Li, Chao Xu. 
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>IEEE Computer Science& Education (ICCSE) ,2012</B></i>
             </div>
             </td>
@@ -731,17 +731,17 @@ show_sidebar: false
                 </figure>        
             </td>
             <td>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <a href="https://ieeexplore.ieee.org/document/6011893">
                 <font style="color: #aa2116;font-weight: bold">
                 Fast visual word quantization via spatial neighborhood boosting
                 </font>
                 </a>
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 Ruixin Xu, <B>Miaojing Shi</B>, Bo Geng, Chao Xu
             </div>
-            <div style="margin-top: 5px">
+            <div style="margin-top: 10px">
                 <i><B>IEEE Multimedia and Expo (ICME), 2011.</B></i>
             </div>
             </td>
