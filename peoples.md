@@ -116,11 +116,17 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                          <img src="/img/Photo_Tiarna.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Tiarna Lee</p>
+                        <p class="title is-4">Tiarna Lee
+                          <a>
+                              <i id="people-03" aria-hidden="true">
+                                 <ion-icon name="school-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
                         <p class="subtitle is-6">tiarna.lee@kcl.ac.uk</p>
                         <p class="subtitle is-6">(2021-)</p>
                         <p class="subtitle is-6">co-advised by Andrew King</p>
@@ -275,6 +281,27 @@ show_sidebar: false
   </div>
 </div>
 
+<div id="detail-03" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">PhD</p>
+      <button class="delete" id="top-close-03" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Tiarna Lee</h2>
+        <p>
+        Miss Tiarna Lee received her MEng in Biomedical Engineering from King’s College London in 2021. During her studies, she worked on modelling ultrasound wave propagation when using microbubbles and the quantitative measurement of inhomogeneous magnetisation transfer parameters in brain MR images using artificial intelligence (AI). Her MEng project focussed on the classification of the season of conception of infants by AI using the children’s facial landmarks. She is currently a PhD student under the supervision of Dr Andrew King and Dr Miaojing Shi. Her PhD project is focussed on researching racial and gender biases in AI-based segmentation and classification tools. 
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-03">Close</button>
+    </footer>
+  </div>
+</div>
+
 <script>
 $("#people-01").click(function() {
   $("#detail-01").addClass("is-active");  
@@ -293,5 +320,14 @@ $("#top-close-02").click(function() {
 });
 $("#close-02").click(function() {
    $("#detail-02").removeClass("is-active");
+});
+$("#people-03").click(function() {
+  $("#detail-03").addClass("is-active");  
+});
+$("#top-close-03").click(function() {
+   $("#detail-03").removeClass("is-active");
+});
+$("#close-03").click(function() {
+   $("#detail-03").removeClass("is-active");
 });
 </script>
