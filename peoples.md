@@ -60,13 +60,18 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                          <img src="/img/Photo_YingyueXu.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Yingyue Xu</p>
+                        <p class="title is-4">Yingyue Xu
+                           <a>
+                              <i id="people-04" aria-hidden="true">
+                                 <ion-icon name="school-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
                         <p class="subtitle is-6">yingyue.xu@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021-)</p>
                       </div>
                     </div>  
                   </div>
@@ -302,6 +307,28 @@ show_sidebar: false
   </div>
 </div>
 
+<div id="detail-04" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Post-doctoral Fellow</p>
+      <button class="delete" id="top-close-04" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Yingyue Xu</h2>
+        <p>
+        Dr. Yingyue Xu is a post-doc research fellow at Fudan University, China. She is also a joint project researcher at Zhuhai Fudan Innovation Institute in Guangdong-Macao In-Depth Cooperation Zone in Hengqin, China. Before that She received he Doctor degree on Computer Science and Technology in University of Oulu, Finland. Her research fields mainly include semantic segmentation, object detection, and few-shot learning.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-04">Close</button>
+    </footer>
+  </div>
+</div>
+
+
 <script>
 $("#people-01").click(function() {
   $("#detail-01").addClass("is-active");  
@@ -329,5 +356,14 @@ $("#top-close-03").click(function() {
 });
 $("#close-03").click(function() {
    $("#detail-03").removeClass("is-active");
+});
+$("#people-04").click(function() {
+  $("#detail-04").addClass("is-active");  
+});
+$("#top-close-04").click(function() {
+   $("#detail-04").removeClass("is-active");
+});
+$("#close-04").click(function() {
+   $("#detail-04").removeClass("is-active");
 });
 </script>
