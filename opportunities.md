@@ -16,7 +16,7 @@ If you are interested, feel free to drop an message to Dr. Shi <B>miaojing.shi@k
 - 12/2021 [<B>Open</B>] One UK PhD position on visual recognition with minimal supervision.
 [<i id="opportunity-03" style="color:red" aria-hidden="true">more</i>]
 
-- 11/2021 [<B>Open</B>] We have two PhD projects opened at EPSRC CDT Smart Medical Imaging for 2022 intake: (1) <a href="https://www.imagingcdt.com/project/exploiting-multi-task-learning-for-endoscopic-vision-in-robotic-surgery/"> Exploiting multi-task learning for endoscopic vision in robotic surgery.</a> (2) <a href="https://www.imagingcdt.com/project/ai-enabled-assessment-of-cardiac-function-from-echocardiography/"> AI-Enabled Assessment of Cardiac Function from Echocardiography.</a> <B> International applicants are welcomed!</B> 
+- 11/2021 [<B>Closed</B>] We have two PhD projects opened at EPSRC CDT Smart Medical Imaging for 2022 intake: (1) <a href="https://www.imagingcdt.com/project/exploiting-multi-task-learning-for-endoscopic-vision-in-robotic-surgery/"> Exploiting multi-task learning for endoscopic vision in robotic surgery.</a> (2) <a href="https://www.imagingcdt.com/project/ai-enabled-assessment-of-cardiac-function-from-echocardiography/"> AI-Enabled Assessment of Cardiac Function from Echocardiography.</a> <B> International applicants are welcomed!</B> 
 
 - 08/2021 [<B>Closed</B>] One post-doc position in computer vision and remote sensing imagery.
 [<i id="opportunity-05" style="color:red" aria-hidden="true">more</i>]

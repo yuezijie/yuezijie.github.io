@@ -412,7 +412,7 @@ show_sidebar: false
             <div style="margin-top: 10px">
                 Yunhe Wang, <B>Miaojing Shi</B>, Shan You, Chao Xu
             </div>
-            <div style="margin-top: 10px"><B><i>IEEE Transactions on Image Processing</i></B></div>
+            <div style="margin-top: 10px"><B><i>IEEE Transactions on Image Processing 2016</i></B></div>
             </td>
         </tr>
     </table>
@@ -438,7 +438,7 @@ show_sidebar: false
             <div style="margin-top: 10px">
                 Yuan Gao*, <B>Miaojing Shi*</B>, Dacheng Tao, Chao Xu(<B>*Co-first author</B>) 
             </div>
-            <div style="margin-top: 10px"><B><i>IEEE Transactions on Multimedia</i></B></div>
+            <div style="margin-top: 10px"><B><i>IEEE Transactions on Multimedia 2015</i></B></div>
             </td>
         </tr>
     </table>
@@ -515,7 +515,7 @@ show_sidebar: false
             <div style="margin-top: 10px">
                 <B>Miaojing Shi</B>, Xinghai Sun, Dacheng Tao, Chao Xu, George Baciu, Hong Liu. 
             </div>
-            <div style="margin-top: 10px"><i><B>ACM Transactions on Intelligent Systems and Technology (TIST)</B></i></div>
+            <div style="margin-top: 10px"><i><B>ACM Transactions on Intelligent Systems and Technology 2015</B></i></div>
             </td>
         </tr>
     </table>
@@ -571,7 +571,7 @@ show_sidebar: false
                 Chao Xu, Yuan Gao, <B>Miaojing Shi</B>. 
             </div>
             <div style="margin-top: 10px">
-                <i><B>IEEE Electronics Circuits and Systems (ICECS) , 2014
+                <i><B>ICECS 2014
                  </B></i>
              </div>
             </td>
@@ -599,7 +599,7 @@ show_sidebar: false
                 <B>Miaojing Shi</B>, GZ. Li, Fufeng Li, Chao Xu. 
             </div>
             <div style="margin-top: 10px">
-                <i><B>BMC Chinese Medicine
+                <i><B>BMC Chinese Medicine 2014
                  </B></i>
             </div>
             <div style="margin-top: 10px">
@@ -631,7 +631,7 @@ show_sidebar: false
                 <B>Miaojing Shi</B>, Ruixin Xu, Dacheng Tao, and Chao Xu
             </div>
             <div style="margin-top: 10px">
-                <B><i>IEEE Transactions on Image Processing</i></B>
+                <B><i>IEEE Transactions on Image Processing 2013</i></B>
             </div>
             </td>
         </tr>
@@ -658,7 +658,7 @@ show_sidebar: false
                 <B>Miaojing Shi</B>, GZ. Li, Fufeng Li. 
             </div>
             <div style="margin-top: 10px">
-                <i><B>SCIENCE CHINA: Information Science</B></i>
+                <i><B>SCIENCE CHINA: Information Science 2013</B></i>
             </div>
             </td>
         </tr>
@@ -714,7 +714,7 @@ show_sidebar: false
                 <B>Miaojing Shi</B>, GZ. Li, Fufeng Li, Chao Xu. 
             </div>
             <div style="margin-top: 10px">
-                <i><B>IEEE Computer Science& Education (ICCSE) ,2012</B></i>
+                <i><B>ICCSE 2012</B></i>
             </div>
             </td>
         </tr>
@@ -742,7 +742,7 @@ show_sidebar: false
                 Ruixin Xu, <B>Miaojing Shi</B>, Bo Geng, Chao Xu
             </div>
             <div style="margin-top: 10px">
-                <i><B>IEEE Multimedia and Expo (ICME), 2011.</B></i>
+                <i><B>ICME 2011.</B></i>
             </div>
             </td>
         </tr>
