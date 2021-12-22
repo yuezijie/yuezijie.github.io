@@ -255,7 +255,7 @@ show_sidebar: false
 </div>
 
 
-### Publications by Miaojing Shi before joining King's
+### Selected publications by Miaojing Shi
 ----------------------------------------
 <div>
     <table>
@@ -749,7 +749,7 @@ show_sidebar: false
     </table>
 </div>
 
-
+<!--
 ### Other papers/patents
 ----------------------------------------
 <div>
@@ -892,3 +892,4 @@ show_sidebar: false
         </tr>
     </table>
 </div>
+-->
