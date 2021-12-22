@@ -1,6 +1,6 @@
 # Site Settings
 lang: cn
-title: 
+title:
 # tagline: Group site for team Shi
 # email: 164910798@qq.com
 # description: >
@@ -16,7 +16,8 @@ favicon: /img/logo.jpg
 
 paginate: 5
 paginate_path: "/blog/page:num"
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
