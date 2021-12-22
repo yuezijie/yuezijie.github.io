@@ -255,7 +255,7 @@ show_sidebar: false
 </div>
 
 
-### Selected publications by Miaojing Shi
+### Selected Publications by Miaojing Shi Before Joining King's 
 ----------------------------------------
 <div>
     <table>
