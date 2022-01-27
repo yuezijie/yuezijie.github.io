@@ -13,6 +13,8 @@ If you are interested, feel free to drop an message to Dr. Shi <B>miaojing.shi@k
 
 </Body>
 
+- 01/2022  [<B>Open</B>] Call for Papers: <a href="https://www.springer.com/journal/43684/updates/20046000"> Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems.</a>
+
 - 12/2021 [<B>Open</B>] One UK PhD position on visual recognition with minimal supervision.
 [<i id="opportunity-03" style="color:red" aria-hidden="true">more</i>]
 

@@ -6,6 +6,8 @@ show_sidebar: false
 ---
 
 
+- **Jan. 2022**  Call for Papers: [Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems](https://www.springer.com/journal/43684/updates/20046000).
+
 - **Dec. 2021**  Dr. Shi becomes an associate editor for [Autonomous Intelligent Systems](https://www.google.com/url?q=https%3A%2F%2Fwww.springer.com%2Fjournal%2F43684&sa=D&sntz=1&usg=AFQjCNE9AV4remuoK32e8RFo9P0cgyjalQ).
 - **Nov. 2021**  Dr. Shi was invited for a seminar talk in School of Management, Shanghai University.
 
