@@ -233,6 +233,31 @@ show_sidebar: false
                 </div>
             </td>
         </tr>
+        <tr align="center">
+            <td width="31%">
+              <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Marcus Messer
+                           <a href="https://kclpure.kcl.ac.uk/portal/en/persons/marcus-messer(04f6205b-813a-4620-bb61-31f011d85b5a).html">
+                              <ion-icon name="school-outline"></ion-icon>
+                           </a>
+                        </p>
+                        <p class="subtitle is-6">marcus.messer@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2021-)</p>
+                        <p class="subtitle is-6">co-advised by Michael Kolling</p>
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
+        </tr>
     </table>
 </div>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
