@@ -5,7 +5,8 @@ hero_height: is-fullwidth
 show_sidebar: false
 ---
 
-
+- **Mar. 2022**  One paper accepted to CVPR 2021, code and models are available at [here](https://github.com/dyabel/detpro).
+- **Feb. 2022**  PhD Studentship Opportunity: [Visual Learning and Understanding with Multi-task and Limited Supervision](https://www.findaphd.com/phds/project/visual-learning-and-understanding-with-multi-task-and-limited-supervision/?p142242).
 - **Jan. 2022**  Call for Papers: [Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems](https://www.springer.com/journal/43684/updates/20046000).
 
 - **Dec. 2021**  Dr. Shi becomes an associate editor for [Autonomous Intelligent Systems](https://www.google.com/url?q=https%3A%2F%2Fwww.springer.com%2Fjournal%2F43684&sa=D&sntz=1&usg=AFQjCNE9AV4remuoK32e8RFo9P0cgyjalQ).
