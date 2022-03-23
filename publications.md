@@ -16,7 +16,7 @@ show_sidebar: false
         </figure>
         </td>
         <td>
-        <a src="/publications/LearningtoPrompt.pdf">
+        <a href="/publications/LearningtoPrompt.pdf">
         <font style="color: #aa2116;font-weight: bold">Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model</font>
         </a>
         <div style="margin-top: 10px">Yu Du, Fangyun Wei, Zihe Zhang, <B>Miaojing Shi</B>, Yue Gao, Guoqi Li</div>
