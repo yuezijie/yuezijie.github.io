@@ -24,7 +24,7 @@ show_sidebar: false
             <B><i>CVPR 2021</i></B>
         </div>
         <div style="margin-top: 10px">
-        [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">code</a>]
+        [<a href="https://github.com/dyabel/detpro">code</a>]
         </div>
         </td>
     </tr>
