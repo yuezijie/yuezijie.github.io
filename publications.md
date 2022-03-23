@@ -5,6 +5,33 @@ hero_height: is-fullwidth
 show_sidebar: false
 ---
 
+### 2022
+----------------------
+<div>
+<table>
+    <tr>
+        <td style="width: 23%">
+        <figure>
+          <img src="/img/TrainingObjectDetectors.png">
+        </figure>
+        </td>
+        <td>
+        <a href="https://arxiv.org/pdf/1912.00384">
+        <font style="color: #aa2116;font-weight: bold">Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model</font>
+        </a>
+        <div style="margin-top: 10px">Yu Du, Fangyun Wei, Zihe Zhang, <B>Miaojing Shi</B>, Yue Gao, Guoqi Li</div>
+        <div style="margin-top: 10px;">
+            <B><i>CVPR 2021</i></B>
+        </div>
+        <div style="margin-top: 10px">
+        [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">c>
+        </div>
+        </td>
+    </tr>
+</table>
+</div>
+
+
 ### 2021
 ----------------------
 <div>
