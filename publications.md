@@ -12,7 +12,7 @@ show_sidebar: false
     <tr>
         <td style="width: 23%">
         <figure>
-          <img src="/img/TrainingObjectDetectors.png">
+          <img src="/img/LearningtoPrompt.png">
         </figure>
         </td>
         <td>
