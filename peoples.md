@@ -173,6 +173,29 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
+                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Marcus Messer
+                           <a href="https://kclpure.kcl.ac.uk/portal/en/persons/marcus-messer(04f6205b-813a-4620-bb61-31f011d85b5a).html">
+                              <ion-icon name="school-outline"></ion-icon>
+                           </a>
+                        </p>
+                        <p class="subtitle is-6">marcus.messer@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2021-)</p>
+                        <p class="subtitle is-6">co-advised by Michael Kolling</p>
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
+            <td width="31%">
+              <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
                           <img src="https://www.kcl.ac.uk/newimages/nms/person-profile-160x160/kholoud-alghamdi.xdf2f4938.jpeg?w=160&h=247&crop=160,160,0,65&f=webp" alt="Placeholder image">
                         </figure>
                       </div>
@@ -213,6 +236,8 @@ show_sidebar: false
                               </div>
                             </div>
             </td>
+        </tr>
+        <tr align="center">
             <td width="30%">
               <div class="card">
                   <div class="card-content">
@@ -227,31 +252,6 @@ show_sidebar: false
                         <p class="subtitle is-6">jinlai.ning@kcl.ac.uk</p>
                         <p class="subtitle is-6">(2020-)</p>   
                         <p class="subtitle is-6">co-advised by Michael Spratling</p>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-            </td>
-        </tr>
-        <tr align="center">
-            <td width="31%">
-              <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Marcus Messer
-                           <a href="https://kclpure.kcl.ac.uk/portal/en/persons/marcus-messer(04f6205b-813a-4620-bb61-31f011d85b5a).html">
-                              <ion-icon name="school-outline"></ion-icon>
-                           </a>
-                        </p>
-                        <p class="subtitle is-6">marcus.messer@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021-)</p>
-                        <p class="subtitle is-6">co-advised by Michael Kolling</p>
                       </div>
                     </div>  
                   </div>
