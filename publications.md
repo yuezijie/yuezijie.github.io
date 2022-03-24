@@ -12,16 +12,16 @@ show_sidebar: false
     <tr>
         <td style="width: 23%">
         <figure>
-          <img src="/img/LearningtoPrompt.png">
+          <img src="/img/LearningtoPromptfor.png">
         </figure>
         </td>
         <td>
-        <a href="/publications/LearningtoPromptfor.pdf">
+        <a href="/publications/LearningtoPrompt.pdf">
         <font style="color: #aa2116;font-weight: bold">Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model</font>
         </a>
         <div style="margin-top: 10px">Yu Du, Fangyun Wei, Zihe Zhang, <B>Miaojing Shi</B>, Yue Gao, Guoqi Li</div>
         <div style="margin-top: 10px;">
-            <B><i>CVPR 2021</i></B>
+            <B><i>CVPR 2022</i></B>
         </div>
         <div style="margin-top: 10px">
         [<a href="https://github.com/dyabel/detpro">code</a>]
