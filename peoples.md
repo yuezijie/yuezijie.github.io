@@ -77,7 +77,29 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-           <td width="30%"></td>
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="/img/Photo_Hamed.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Hamed Amini
+                           <a>
+                              <i id="people-05" aria-hidden="true">
+                                 <ion-icon name="school-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
+                        <p class="subtitle is-6">hamed.amini_amirkolaee@kcl.ac.uk</p>
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
            <td width="30%"></td>
         </tr>
     </table>
@@ -353,7 +375,26 @@ show_sidebar: false
   </div>
 </div>
 
-
+<div id="detail-05" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Post-doctoral Fellow</p>
+      <button class="delete" id="top-close-05" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Hamed Amini</h2>
+        <p>
+        Dr. Hamed Aminiamirkolaei is a post-doc research fellow at Kings College London. Before that he received his Ph.D. in Photogrammetry from the University of Tehran, Iran. His research fields mainly include point cloud processing, DSM filtering, semantic segmentation, and image translation.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-05">Close</button>
+    </footer>
+  </div>
+</div>
 <script>
 $("#people-01").click(function() {
   $("#detail-01").addClass("is-active");  
@@ -390,5 +431,14 @@ $("#top-close-04").click(function() {
 });
 $("#close-04").click(function() {
    $("#detail-04").removeClass("is-active");
+});
+$("#people-05").click(function() {
+  $("#detail-05").addClass("is-active");  
+});
+$("#top-close-05").click(function() {
+   $("#detail-05").removeClass("is-active");
+});
+$("#close-05").click(function() {
+   $("#detail-05").removeClass("is-active");
 });
 </script>
