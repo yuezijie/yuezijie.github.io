@@ -288,7 +288,7 @@ show_sidebar: false
 
 ### Former Members
 
-- **Zedong Chu**(2021.01 - 2021.09), now at Toutiao.
+- **Zedong Chu**, 2021.01 - 2021.12 Research Assistant, now at Alibaba.
 
 
 <div id="detail-01" class="modal">

@@ -5,6 +5,9 @@ hero_height: is-fullwidth
 show_sidebar: false
 ---
 
+- **Apr. 2022**  One paper accepted to IEEE Transactions on Geoscience and Remote Sensing. Congrats to Zedong!
+- **Apr. 2022**  One paper accepted to Neurocomputing.
+- **Apr. 2022**  Welcome Dr. Hamed Amini to join us as a post-doc research fellow. 
 - **Mar. 2022**  One paper accepted to CVPR 2022, code and models are available at [here](https://github.com/dyabel/detpro).
 - **Feb. 2022**  PhD Studentship Opportunity: [Visual Learning and Understanding with Multi-task and Limited Supervision](https://www.findaphd.com/phds/project/visual-learning-and-understanding-with-multi-task-and-limited-supervision/?p142242).
 - **Jan. 2022**  Call for Papers: [Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems](https://www.springer.com/journal/43684/updates/20046000).
