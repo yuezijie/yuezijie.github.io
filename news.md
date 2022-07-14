@@ -1,9 +1,15 @@
----
+﻿---
 title: News
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+
+- **Jul. 2022**  Welcome Mr. Zijian Zhou to join our team as a PhD!
+- **Jul. 2022**  One paper accepted to <B>IEEE Transactions on Transactions on Circuits and Systems for Video Technology</B>.
+- **Jul. 2022**  Dr. Shi becomes a Fellow of Higher Education Academy (HEA). 
+- **Jul. 2022**  Dr. Shi will be an invited speaker for [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/#invited).
+- **Jun. 2022**  Our proposal to King’s–NVIDIA Cambridge1 grant is accepted (£280K, PI: Dr. Shi).
 
 - **Apr. 2022**  One paper accepted to <B>IEEE Transactions on Geoscience and Remote Sensing</B>. Congrats to Zedong!
 - **Apr. 2022**  One paper accepted to <B>Neurocomputing</B>.
