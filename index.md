@@ -10,7 +10,7 @@ show_sidebar: false
         <tr>
             <td>
                 <div>
-                            <B>Welcome to the Visual Computing (VisCom) research team. We are part of the Informatics at King’s Colleg London.</B>
+                            <B>Welcome to the Visual Computing (VisCom) research team. We are part of the Informatics at King’s College London.</B>
 
                 </div>
                 <div>
