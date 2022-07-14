@@ -12,7 +12,7 @@ show_sidebar: false
 <table>
     <tr>
         <td style="width: 23%">
-        <figure>
+          <figure style="width: 90%;margin: auto">
           <img src="/img/MFNetMulticlass.png">
         </figure>
         </td>
