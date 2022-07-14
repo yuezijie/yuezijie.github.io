@@ -22,8 +22,8 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">Discovering regression-detection bi-knowledge transfer for unsupervised cross-domain crowd counting</font>
     </a>
     </div>
-    <div style="margin-top: 10px">Yuting Liu, Zheng Wang <B>Miaojing Shi</B>, Shin’ichi Satoh, Qijun Zhao, Hongyu Yang</div>
-    <div style="margin-top: 10px"><B><i>Neurocomputing 2022</i></B></div>
+    <div style="margin-top: 10px">Yuting Liu, Zheng Wang, <B>Miaojing Shi</B>, Shin’ichi Satoh, Qijun Zhao, Hongyu Yang</div>
+    <div style="margin-top: 10px"><B><i>Neurocomputing</i></B></div>
     </td>
     </tr>
     </table>
