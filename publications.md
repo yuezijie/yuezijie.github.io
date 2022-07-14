@@ -11,6 +11,25 @@ show_sidebar: false
 <div>
 <table>
     <tr>
+        <td style="width: 23%">
+        <figure>
+          <img src="/img/MFNetMulticlass.png">
+        </figure>
+        </td>
+        <td>
+        <font style="color: #aa2116;font-weight: bold">MFNet: Multi-class Few-shot Segmentation Network with Pixel-wise Metric Learning</font>
+        <div style="margin-top: 10px">Miao Zhang, <B>Miaojing Shi</B>, Li Li</div>
+        <div style="margin-top: 10px;">
+            <B><i>IEEE Transactions on Circuits and Systems for Video Technology</i></B>
+        </div>
+        </td>
+    </tr>
+</table>
+</div>
+
+<div>
+<table>
+    <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
               <img src="/img/DiscoveringRegression.jpg">
