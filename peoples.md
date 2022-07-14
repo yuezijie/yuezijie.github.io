@@ -118,7 +118,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="/img/Photo_ZhipengDu.png" alt="Placeholder image">
+                          <img src="https://lh6.googleusercontent.com/NGi7j9KF7HWW95z0U3_f5By7HjwzmvI0Woc_ri-7tHaiV8DLjsY1ek3CEmWcuFtLNjI9hDFZpJRZNxL7Q-jixfA=w1280" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
