@@ -7,6 +7,29 @@ show_sidebar: false
 
 ### 2022
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/DiscoveringRegression.jpg">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0925231222004982">
+    <font style="color: #aa2116;font-weight: bold">Discovering regression-detection bi-knowledge transfer for unsupervised cross-domain crowd counting</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Yuting Liu, Zheng Wang <B>Miaojing Shi</B>, Shin’ichi Satoh, Qijun Zhao, Hongyu Yang</div>
+    <div style="margin-top: 10px"><B><i>Neurocomputing 2022</i></B></div>
+    </td>
+    </tr>
+    </table>
+
+</div>
+
 <div>
 <table>
     <tr>
