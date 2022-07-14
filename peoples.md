@@ -112,6 +112,29 @@ show_sidebar: false
 <div>
     <table width="50%">
         <tr align="center">
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="/img/Photo_ZijianZhou.jpg" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Zijian Zhou 
+                            <a href="https://sites.google.com/view/zijian-zhou/home">
+                                <ion-icon name="school-outline"></ion-icon>
+                            </a>
+                        </p>
+                        <p class="subtitle is-6">zijian.zhou@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2022-)</p> 
+                        <p class="subtitle is-6" style="color: #ffffff">&</p>    
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+           </td>
            <td width="30%">
                 <div class="card">
                   <div class="card-content">
@@ -162,6 +185,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
+        </tr>
+        <tr align="center">
            <td width="30%">
               <div class="card">
                   <div class="card-content">
@@ -187,8 +212,6 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-        </tr>
-        <tr align="center">
             <td width="31%">
               <div class="card">
                   <div class="card-content">
@@ -235,6 +258,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
+          </tr>
+          <tr align="center">
             <td width="30%">
                           <div class="card">
                               <div class="card-content">
@@ -258,8 +283,6 @@ show_sidebar: false
                               </div>
                             </div>
             </td>
-        </tr>
-        <tr align="center">
             <td width="30%">
               <div class="card">
                   <div class="card-content">
