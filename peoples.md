@@ -311,7 +311,9 @@ show_sidebar: false
 
 ### Former Members
 
-- **Zedong Chu**, 2021.01 - 2021.12 Research Assistant, now at Alibaba.
+- [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
+
+
 
 
 <div id="detail-01" class="modal">
