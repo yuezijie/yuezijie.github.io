@@ -18,7 +18,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2207.03824.pdf">
+    <a href="/publications/DiscoveringRegression-detection.pdf">
     <font style="color: #aa2116;font-weight: bold">Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations</font>
     </a>
     </div>
