@@ -67,7 +67,7 @@ show_sidebar: false
                         <p class="title is-4">Yingyue Xu
                            <a>
                               <i id="people-04" aria-hidden="true">
-                                 <ion-icon name="school-outline"></ion-icon>
+                                 <ion-icon name="home-outline"></ion-icon>
                               </i>
                            </a>
                         </p>
@@ -90,7 +90,7 @@ show_sidebar: false
                         <p class="title is-4">Hamed Amini
                            <a>
                               <i id="people-05" aria-hidden="true">
-                                 <ion-icon name="school-outline"></ion-icon>
+                                 <ion-icon name="home-outline"></ion-icon>
                               </i>
                            </a>
                         </p>
@@ -124,7 +124,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Zijian Zhou 
                             <a href="https://sites.google.com/view/zijian-zhou/home">
-                                <ion-icon name="school-outline"></ion-icon>
+                                <ion-icon name="home-outline"></ion-icon>
                             </a>
                         </p>
                         <p class="subtitle is-6">zijian.zhou@kcl.ac.uk</p>
@@ -148,7 +148,7 @@ show_sidebar: false
                         <p class="title is-4">Zhipeng Du
                            <a>
                               <i id="people-02" aria-hidden="true">
-                                 <ion-icon name="school-outline"></ion-icon>
+                                 <ion-icon name="home-outline"></ion-icon>
                               </i>
                            </a>
                         </p>
@@ -173,7 +173,7 @@ show_sidebar: false
                         <p class="title is-4">Tiarna Lee
                           <a>
                               <i id="people-03" aria-hidden="true">
-                                 <ion-icon name="school-outline"></ion-icon>
+                                 <ion-icon name="home-outline"></ion-icon>
                               </i>
                            </a>
                         </p>
@@ -200,7 +200,7 @@ show_sidebar: false
                         <p class="title is-4">Meng Wei
                             <a>
                                 <i id="people-01" aria-hidden="true">
-                                  <ion-icon name="school-outline"></ion-icon>
+                                  <ion-icon name="home-outline"></ion-icon>
                                 </i>
                             </a>
                         </p>
@@ -224,7 +224,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Marcus Messer
                            <a href="https://kclpure.kcl.ac.uk/portal/en/persons/marcus-messer(04f6205b-813a-4620-bb61-31f011d85b5a).html">
-                              <ion-icon name="school-outline"></ion-icon>
+                              <ion-icon name="home-outline"></ion-icon>
                            </a>
                         </p>
                         <p class="subtitle is-6">marcus.messer@kcl.ac.uk</p>
@@ -247,7 +247,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Kholoud AlGhamdi
                            <a href="https://www.kcl.ac.uk/people/kholoud-alghamdi">
-                              <ion-icon name="school-outline"></ion-icon>
+                              <ion-icon name="home-outline"></ion-icon>
                            </a>
                         </p>
                         <p class="subtitle is-6">kholoud.alghamdi@kcl.ac.uk</p>
@@ -272,7 +272,7 @@ show_sidebar: false
                                   <div class="media-content">
                                     <p class="title is-4">Zijie Yue 
                                         <a href="https://www.researchgate.net/profile/Zijie-Yue   ">
-                                            <ion-icon name="school-outline"></ion-icon>
+                                            <ion-icon name="home-outline"></ion-icon>
                                         </a>
                                     </p>
                                     <p class="subtitle is-6">zijie.yue@kcl.ac.uk</p>
