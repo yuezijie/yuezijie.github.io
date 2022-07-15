@@ -109,7 +109,7 @@ $("#award-03").click(function() {
   $("#detail-03").addClass("is-active");  
 });
 $("#top-close-03").click(function() {
-   $("#detail-02").removeClass("is-active");
+   $("#detail-03").removeClass("is-active");
 });
 $("#close-03").click(function() {
    $("#detail-03").removeClass("is-active");
