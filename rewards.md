@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-- **2021.10 - 2023.09** Principal Investigator, **King's-NVIDIA Cambridge1 Grant** (£28K)
+- **2022.10 - 2023.09** Principal Investigator, **King's-NVIDIA Cambridge1 Grant** (£28K)
 [<i id="award-03" style="color:red" aria-hidden="true">more</i>]
 
 - **2021.01 - 2023.12** Investigator, **EU-H2020 Grant** (€2M)\\
