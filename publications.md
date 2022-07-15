@@ -5,7 +5,7 @@ hero_height: is-fullwidth
 show_sidebar: false
 ---
 
-### 2022
+### Preprints
 ----------------------
 
 <div>
@@ -13,24 +13,28 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/DamReservoirExtraction.png">
+              <img src="/img/BoostingZero-shotLearning.png">
             </figure>
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2207.05807.pdf">
-    <font style="color: #aa2116;font-weight: bold">Dam reservoir extraction from remote sensing imagery using tailored metric learning strategies</font>
+    <a href="https://arxiv.org/pdf/2207.03824.pdf">
+    <font style="color: #aa2116;font-weight: bold">Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations</font>
     </a>
     </div>
-    <div style="margin-top: 10px">Arnout van Soesbergen, <B>Zedong Chu</B>, <B>Miaojing Shi</B>, Mark Mulligan</div>
-    <div style="margin-top: 10px"><B><i>IEEE Transactions on Geoscience and Remote Sensing</i></B></div>
+    <div style="margin-top: 10px">Yu Du, <B>Miaojing Shi</B>, Fangyun Wei, Guoqi Li</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2207.03824</i></B></div>
     <div style="margin-top: 10px">
-        [<a href="https://github.com/c8241998/Dam-Reservoir-Extraction">code</a>]
+        [<a href="https://github.com/dyabel/CoAR-ZSL.git">code</a>]
         </div>
     </td>
     </tr>
     </table>
 </div>
+
+### 2022
+----------------------
+
 
 <div>
 <table>
@@ -71,6 +75,30 @@ show_sidebar: false
     </tr>
     </table>
 
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/DamReservoirExtraction.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2207.05807.pdf">
+    <font style="color: #aa2116;font-weight: bold">Dam reservoir extraction from remote sensing imagery using tailored metric learning strategies</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Arnout van Soesbergen, <B>Zedong Chu</B>, <B>Miaojing Shi</B>, Mark Mulligan</div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Geoscience and Remote Sensing</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/c8241998/Dam-Reservoir-Extraction">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
 </div>
 
 <div>
