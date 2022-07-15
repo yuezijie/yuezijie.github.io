@@ -29,7 +29,7 @@ show_sidebar: false
 
 
 ## News
-- **Jul. 2022**  Welcome Mr. Zijian Zhou to join our team as a PhD!
+- **Jul. 2022**  Welcome Mr. Zijian Zhou to join our lab as a PhD!
 - **Jul. 2022**  One paper accepted to <B>IEEE Transactions on Circuits and Systems for Video Technology</B>.
 - **Jul. 2022**  Dr. Shi becomes a Fellow of Higher Education Academy (HEA).
 - **Jul. 2022**  Dr. Shi will be an invited speaker for [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/#invited).
