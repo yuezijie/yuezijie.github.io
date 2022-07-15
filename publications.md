@@ -18,7 +18,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="/publications/DiscoveringRegression-detection.pdf">
+    <a href="https://arxiv.org/pdf/2207.03824.pdf">
     <font style="color: #aa2116;font-weight: bold">Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations</font>
     </a>
     </div>
@@ -65,7 +65,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://www.sciencedirect.com/science/article/pii/S0925231222004982">
+    <a href="/publications/DiscoveringRegression-detection.pdf">
     <font style="color: #aa2116;font-weight: bold">Discovering regression-detection bi-knowledge transfer for unsupervised cross-domain crowd counting</font>
     </a>
     </div>
