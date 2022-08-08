@@ -18,7 +18,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2208.02894.pdf">
+    <a href="https://arxiv.org/pdf/2208.02894.pdf">
     <font style="color: #aa2116;font-weight: bold">Redesigning Multi-Scale Neural Network for Crowd Counting</font>
     </a>
     </div>
