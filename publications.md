@@ -43,7 +43,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2207.08960.pdf">
+    <a href="https://arxiv.org/pdf/2207.08960.pdf">
     <font style="color: #aa2116;font-weight: bold">Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction</font>
     </a>
     </div>
