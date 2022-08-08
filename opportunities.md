@@ -13,7 +13,9 @@ If you are interested, feel free to drop an message to Dr. Shi <B>miaojing.shi@k
 
 </Body>
 
-- 01/2022  [<B>Closed</B>] Call for Papers: <a href="https://www.springer.com/journal/43684/updates/20046000"> Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems.</a>
+- 08/2022  [<B>Open</B>] Journal of Imaging - Call for Papers: <a href="https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5"> Special Issue on Visual Learning with Multi-Task Supervision.</a>
+
+- 01/2022  [<B>Open</B>] Autonomous Intelligent Systems - Call for Papers (): <a href="https://www.springer.com/journal/43684/updates/20046000"> Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems.</a>
 
 - 12/2021 [<B>Closed</B>] One UK PhD position on visual recognition with minimal supervision.
 [<i id="opportunity-03" style="color:red" aria-hidden="true">more</i>]
