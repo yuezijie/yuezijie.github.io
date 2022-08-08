@@ -35,6 +35,25 @@ show_sidebar: false
 ### 2022
 ----------------------
 
+<div>
+<table>
+    <tr>
+        <td style="width: 23%">
+          <figure style="width: 90%;margin: auto">
+          <img src="/img/ASystematicStudyofRace.png">
+        </figure>
+        </td>
+        <td>
+        <font style="color: #aa2116;font-weight: bold">A systematic study of race and sex bias in CNN-based cardiac MR segmentation</font>
+        <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, <B>Miaojing Shi</B>, Andrew P. King</div>
+        <div style="margin-top: 10px;">
+            <B><i>MICCAI SATCOM 2022 </i></B>
+        </div>
+        </td>
+    </tr>
+</table>
+</div>
+
 
 <div>
 <table>
