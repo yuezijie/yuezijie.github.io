@@ -13,6 +13,31 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/RedesigningMulti-ScaleNeuralNetwork.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2208.02894.pdf">
+    <font style="color: #aa2116;font-weight: bold">Redesigning Multi-Scale Neural Network for Crowd Counting</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng, Stefanos Zafeiriou</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2208.02894</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/ZPDu/RedesigningMulti-Scale-Neural-Network-for-Crowd-Counting">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/EnhancingSpacetimeVideoSuperresolution.png">
             </figure>
             </td>
