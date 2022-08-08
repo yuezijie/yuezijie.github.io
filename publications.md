@@ -45,10 +45,17 @@ show_sidebar: false
         </figure>
         </td>
         <td>
+        <div style="margin-top: 10px">
+        <a href="https://https://arxiv.org/abs/2111.00232">
         <font style="color: #aa2116;font-weight: bold">MFNet: Multi-class Few-shot Segmentation Network with Pixel-wise Metric Learning</font>
+        </a>
+        </div>
         <div style="margin-top: 10px">Miao Zhang, <B>Miaojing Shi</B>, Li Li</div>
         <div style="margin-top: 10px;">
             <B><i>IEEE Transactions on Circuits and Systems for Video Technology</i></B>
+        </div>
+        <div style="margin-top: 10px">
+        [<a href="https://github.com/roywithfiringblade/MFNet">code</a>]
         </div>
         </td>
     </tr>
