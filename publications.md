@@ -13,6 +13,31 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/EnhancingSpacetimeVideoSuperresolution.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2207.08960.pdf">
+    <font style="color: #aa2116;font-weight: bold">Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding, Shanlin Yang</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2207.08960</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/BoostingZero-shotLearning.png">
             </figure>
             </td>
