@@ -46,7 +46,7 @@ show_sidebar: false
         </td>
         <td>
         <div style="margin-top: 10px">
-        <a href="https://https://arxiv.org/abs/2111.00232">
+        <a href="https://arxiv.org/abs/2111.00232">
         <font style="color: #aa2116;font-weight: bold">MFNet: Multi-class Few-shot Segmentation Network with Pixel-wise Metric Learning</font>
         </a>
         </div>
