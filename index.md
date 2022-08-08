@@ -30,7 +30,7 @@ show_sidebar: false
 
 ## News
 - **Aug. 2022**  I become an editor for [Journal of Imaging](https://www.mdpi.com/journal/jimaging). Welcome to submit to our special issue [Visual Learning with Multi-Task Supervision](https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5)
-- **Aug. 2022**  One paper accepted to MICCA STACOM. Congrats to Tiarna!
+- **Aug. 2022**  One paper accepted to <B>MICCAI STACOM</B>. Congrats to Tiarna!
 - **Jul. 2022**  Welcome Mr. Zijian Zhou to join our lab as a PhD!
 - **Jul. 2022**  One paper accepted to <B>IEEE Transactions on Circuits and Systems for Video Technology</B>.
 - **Jul. 2022**  Dr. Shi becomes a Fellow of Higher Education Academy (HEA).
