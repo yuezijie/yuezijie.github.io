@@ -13,6 +13,56 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/RedesigningMulti-ScaleNeuralNetwork.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2208.02894.pdf">
+    <font style="color: #aa2116;font-weight: bold">Redesigning Multi-Scale Neural Network for Crowd Counting</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng, Stefanos Zafeiriou</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2208.02894</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/ZPDu/RedesigningMulti-Scale-Neural-Network-for-Crowd-Counting">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/EnhancingSpacetimeVideoSuperresolution.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2207.08960.pdf">
+    <font style="color: #aa2116;font-weight: bold">Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding, Shanlin Yang</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2207.08960</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/BoostingZero-shotLearning.png">
             </figure>
             </td>
@@ -35,6 +85,25 @@ show_sidebar: false
 ### 2022
 ----------------------
 
+<div>
+<table>
+    <tr>
+        <td style="width: 23%">
+          <figure style="width: 90%;margin: auto">
+          <img src="/img/ASystematicStudyofRace.png">
+        </figure>
+        </td>
+        <td>
+        <font style="color: #aa2116;font-weight: bold">A systematic study of race and sex bias in CNN-based cardiac MR segmentation</font>
+        <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, <B>Miaojing Shi</B>, Andrew P. King</div>
+        <div style="margin-top: 10px;">
+            <B><i>MICCAI STACOM 2022 </i></B>
+        </div>
+        </td>
+    </tr>
+</table>
+</div>
+
 
 <div>
 <table>
@@ -45,10 +114,17 @@ show_sidebar: false
         </figure>
         </td>
         <td>
+        <div style="margin-top: 10px">
+        <a href="https://arxiv.org/abs/2111.00232">
         <font style="color: #aa2116;font-weight: bold">MFNet: Multi-class Few-shot Segmentation Network with Pixel-wise Metric Learning</font>
+        </a>
+        </div>
         <div style="margin-top: 10px">Miao Zhang, <B>Miaojing Shi</B>, Li Li</div>
         <div style="margin-top: 10px;">
             <B><i>IEEE Transactions on Circuits and Systems for Video Technology</i></B>
+        </div>
+        <div style="margin-top: 10px">
+        [<a href="https://github.com/roywithfiringblade/MFNet">code</a>]
         </div>
         </td>
     </tr>
