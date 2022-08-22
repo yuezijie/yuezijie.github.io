@@ -139,4 +139,13 @@ $("#top-close-03").click(function() {
 $("#close-03").click(function() {
    $("#detail-03").removeClass("is-active");
 });
+$("#award-04").click(function() {
+  $("#detail-04").addClass("is-active");  
+});
+$("#top-close-04").click(function() {
+   $("#detail-04").removeClass("is-active");
+});
+$("#close-04").click(function() {
+   $("#detail-04").removeClass("is-active");
+});
 </script>
