@@ -29,14 +29,14 @@ show_sidebar: false
 
 
 ## News
-- **Aug. 2022**  I become an editor for [Journal of Imaging](https://www.mdpi.com/journal/jimaging). Welcome to submit to our special issue [Visual Learning with Multi-Task Supervision](https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5)
+- **Aug. 2022**  Our proposal to EPSRC IAA grant is accepted (PI: Dr. Shi).
+- **Aug. 2022**  Welcome to submit to our special issue [Visual Learning with Multi-Task Supervision](https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5) at [Journal of Imaging](https://www.mdpi.com/journal/jimaging).
 - **Aug. 2022**  One paper accepted to <B>MICCAI STACOM</B>. Congrats to Tiarna!
 - **Jul. 2022**  Welcome Mr. Zijian Zhou to join our lab as a PhD!
 - **Jul. 2022**  One paper accepted to <B>IEEE Transactions on Circuits and Systems for Video Technology</B>.
 - **Jul. 2022**  Dr. Shi becomes a Fellow of Higher Education Academy (HEA).
 - **Jul. 2022**  Dr. Shi will be an invited speaker for [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/#invited).
-- **Jun. 2022**  Our proposal to King’s–NVIDIA Cambridge1 grant is accepted (£280K, PI: Dr. Shi).
-- **Apr. 2022**  One paper accepted to <B>IEEE Transactions on Geoscience and Remote Sensing</B>. Congrats to Zedong!
+- **Jun. 2022**  Our proposal to King’s–NVIDIA Cambridge1 grant is accepted (PI: Dr. Shi).
 
 
 [more news](/news/)
