@@ -5,7 +5,7 @@ hero_height: is-fullwidth
 show_sidebar: false
 ---
 
-- **Sep. 2022**  Dr. Shi will be an invited speaker for ECCV workshop [SSLAD][https://sslad2022.github.io/pages/speakers.html].
+- **Sep. 2022**  Dr. Shi will be an invited speaker for ECCV workshop [SSLAD](https://sslad2022.github.io/pages/speakers.html).
 - **Sep. 2022**  Dr. Shi is invited for a seminar talk at University of Leicester (Oct .7): Using metric-learning to tackle semantic segmentation in multimodal imaging.
 - **Aug. 2022**  Our proposal to <B>EPSRC IAA</B> grant is accepted (PI: Dr. Shi).
 - **Aug. 2022**  Welcome to submit to our special issue [Visual Learning with Multi-Task Supervision](https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5) at [Journal of Imaging](https://www.mdpi.com/journal/jimaging).
