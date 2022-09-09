@@ -94,8 +94,11 @@ show_sidebar: false
         </figure>
         </td>
         <td>
+        <a href="https://arxiv.org/abs/2209.01627.pdf">
         <font style="color: #aa2116;font-weight: bold">A systematic study of race and sex bias in CNN-based cardiac MR segmentation</font>
+        </a>
         <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, <B>Miaojing Shi</B>, Andrew P. King</div>
+        <div style="margin-top: 10px"><B><i>arXiv:2209.01627</i></B></div>
         <div style="margin-top: 10px;">
             <B><i>MICCAI STACOM 2022 </i></B>
         </div>
