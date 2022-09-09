@@ -25,7 +25,7 @@ show_sidebar: false
     <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng, Stefanos Zafeiriou</div>
     <div style="margin-top: 10px"><B><i>arXiv:2208.02894</i></B></div>
     <div style="margin-top: 10px">
-        [<a href="https://github.com/ZPDu/RedesigningMulti-Scale-Neural-Network-for-Crowd-Counting">code</a>]
+        [<a href="https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting">code</a>]
         </div>
     </td>
     </tr>
