@@ -29,6 +29,7 @@ show_sidebar: false
 
 
 ## News
+- **Sep. 2022**  Welcome Mr. Fontana Maxime to join our lab as a PhD!
 - **Sep. 2022**  Dr. Shi will be an invited speaker for <B>ECCV</B> workshop [SSLAD](https://sslad2022.github.io/pages/speakers.html).
 - **Sep. 2022**  Dr. Shi is invited for a seminar talk at <B>University of Leicester</B> (Oct .7): <i>Using metric-learning to tackle semantic segmentation in multimodal imaging</i>.
 - **Aug. 2022**  Our proposal to <B>EPSRC IAA</B> grant is accepted (PI: Dr. Shi).
