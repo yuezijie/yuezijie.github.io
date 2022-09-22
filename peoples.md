@@ -197,16 +197,14 @@ show_sidebar: false
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Meng Wei
-                            <a>
-                                <i id="people-01" aria-hidden="true">
-                                  <ion-icon name="home-outline"></ion-icon>
-                                </i>
+                        <p class="title is-4">Fontana Maxime
+                               <a href="https://www.researchgate.net/profile/Maxime-Fontana">
+                                <ion-icon name="home-outline"></ion-icon>
                             </a>
                         </p>
-                        <p class="subtitle is-6">meng.wei@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2021-)</p>
-                        <p class="subtitle is-6">co-advised by Tom Vercauteren</p>
+                        <p class="subtitle is-6">maxime.fontana@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2022-)</p>
+                        <p class="subtitle is-6">co-advised by Michael Spratling</p>
                       </div>
                     </div>  
                   </div>
