@@ -129,7 +129,7 @@ show_sidebar: false
                         </p>
                         <p class="subtitle is-6">zijian.zhou@kcl.ac.uk</p>
                         <p class="subtitle is-6">(2022-)</p> 
-                        <p class="subtitle is-6" style="color: #ffffff">&</p>    
+                        <p class="subtitle is-6">co-advised by Tomasz Radzik</p>      
                       </div>
                     </div>  
                   </div>
