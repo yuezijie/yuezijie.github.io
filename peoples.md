@@ -193,7 +193,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="/img/Photo_MengWei.png" alt="Placeholder image">
+                          <img src="/img/Photo_Maxime.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
