@@ -213,7 +213,16 @@ show_sidebar: false
                 </div>
             </td>
          </tr>
-        
+    </table>
+</div>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</Body>
+    
+##### Affiliated Members
+<Body>
+<div>
+    <table width="50%">        
         <tr align="center">
            <td width="30%">
               <div class="card">
