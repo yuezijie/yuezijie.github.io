@@ -313,6 +313,8 @@ show_sidebar: false
 
 - [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
 
+#### Affiliated members
+
 
 
 
