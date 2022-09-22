@@ -217,8 +217,7 @@ show_sidebar: false
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </Body>
 
-
-
+<br> 
 ##### Affiliated Members
 <Body>
 <div>
