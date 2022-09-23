@@ -254,7 +254,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                          <img src="/img/Photo_bear.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
@@ -325,7 +325,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                          <img src="/img/Photo_deer.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
