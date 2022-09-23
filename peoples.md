@@ -145,7 +145,7 @@ show_sidebar: false
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Fontana Maxime
+                        <p class="title is-4">Maxime Fontana
                                <a href="https://www.researchgate.net/profile/Maxime-Fontana">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
