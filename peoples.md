@@ -218,7 +218,7 @@ show_sidebar: false
 </Body>
 
 <br> 
-##### &bull Affiliated Members
+##### <p> Affiliated Members </p>
 <Body>
 <div>
     <table width="50%">        
