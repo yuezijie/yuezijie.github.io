@@ -170,7 +170,7 @@ show_sidebar: false
                       <div class="media-content">
                         <p class="title is-4">Oluwatosin Alabi
                            <a>
-                              <i id="people-02" aria-hidden="true">
+                              <i id="people-06" aria-hidden="true">
                                  <ion-icon name="home-outline"></ion-icon>
                               </i>
                            </a>
@@ -481,6 +481,28 @@ show_sidebar: false
     </footer>
   </div>
 </div>
+
+<div id="detail-06" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">PhD</p>
+      <button class="delete" id="top-close-06" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Oluwatosin Alabi</h2>
+        <p>
+        Tosin received his master's degree from the University College London in Robotics and Computation at the University College London in 2020. Tosin followed this with an Erasmus Mundus Masters Program in Image Processing and Computer Vision at three partner universities in Hungary, Spain and France. Tosin's master's project was on fetoscopic mosaicking using deep learned optical flow fields. He is currently a PhD student in the EPSRC CDT in Smart Medical Imaging at King's College London, supervised by Dr Miaojing Shi and Prof. Tom Vercauteren. Tosin's PhD project exploits multi-task learning for endoscopic vision in robotic surgery.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-06">Close</button>
+    </footer>
+  </div>
+</div>
+
 <script>
 $("#people-01").click(function() {
   $("#detail-01").addClass("is-active");  
@@ -526,5 +548,14 @@ $("#top-close-05").click(function() {
 });
 $("#close-05").click(function() {
    $("#detail-05").removeClass("is-active");
+});
+$("#people-06").click(function() {
+  $("#detail-06").addClass("is-active");  
+});
+$("#top-close-06").click(function() {
+   $("#detail-06").removeClass("is-active");
+});
+$("#close-06").click(function() {
+   $("#detail-06").removeClass("is-active");
 });
 </script>
