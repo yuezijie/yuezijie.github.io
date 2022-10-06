@@ -158,7 +158,34 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-           <td width="30%">
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="/img/Photo_Tosin.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Oluwatosin Alabi
+                           <a>
+                              <i id="people-02" aria-hidden="true">
+                                 <ion-icon name="home-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
+                        <p class="subtitle is-6">oluwatosin.alabi@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2022-)</p>
+                        <p class="subtitle is-6">co-advised by Tom Vercauteren</p>     
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+           </td>
+        </tr>
+        <tr align="center">
+            <td width="30%">
                 <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -182,9 +209,7 @@ show_sidebar: false
                     </div>  
                   </div>
                 </div>
-           </td>
-        </tr>
-        <tr align="center">
+            </td>
             <td width="30%">
                 <div class="card">
                   <div class="card-content">
