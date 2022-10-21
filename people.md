@@ -254,6 +254,31 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
+                          <img src="/img/Photo_Iman.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Iman Islam
+                           <a>
+                              <i id="people-07" aria-hidden="true">
+                                 <ion-icon name="home-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
+                        <p class="subtitle is-6">iman.islam@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2022-)</p>
+                        <p class="subtitle is-6">co-advised by Andrew King</p>
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+           </td>
+           <td width="30%">
+              <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
                           <img src="/img/Photo_MengWei.png" alt="Placeholder image">
                         </figure>
                       </div>
@@ -296,6 +321,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
+          </tr>
+          <tr align="center">
             <td width="31%">
               <div class="card">
                   <div class="card-content">
@@ -319,8 +346,6 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-          </tr>
-          <tr align="center">
             <td width="30%">
                           <div class="card">
                               <div class="card-content">
@@ -503,6 +528,27 @@ show_sidebar: false
   </div>
 </div>
 
+<div id="detail-07" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">PhD</p>
+      <button class="delete" id="top-close-07" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Iman Islam</h2>
+        <p>
+        Iman received her BEng in Biomedical Engineering from King's College London (KCL) in 2022. The BEng project focused on retrospectively correcting motion artefacts in CMR images using AI, supervised by Dr Sebastien Roujol and Alexander Neofytou. She is currently on the EPSRC Smart Medical Imaging CDT programme, completing an MRes in Healthcare Technology at KCL in preparation for her PhD project which is supervised by Dr Andrew King and Dr Miaojing Shi. Her PhD project centres around assessing cardiac function from echocardiogram images using AI.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-07">Close</button>
+    </footer>
+  </div>
+</div>
+
 <script>
 $("#people-01").click(function() {
   $("#detail-01").addClass("is-active");  
@@ -557,5 +603,14 @@ $("#top-close-06").click(function() {
 });
 $("#close-06").click(function() {
    $("#detail-06").removeClass("is-active");
+});
+$("#people-07").click(function() {
+  $("#detail-07").addClass("is-active");  
+});
+$("#top-close-07").click(function() {
+   $("#detail-07").removeClass("is-active");
+});
+$("#close-07").click(function() {
+   $("#detail-07").removeClass("is-active");
 });
 </script>
