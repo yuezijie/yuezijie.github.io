@@ -13,6 +13,31 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/alphaDARTS.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2211.10105.pdf">
+    <font style="color: #aa2116;font-weight: bold">α DARTS Once More: Enhancing Differentiable Architecture Search
+                                                   by Masked Image Modeling</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He1, Jiming Chen, Kaicheng Yu</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2211.10105</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/VideobasedRemote.png">
             </figure>
             </td>
@@ -108,6 +133,28 @@ show_sidebar: false
 
 ### 2022
 ----------------------
+
+<div>
+<table>
+    <tr>
+        <td style="width: 23%">
+          <figure style="width: 90%;margin: auto">
+          <img src="/img/DGCount.png">
+        </figure>
+        </td>
+        <td>
+        <a href="">
+        <font style="color: #aa2116;font-weight: bold">Domain-general Crowd Counting in Unseen Scenarios</font>
+        </a>
+        <div style="margin-top: 10px"><B>Zhipeng Du</B>, Jiankang Deng, <B>Miaojing Shi</B></div>
+        <div style="margin-top: 10px;">
+            <B><i>AAAI 2023 </i></B>
+        </div>
+        </td>
+    </tr>
+</table>
+</div>
+
 
 <div>
 <table>

@@ -60,29 +60,6 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="/img/Photo_YingyueXu.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Yingyue Xu
-                           <a>
-                              <i id="people-04" aria-hidden="true">
-                                 <ion-icon name="home-outline"></ion-icon>
-                              </i>
-                           </a>
-                        </p>
-                        <p class="subtitle is-6">yingyue.xu@kcl.ac.uk</p>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-            </td>
-            <td width="30%">
-                <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
                           <img src="/img/Photo_Hamed.png" alt="Placeholder image">
                         </figure>
                       </div>
@@ -100,6 +77,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
+            <td width="30%"></td>
            <td width="30%"></td>
         </tr>
     </table>
@@ -112,6 +90,31 @@ show_sidebar: false
 <div>
     <table width="50%">
         <tr align="center">
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="/img/Photo_XinyueChen.png" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Xinyue Chen
+                           <a>
+                              <i id="people-08" aria-hidden="true">
+                                 <ion-icon name="home-outline"></ion-icon>
+                              </i>
+                           </a>
+                        </p>
+                        <p class="subtitle is-6">xinyue.1.chen@kcl.ac.uk</p>
+                        <p class="subtitle is-6">(2022-)</p> 
+                        <p class="subtitle is-6">co-advised by Tomasz Radzik</p>      
+                      </div>
+                    </div>  
+                  </div>
+                </div>
+           </td>
             <td width="30%">
                 <div class="card">
                   <div class="card-content">
@@ -158,6 +161,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
+        </tr>
+        <tr align="center">
             <td width="30%">
                 <div class="card">
                   <div class="card-content">
@@ -183,8 +188,6 @@ show_sidebar: false
                   </div>
                 </div>
            </td>
-        </tr>
-        <tr align="center">
             <td width="30%">
                 <div class="card">
                   <div class="card-content">
@@ -398,7 +401,7 @@ show_sidebar: false
 ### Former Members
 
 - [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
-
+- **Yingyue Xu**, 2021.10 - 2022.10 Postdoctoral Fellow, now at Zhuhai Fudan Innovation Institute.
 
 
 
@@ -549,6 +552,27 @@ show_sidebar: false
   </div>
 </div>
 
+<div id="detail-08" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">PhD</p>
+      <button class="delete" id="top-close-08" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Xinyue Chen</h2>
+        <p>
+        Xinyue is a Ph.D. student supervised by Dr. Miaojing Shi at VisCom Lab, King’s College London. Before her Ph.D., Xinyue received her B.Eng. degree and M.S. degree in Electronics and Information Engineering from Sichuan University in 2019 and 2022, respectively. She studied crowd counting during her M.S. degree, and is now working on few-shot semantic segmentation. Her research interests include computer vision and deep learning.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-08">Close</button>
+    </footer>
+  </div>
+</div>
+
 <script>
 $("#people-01").click(function() {
   $("#detail-01").addClass("is-active");  
@@ -612,5 +636,14 @@ $("#top-close-07").click(function() {
 });
 $("#close-07").click(function() {
    $("#detail-07").removeClass("is-active");
+});
+$("#people-08").click(function() {
+  $("#detail-08").addClass("is-active");  
+});
+$("#top-close-08").click(function() {
+   $("#detail-08").removeClass("is-active");
+});
+$("#close-08").click(function() {
+   $("#detail-08").removeClass("is-active");
 });
 </script>
