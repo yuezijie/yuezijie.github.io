@@ -29,9 +29,9 @@ show_sidebar: false
 
 
 ## News
-- **Nov. 2022** Welcome Ms. Xinyue Chen to join our lab as PhD!
+- **Nov. 2022** Welcome Ms. Xinyue Chen to join our lab as a fresh PhD!
 - **Nov. 2022** One paper accepted to <B>AAAI 2023</B>. Congrats to Zhipeng!
-- **Oct. 2022**  Welcome Mr. Maxime Fontana, Mr. Oluwatosin Alabi and Ms. Iman Islam to join our lab as PhD!
+- **Oct. 2022**  Welcome Mr. Maxime Fontana, Mr. Oluwatosin Alabi and Ms. Iman Islam to join our lab as new PhDs!
 - **Sep. 2022**  Dr. Shi will be an invited speaker for <B>ECCV</B> workshop [SSLAD](https://sslad2022.github.io/pages/speakers.html).
 - **Sep. 2022**  Dr. Shi is invited for a seminar talk at <B>University of Leicester</B> (Oct .7): <i>Using metric-learning to tackle semantic segmentation in multimodal imaging</i>.
 - **Aug. 2022**  Our proposal to <B>EPSRC IAA</B> grant is accepted (PI: Dr. Shi).
@@ -40,8 +40,6 @@ show_sidebar: false
 - **Jul. 2022**  Welcome Mr. Zijian Zhou to join our lab as a PhD!
 - **Jul. 2022**  One paper accepted to <B>IEEE Transactions on Circuits and Systems for Video Technology</B>.
 - **Jul. 2022**  Dr. Shi becomes a <B>Fellow</B> of Higher Education Academy (HEA).
-- **Jul. 2022**  Dr. Shi will be an invited speaker for [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/#invited).
-- **Jun. 2022**  Our proposal to <B>King’s–NVIDIA</B> Cambridge1 grant is accepted (PI: Dr. Shi).
 
 
 [more news](/news/)
