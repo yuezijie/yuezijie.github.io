@@ -109,8 +109,7 @@ show_sidebar: false
                         </p>
                         <p class="subtitle is-6">xinyue.1.chen@kcl.ac.uk</p>
                         <p class="subtitle is-6">(2022-)</p> 
-                        <p class="subtitle is-6">co-advised by Tomasz Radzik</p>      
-                      </div>
+                                              </div>
                     </div>  
                   </div>
                 </div>
@@ -400,8 +399,8 @@ show_sidebar: false
 
 ### Former Members
 
-- [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
 - **Yingyue Xu**, 2021.10 - 2022.10 Postdoctoral Fellow, now at Zhuhai Fudan Innovation Institute.
+- [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
 
 
 

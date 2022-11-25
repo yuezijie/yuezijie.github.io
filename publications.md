@@ -23,7 +23,7 @@ show_sidebar: false
                                                    by Masked Image Modeling</font>
     </a>
     </div>
-    <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He1, Jiming Chen, Kaicheng Yu</div>
+    <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He, Jiming Chen, Kaicheng Yu</div>
     <div style="margin-top: 10px"><B><i>arXiv:2211.10105</i></B></div>
     <div style="margin-top: 10px">
         [<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]
