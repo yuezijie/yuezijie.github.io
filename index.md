@@ -29,9 +29,9 @@ show_sidebar: false
 
 
 ## News
-- **Dec. 2022** Dr. Shi received King's Recognition Award for his contribution to King's College London during the academic year 2021/22.
+- **Dec. 2022** Dr. Shi received <B>King's Recognition Award</B> for his contribution to King's College London during the academic year 2021/22.
 - **Dec. 2022** Dr. Shi will introduce the AI programe of King's College London at British Council in China.
-- **Dec. 2022** Dr. Shi will be a senior PC for IJCAI-2023.
+- **Dec. 2022** Dr. Shi will be a <B>senior PC</B> for IJCAI-2023.
 - **Nov. 2022** Welcome Ms. Xinyue Chen to join our lab as a fresh PhD!
 - **Nov. 2022** One paper accepted to <B>AAAI 2023</B>. Congrats to Zhipeng!
 - **Oct. 2022**  Welcome Mr. Maxime Fontana, Mr. Oluwatosin Alabi and Ms. Iman Islam to join our lab as new PhDs!
