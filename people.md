@@ -108,7 +108,8 @@ show_sidebar: false
                            </a>
                         </p>
                         <p class="subtitle is-6">xinyue.1.chen@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2022-)</p> 
+                        <p class="subtitle is-6">(2022-)</p>
+<p class="subtitle is-6">co-advised by Sophia Tsoka</p> 
                                               </div>
                     </div>  
                   </div>

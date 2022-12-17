@@ -7,11 +7,15 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+- **2022.12** Dr. Shi received **King's Recognition Award** for his contribution to King's College London during the academic year 2021/22.
+
 - **2022.09 - 2023.03** Principal Investigator, **UK Engineering and Physical Sciences Research Council - Impact Acceleration Award** (£8K)
 [<i id="award-04" style="color:red" aria-hidden="true">more</i>]
 
 - **2022.09 - 2023.08** Principal Investigator, **King's-NVIDIA Cambridge1 Grant** (£28K)
 [<i id="award-03" style="color:red" aria-hidden="true">more</i>]
+
+- **2022.07** Dr. Shi becomes a Fellow of [Higher Education Academy (HEA).](https://www.advance-he.ac.uk/fellowship/fellowship)
 
 - **2021.01 - 2023.12** Investigator, **EU-H2020 Grant** (€2M)\\
 [Restarting the Economy in Support of Environment, through Technology.](https://cordis.europa.eu/project/id/101017857)
