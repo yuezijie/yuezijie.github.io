@@ -11,16 +11,17 @@ show_sidebar: false
             <td>
                 <table>
                     <tr>
-                      <td width="20%"><img src="img/logo.jpg"></td>
-                      <td width="70%"></td>
+                      <td width="15%"><img src="img/logo.jpg"></td>
+                      <td width="80%">
+                              <div>
+                                          <B>Welcome to the Visual Computing (VisCom) research lab. We are part of the Informatics at King’s College London.</B>
+                              </div>
+                      </td>
                     </tr>
                 </table>
                 <table>
                     <tr>
                         <td width="100%">
-                          <div>
-                                      <B>Welcome to the Visual Computing (VisCom) research lab. We are part of the Informatics at King’s College London.</B>
-                          </div>
                           <div>
                               Our research field is <i>computer vision</i> and <i>multimedia computing</i>.
                               We are interested in a wide range of topics, and our current focus is on
@@ -31,7 +32,7 @@ show_sidebar: false
                 </table>
             </td>
             <td width="30%">
-                  <img src="img/groupPhoto.jpg">
+                  <img src="img/groupPhoto0.jpg">
             </td>
         </tr>
     </table>
