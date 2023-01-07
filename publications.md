@@ -438,7 +438,7 @@ show_sidebar: false
             </div>
             <div style="margin-top: 10px"><i><B>ACM MM 2020</B></i></div>
             <div style="margin-top: 10px">
-                [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FLiuWenQingS%2FDefending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement&sa=D&sntz=1&usg=AFQjCNEBbRiaP9OGmq2S9JODRUmvLSCAkA">code</a>]
+                [<a href="https://github.com/LiuWenQingS/Defending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement">code</a>]
             </div>
             </td>
         </tr>
