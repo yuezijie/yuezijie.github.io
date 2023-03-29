@@ -1,0 +1,7 @@
+ssh kxxxxxxx@bastion.nms.kcl.ac.uk -i ~/.ssh/id_rsa -m hmac-sha2-256
+ssh nmswebacad018.nms.kcl.ac.uk
+cd /var/www/vhost/viscom.nms.kcl.ac.uk/app/current
+del app
+mkdir app
+cd app (/var/www/vhost/viscom.nms.kcl.ac.uk/app/current)
+sudo bundle exec jekyll build --destination ./current

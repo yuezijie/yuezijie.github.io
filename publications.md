@@ -13,6 +13,27 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/HiLo.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2303.15994.pdf">
+    <font style="color: #aa2116;font-weight: bold">HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Miaojing Shi</B>, Holger Caesar</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2303.15994</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/alphaDARTS.png">
             </figure>
             </td>
@@ -144,11 +165,11 @@ show_sidebar: false
         </td>
         <td>
         <a href="https://arxiv.org/pdf/2212.02573.pdf">
-        <font style="color: #aa2116;font-weight: bold">Domain-general Crowd Counting in Unseen Scenarios</font>
+        <font style="color: #aa2116;font-weight: bold">Domain-General Crowd Counting in Unseen Scenarios</font>
         </a>
         <div style="margin-top: 10px"><B>Zhipeng Du</B>, Jiankang Deng, <B>Miaojing Shi</B></div>
         <div style="margin-top: 10px;">
-            <B><i>AAAI 2023 </i></B>
+            <B><i>AAAI 2023(Oral) </i></B>
         </div>
         <div style="margin-top: 10px">
         [<a href="https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios">code</a>]

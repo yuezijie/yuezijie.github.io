@@ -41,6 +41,7 @@ show_sidebar: false
 
 
 ## News
+- **Mar. 2023** One paper accepted to <B>ACM ITiCSE 2023</B>. Congrats to Marcus!
 - **Dec. 2022** Dr. Shi received <B>King's Recognition Award</B> for his contribution to King's College London during the academic year 2021/22.
 - **Dec. 2022** Dr. Shi will introduce the AI programe of King's College London at British Council in China.
 - **Dec. 2022** Dr. Shi will be a <B>senior PC</B> for IJCAI-2023.
