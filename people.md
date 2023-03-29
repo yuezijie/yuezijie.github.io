@@ -377,7 +377,7 @@ show_sidebar: false
 
 ### Former Members
 
-- **Zijie Yue**, 2021.10 - 2023.01 Visiting PhD, now at Hefei University of Technology
+- **Zijie Yue**, 2021.10 - 2023.01 Visiting PhD, now at Hefei University of Technology.
 - **Yingyue Xu**, 2021.10 - 2022.10 Postdoctoral Fellow, now at Zhuhai Fudan Innovation Institute.
 - [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
 
