@@ -1,9 +1,13 @@
----
+﻿---
 title: News
 layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+- **Jun. 2023** One paper accepted to IEEE TIP. Congrats to Zhipeng! 
+- **May  2023** One paper accepted to ATIS. Congrats to Kuanhao and Zijie! 
+- **Apr. 2023** Dr. Shi becomes a senior member of IEEE!
+- **Mar. 2023** One paper accepted to ACM ITiCSE 2023. Congrats to Marcus!
 - **Dec. 2022** Dr. Shi received King's Recognition Award for his contribution to King's College London during the academic year 2021/22.
 - **Dec. 2022** Dr. Shi will introduce the AI programe of King's College London at British Council in China.
 - **Dec. 2022** Dr. Shi will be a senior PC for IJCAI-2023.
