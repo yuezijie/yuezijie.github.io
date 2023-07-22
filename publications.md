@@ -8,6 +8,7 @@ show_sidebar: false
 ### Preprints
 ----------------------
 
+
 <div>
 <table>
     <tr>
@@ -32,55 +33,6 @@ show_sidebar: false
     </tr>
     </table>
 </div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/VideobasedRemote.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2210.15401.pdf">
-    <font style="color: #aa2116;font-weight: bold">Video-based Remote Physiological Measurement via Self-supervised Learning</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2210.15401</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/yuezijie/Video-based-Remote-Physiological-Measurement-via-Self-supervised-Learning">code</a>]
-        </div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/RedesigningMulti-ScaleNeuralNetwork.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2208.02894.pdf">
-    <font style="color: #aa2116;font-weight: bold">Redesigning Multi-Scale Neural Network for Crowd Counting</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng, Stefanos Zafeiriou</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2208.02894</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting">code</a>]
-        </div>
-    </td>
-    </tr>
-    </table>
-</div>
-
 
 <div>
 <table>
@@ -133,6 +85,77 @@ show_sidebar: false
 
 ### 2023
 ----------------------
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/VideobasedRemote.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2210.15401.pdf">
+    <font style="color: #aa2116;font-weight: bold">Video-based Remote Physiological Measurement via Self-supervised Learning</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding</div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/yuezijie/Video-based-Remote-Physiological-Measurement-via-Self-supervised-Learning">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/HiLo.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2303.15994.pdf">
+    <font style="color: #aa2116;font-weight: bold">HiLo: Exploiting High Low Frequency Relations for Unbiased Panoptic Scene Graph Generation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Miaojing Shi</B>, Holger Caesar</div>
+    <div style="margin-top: 10px"><B><i>ICCV 2023</i></B></div>
+    <div style="margin-top: 10px">
+    [<a href="https://github.com/franciszzj/HiLo">code</a>]
+    </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/RedesigningMulti-ScaleNeuralNetwork.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2208.02894.pdf">
+    <font style="color: #aa2116;font-weight: bold">Redesigning Multi-Scale Neural Network for Crowd Counting</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng, Stefanos Zafeiriou</div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Image Processing</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
@@ -144,11 +167,11 @@ show_sidebar: false
         </td>
         <td>
         <a href="https://arxiv.org/pdf/2212.02573.pdf">
-        <font style="color: #aa2116;font-weight: bold">Domain-general Crowd Counting in Unseen Scenarios</font>
+        <font style="color: #aa2116;font-weight: bold">Domain-General Crowd Counting in Unseen Scenarios</font>
         </a>
         <div style="margin-top: 10px"><B>Zhipeng Du</B>, Jiankang Deng, <B>Miaojing Shi</B></div>
         <div style="margin-top: 10px;">
-            <B><i>AAAI 2023 </i></B>
+            <B><i>AAAI 2023(Oral) </i></B>
         </div>
         <div style="margin-top: 10px">
         [<a href="https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios">code</a>]

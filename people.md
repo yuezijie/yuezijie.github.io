@@ -332,7 +332,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="https://www.kcl.ac.uk/newimages/nms/person-profile-160x160/kholoud-alghamdi.xdf2f4938.jpeg?w=160&h=247&crop=160,160,0,65&f=webp" alt="Placeholder image">
+                          <img src="/img/Photo_deer.png" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
@@ -348,29 +348,6 @@ show_sidebar: false
                     </div>  
                   </div>
                 </div>
-            </td>
-            <td width="30%">
-                          <div class="card">
-                              <div class="card-content">
-                                <div class="media">
-                                  <div class="media-left">
-                                    <figure class="image is-96x96">
-                                      <img src="https://i1.rgstatic.net/ii/profile.image/1061340500209664-1630054702888_Q128/Zijie-Yue.jpg" alt="Placeholder image">
-                                    </figure>
-                                  </div>
-                                  <div class="media-content">
-                                    <p class="title is-4">Zijie Yue 
-                                        <a href="https://www.researchgate.net/profile/Zijie-Yue   ">
-                                            <ion-icon name="home-outline"></ion-icon>
-                                        </a>
-                                    </p>
-                                    <p class="subtitle is-6">zijie.yue@kcl.ac.uk</p>
-                                    <p class="subtitle is-6">(Visiting PhD)</p> 
-                                    <p class="subtitle is-6" style="color: #ffffff">&</p>                                                                  
-                                  </div>
-                                </div>  
-                              </div>
-                            </div>
             </td>
             <td width="30%">
               <div class="card">
@@ -400,6 +377,7 @@ show_sidebar: false
 
 ### Former Members
 
+- **Zijie Yue**, 2021.10 - 2023.01 Visiting PhD, now at Tongji University.
 - **Yingyue Xu**, 2021.10 - 2022.10 Postdoctoral Fellow, now at Zhuhai Fudan Innovation Institute.
 - [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
 

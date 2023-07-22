@@ -1,12 +1,10 @@
 - name: Members
   link: /people/
-  # dropdown:
-  #   - name: Prof. Shi
-  #     link: https://sites.google.com/site/miaojingshi/home
-  #   - name: Zhipeng Du
-  #     #link: /page-2/
-  #   - name: Zijie Yue
-  #     #link: /page-3/
+  dropdown:
+    - name: Tongji University
+      link: /tjpeople/
+    - name: King's College London
+      link: /people/
 - name: Publications
   link: /publications/
 - name: Awards
