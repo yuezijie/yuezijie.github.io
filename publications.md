@@ -8,6 +8,50 @@ show_sidebar: false
 ### Preprints
 ----------------------
 
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/TextPromptableSurgicalInstrumentSegmentation.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2306.09244.pdf">
+    <font style="color: #aa2116;font-weight: bold">Text Promptable Surgical Instrument Segmentation with Vision-Language Models</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Oluwatosin Alabi</B>, <B>Meng Wei</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2306.09244</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/LoSh.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2306.08736.pdf">
+    <font style="color: #aa2116;font-weight: bold">LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Linfeng Yuan</B>, <B>Miaojing Shi</B>, <B>Zijie Yue</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2306.08736</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
@@ -58,30 +102,6 @@ show_sidebar: false
     </table>
 </div>
 
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/BoostingZero-shotLearning.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2207.03824.pdf">
-    <font style="color: #aa2116;font-weight: bold">Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px">Yu Du, <B>Miaojing Shi</B>, Fangyun Wei, Guoqi Li</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2207.03824</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/dyabel/CoAR-ZSL.git">code</a>]
-        </div>
-    </td>
-    </tr>
-    </table>
-</div>
 
 ### 2023
 ----------------------
@@ -138,6 +158,54 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/BoostingZero-shotLearning.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2207.03824.pdf">
+    <font style="color: #aa2116;font-weight: bold">Boosting Zero-shot Learning via Contrastive Optimization of Attribute Representations</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Yu Du, <B>Miaojing Shi</B>, Fangyun Wei, Guoqi Li</div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Neural Networks and Learning Systems</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/dyabel/CoAR-ZSL.git">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/TreeFormer.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2307.06118.pdf">
+    <font style="color: #aa2116;font-weight: bold">TreeFormer: a Semi-Supervised Transformer-based Framework for Tree Counting from a Single High Resolution Image</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Hamed Amini Amirkolaee</B>, <B>Miaojing Shi</B>, Mark Mulligan</div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Geoscience and Remote Sensing</i></B></div>
+    <div style="margin-top: 10px">
+        [<a href="https://github.com/HAAClassic/TreeFormer">code</a>]
+        </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/RedesigningMulti-ScaleNeuralNetwork.png">
             </figure>
             </td>
@@ -152,6 +220,27 @@ show_sidebar: false
     <div style="margin-top: 10px">
         [<a href="https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting">code</a>]
         </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/LTFA-Net.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://link.springer.com/article/10.1007/s43684-023-00051-9">
+    <font style="color: #aa2116;font-weight: bold">Space-time video super-resolution using long-term temporal feature aggregation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Kuanhao Chen</B>, <B>Zijie Yue</B>, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>Autonomous Intelligent Systems</i></B></div>
     </td>
     </tr>
     </table>
