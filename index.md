@@ -45,10 +45,10 @@ show_sidebar: false
 - **Jul. 2023** One paper accepted to <B>ICCV</B>. Congrats to Zijian! 
 - **Jul. 2023** One paper accepted to <B>IEEE TNNLS</B>. 
 - **Jun. 2023** One paper accepted to <B>IEEE TGRS</B>. Congrats to Hamed! 
-- **Jun. 2023** Dr. Shi recently gave invited talks at Tongji Hospital, HFUT, and LalaMove.     
-- **Jun. 2023** One paper accepted to <B>IEEE TIP</B>. Congrats to Zhipeng! 
+- **Jun. 2023** Dr. Shi recently gave invited talks at Tongji Hospital, HFUT, and LalaMove.    
+- **Jun. 2023** One paper accepted to <B>IEEE TIP</B>. Congrats to Zhipeng!
 - **May. 2023** One paper accepted to ATIS. Congrats to Kuanhao and Zijie! 
-- **Apr. 2023** Dr. Shi becomes a <B>Senior Member<B> of IEEE!
+- **Apr. 2023** Dr. Shi becomes a <B>Senior Member</B> of IEEE!
 - **Mar. 2023** One paper accepted to <B>ACM ITiCSE 2023</B>. Congrats to Marcus!
 
 [more news](/news/)
