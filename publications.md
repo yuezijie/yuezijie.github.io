@@ -24,9 +24,6 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Oluwatosin Alabi</B>, <B>Meng Wei</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>arXiv:2306.09244</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]
-        </div>
     </td>
     </tr>
     </table>
