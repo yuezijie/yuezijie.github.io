@@ -14,7 +14,7 @@ show_sidebar: false
                       <td width="15%"><img src="img/logo.jpg"></td>
                       <td width="80%">
                               <div>
-                                          <B>Welcome to the Visual Computing (VisCom) research lab. We are part of the Informatics at King’s College London.</B>
+                                          <B>Welcome to the Visual Computing (VisCom) research lab. This is a joint lab belonging to both the College of Electronic and Information Engineering, Tongji University and the Department of Informatics, King's College London. </B>
                               </div>
                       </td>
                     </tr>
@@ -41,17 +41,18 @@ show_sidebar: false
 
 
 ## News
+- **Jul. 2023** One paper accepted to IEEE TPAMI. Congrats to Zijie! 
+- **Jul. 2023** One paper accepted to ICCV. Congrats to Zijian! 
+- **Jul. 2023** One paper accepted to IEEE TNNLS. 
+- **Jun. 2023** One paper accepted to IEEE TGRS. Congrats to Hamed! 
+- **Jun. 2023** Dr. Shi recently gave invited talks at Tongji Hospital, HFUT, and LalaMove.    
+- **Jun. 2023** One paper accepted to IEEE TIP. Congrats to Zhipeng! 
+- **May. 2023** One paper accepted to ATIS. Congrats to Kuanhao and Zijie! 
+- **Apr. 2023** Dr. Shi becomes a Senior Member of IEEE!
 - **Mar. 2023** One paper accepted to <B>ACM ITiCSE 2023</B>. Congrats to Marcus!
 - **Dec. 2022** Dr. Shi received <B>King's Recognition Award</B> for his contribution to King's College London during the academic year 2021/22.
 - **Dec. 2022** Dr. Shi will introduce the AI programe of King's College London at British Council in China.
 - **Dec. 2022** Dr. Shi will be a <B>senior PC</B> for IJCAI-2023.
-- **Nov. 2022** Welcome Ms. Xinyue Chen to join our lab as a fresh PhD!
-- **Nov. 2022** One paper accepted to <B>AAAI 2023</B>. Congrats to Zhipeng!
-- **Oct. 2022**  Welcome Mr. Maxime Fontana, Mr. Oluwatosin Alabi and Ms. Iman Islam to join our lab as new PhDs!
-- **Sep. 2022**  Dr. Shi will be an invited speaker for <B>ECCV</B> workshop [SSLAD](https://sslad2022.github.io/pages/speakers.html).
-- **Sep. 2022**  Dr. Shi is invited for a seminar talk at <B>University of Leicester</B> (Oct .7): <i>Using metric-learning to tackle semantic segmentation in multimodal imaging</i>.
-- **Aug. 2022**  Our proposal to <B>EPSRC IAA</B> grant is accepted (PI: Dr. Shi).
-- **Aug. 2022**  Welcome to submit to our special issue [Visual Learning with Multi-Task Supervision](https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5) at [Journal of Imaging](https://www.mdpi.com/journal/jimaging).
-- **Aug. 2022**  One paper accepted to <B>MICCAI STACOM</B>. Congrats to Tiarna!
+
 
 [more news](/news/)
