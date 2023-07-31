@@ -13,6 +13,27 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/WhenMulti-TaskLearningMeetsPartialSupervisionAComputerVisionReview.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2307.14382.pdf">
+    <font style="color: #aa2116;font-weight: bold">When Multi-Task Learning Meets Partial Supervision: A Computer Vision Review</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2307.14382</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/TextPromptableSurgicalInstrumentSegmentation.png">
             </figure>
             </td>
