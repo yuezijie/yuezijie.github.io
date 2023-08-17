@@ -13,6 +13,27 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/SegMatch.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2308.05232.pdf">
+    <font style="color: #aa2116;font-weight: bold">SegMatch: A semi-supervised learning method for surgical instrument segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Meng Wei</B>, Charlie Budd, Luis C. Garcia-Peraza-Herrera, Reuben Dorent, <B>Miaojing Shi</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2308.05232</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/WhenMulti-TaskLearningMeetsPartialSupervisionAComputerVisionReview.png">
             </figure>
             </td>
