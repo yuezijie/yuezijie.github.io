@@ -7,7 +7,8 @@ show_sidebar: false
 
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-*上海曹安公路4800号智信馆*
+*Zhixin Building, Tongji University*\\
+*4800 Caoan Road, Shanghai, China*
 
 ## Head
 <Body>
