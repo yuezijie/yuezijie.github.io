@@ -7,9 +7,7 @@ show_sidebar: false
 
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-*King's College London, Informatics*\\
-*BH(N) 5.07, Bush House, Strand Campus,*\\
-*30, Aldwych, London WC2B 4BG*
+*上海曹安公路4800号智信馆*
 
 ## Head
 <Body>
