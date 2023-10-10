@@ -50,26 +50,6 @@ show_sidebar: false
     </table>
 </div>
 
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/TextPromptableSurgicalInstrumentSegmentation.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2306.09244.pdf">
-    <font style="color: #aa2116;font-weight: bold">Text Promptable Surgical Instrument Segmentation with Vision-Language Models</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Oluwatosin Alabi</B>, <B>Meng Wei</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2306.09244</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
 
 <div>
 <table>
@@ -165,6 +145,53 @@ show_sidebar: false
 
 ### 2023
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/AnInvestigationIntoTheImpactOfDLModelChoiceOnSexAndRaceBiasInCardiacMRSegmentation.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2308.13415.pdf">
+    <font style="color: #aa2116;font-weight: bold">An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Antón, Bram Ruijsink, Keana Aitcheson, <B>Miaojing Shi</B>, Andrew P. King</div>
+    <div style="margin-top: 10px"><B><i>MICCAI 20223 FAIMI Workshop</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/TextPromptableSurgicalInstrumentSegmentation.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2306.09244.pdf">
+    <font style="color: #aa2116;font-weight: bold">Text Promptable Surgical Instrument Segmentation with Vision-Language Models</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Oluwatosin Alabi</B>, <B>Meng Wei</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>NeurIPS 2023</i></B></div>
+    <div style="margin-top: 10px">
+    [<a href="https://github.com/franciszzj/TP-SIS">code</a>]
+    </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
 <div>
 <table>
     <tr>
