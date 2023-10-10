@@ -7,6 +7,8 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+- **2023.04** Dr. Shi becomes a <B>Senior Member</B> of IEEE!
+
 - **2022.12** Dr. Shi received **King's Recognition Award** for his contribution to King's College London during the academic year 2021/22.
 
 - **2022.09 - 2023.03** Principal Investigator, **UK Engineering and Physical Sciences Research Council - Impact Acceleration Award** (£8K)

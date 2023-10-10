@@ -50,6 +50,5 @@ show_sidebar: false
 - **Jul. 2023** One paper accepted to <B>IEEE TNNLS</B>. 
 - **Jun. 2023** One paper accepted to <B>IEEE TGRS</B>. Congrats to Hamed! 
 - **Jun. 2023** Dr. Shi recently gave invited talks at Tongji Hospital, HFUT, and LalaMove.    
-- **Jun. 2023** One paper accepted to <B>IEEE TIP</B>. Congrats to Zhipeng! 
 
 [more news](/news/)

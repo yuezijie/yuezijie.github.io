@@ -9,11 +9,11 @@ show_sidebar: false
 <Body>
 We are always looking for excellent researchers, including interns, PhDs, post-docs, and visiting students to work with us on computer vision and multimedia projects.
 
-If you are interested, feel free to drop an message to Dr. Shi <B>miaojing.shi@kcl.ac.uk</B>.
+If you are interested, feel free to drop an message to Dr. Shi <B>mshi@tongji.edu.cn</B>/<B>miaojing.shi@kcl.ac.uk</B>.
 
 </Body>
 
-- 08/2022  [<B>Open</B>] Journal of Imaging - Call for Papers: <a href="https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5"> Special Issue on Visual Learning with Multi-Task Supervision.</a>
+- 08/2022  [<B>Closed</B>] Journal of Imaging - Call for Papers: <a href="https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5"> Special Issue on Visual Learning with Multi-Task Supervision.</a>
 
 - 01/2022  [<B>Closed</B>] Autonomous Intelligent Systems - Call for Papers: <a href="https://www.springer.com/journal/43684/updates/20046000"> Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems.</a>
 

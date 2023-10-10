@@ -7,9 +7,8 @@ show_sidebar: false
 
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-*King's College London, Informatics*\\
-*BH(N) 5.07, Bush House, Strand Campus,*\\
-*30, Aldwych, London WC2B 4BG*
+*Zhixin Building, Tongji University*\\
+*4800 Caoan Road, Shanghai, China*
 
 ## Head
 <Body>
@@ -128,10 +127,40 @@ show_sidebar: false
         </tr>
     </table>
 </div>
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </Body>
 
+### Masters
+<Body>
+<div>
+    <table width="50%">
+        <tr align="center">
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="/img/Photo_XiaowenZhang.jpg" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Xiaowen Zhang
+                        </p>
+                        <p class="subtitle is-6">790646284@qq.com</p>
+                       </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
+            <td width="30%"></td>
+            <td width="30%"></td>
+        </tr>
+    </table>
+</div>
+</Body>
+
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 
 <div id="detail-02" class="modal">

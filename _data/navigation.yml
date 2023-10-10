@@ -1,5 +1,5 @@
 - name: Members
-  link: /people/
+  # link: /people/
   dropdown:
     - name: Tongji University
       link: /tjpeople/
