@@ -161,7 +161,7 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Antón, Bram Ruijsink, Keana Aitcheson, <B>Miaojing Shi</B>, Andrew P. King</div>
-    <div style="margin-top: 10px"><B><i>MICCAI 20223 FAIMI Workshop</i></B></div>
+    <div style="margin-top: 10px"><B><i>MICCAI 2023 FAIMI Workshop</i></B></div>
     </td>
     </tr>
     </table>
