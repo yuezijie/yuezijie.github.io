@@ -13,6 +13,27 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/IMITATE.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2310.07355.pdf">
+    <font style="color: #aa2116;font-weight: bold">IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Che Liu, Sibo Cheng, <B>Miaojing Shi</B>, Anand Shah, Wenjia Bai, Rossella Arcucci</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2310.07355</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/SegMatch.png">
             </figure>
             </td>
