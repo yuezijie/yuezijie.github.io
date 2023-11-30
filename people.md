@@ -251,7 +251,7 @@ show_sidebar: false
 <div>
     <table width="50%">        
         <tr align="center">
-           <td width="30%">
+           <!-- <td width="30%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -275,7 +275,7 @@ show_sidebar: false
                     </div>  
                   </div>
                 </div>
-           </td>
+           </td> -->
            <td width="30%">
               <div class="card">
                   <div class="card-content">
@@ -324,8 +324,6 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-          </tr>
-          <tr align="center">
             <td width="31%">
               <div class="card">
                   <div class="card-content">
@@ -349,6 +347,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
+          </tr>
+          <tr align="center">
             <td width="30%">
               <div class="card">
                   <div class="card-content">
