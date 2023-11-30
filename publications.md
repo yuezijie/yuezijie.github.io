@@ -203,7 +203,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">Distilling base-and-meta network with contrastive learning for few-shot semantic segmentation</font>
     </a>
     </div>
-    <div style="margin-top: 10px"><B>Xinyue Chen</B>, Yueyi Wang, Yingyue Xu <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Yueyi Wang</B>, <B>Yingyue Xu</B>, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>Autonomous Intelligent Systems</i></B></div>
     </td>
     </tr>
