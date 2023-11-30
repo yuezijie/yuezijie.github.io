@@ -13,6 +13,28 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/VLPrompt.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2311.16492.pdf">
+    <font style="color: #aa2116;font-weight: bold">VLPrompt: Vision-Language Prompting for Panoptic Scene Graph Generation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Miaojing Shi</B>, Holger Caesar</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2311.16492</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/IMITATE.png">
             </figure>
             </td>
@@ -166,6 +188,28 @@ show_sidebar: false
 
 ### 2023
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/DBAM.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://link.springer.com/article/10.1007/s43684-023-00058-2">
+    <font style="color: #aa2116;font-weight: bold">Distilling base-and-meta network with contrastive learning for few-shot semantic segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Xinyue Chen</B>, Yueyi Wang, Yingyue Xu <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>Autonomous Intelligent Systems</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
 
 <div>
 <table>
