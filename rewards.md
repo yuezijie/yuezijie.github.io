@@ -8,8 +8,10 @@ show_sidebar: false
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
 - **2023.11** Dr. YUE Zjie has won the **Shanghai Super Postdoc Award**!
+[<i id="award-06" style="color:red" aria-hidden="true">more</i>]
 
-- **2024.01 - 2025.12** Principal Investigator (Yue Zijie), **China Postdoctoral Science Foundation Project** (¥**K)
+- **2024.01 - 2025.12** Principal Investigator (Yue Zijie), **China Postdoctoral Science Foundation Project** (¥80K)
+[<i id="award-05" style="color:red" aria-hidden="true">more</i>]
 
 - **2023.06 - 2024.12** Principal Investigator, **Zhejiang Rail and Transit Rroject** (¥***K)
 
@@ -125,6 +127,48 @@ show_sidebar: false
   </div>
 </div>
 
+<div id="detail-05" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Award</p>
+      <button class="delete" id="top-close-05" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>China Postdoctoral Science Foundation Project</h2>
+        <p>
+        The China Postdoctoral Science Foundation Project (CPSF) is a national-level initiative aimed at supporting postdoctoral researchers in China. Established by the Ministry of Human Resources and Social Security, the CPSF provides funding to eligible postdoctoral researchers across various fields of science and technology. The project aims to foster scientific research and innovation by offering financial support, resources, and opportunities for postdoctoral fellows to conduct research, publish papers, collaborate with academic institutions, and contribute to the advancement of science and technology in China.
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-05">Close</button>
+    </footer>
+  </div>
+</div>
+
+<div id="detail-06" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Award</p>
+      <button class="delete" id="top-close-06" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h2>Shanghai Super Postdoc Award</h2>
+        <p>
+        Shanghai Super Postdoc Award is an award launched by the Shanghai municipal government to attract and cultivate high-level talents. This initiative aims to provide a strong research platform and excellent working environment for postdoctoral researchers, enabling them to achieve significant research outcomes and make breakthroughs in academic, technological, and innovative domains. Applicants not only have access to substantial research funding and academic support but also the opportunity to collaborate with outstanding research teams and scientific institutions. 
+        </p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+        <button class="button" id="close-06">Close</button>
+    </footer>
+  </div>
+</div>
+
 
 <script>
 $("#award-01").click(function() {
@@ -162,5 +206,23 @@ $("#top-close-04").click(function() {
 });
 $("#close-04").click(function() {
    $("#detail-04").removeClass("is-active");
+});
+$("#award-05").click(function() {
+  $("#detail-05").addClass("is-active");  
+});
+$("#top-close-05").click(function() {
+   $("#detail-05").removeClass("is-active");
+});
+$("#close-05").click(function() {
+   $("#detail-05").removeClass("is-active");
+});
+$("#award-06").click(function() {
+  $("#detail-06").addClass("is-active");  
+});
+$("#top-close-06").click(function() {
+   $("#detail-06").removeClass("is-active");
+});
+$("#close-06").click(function() {
+   $("#detail-06").removeClass("is-active");
 });
 </script>
