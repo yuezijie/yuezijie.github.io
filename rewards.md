@@ -7,6 +7,17 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+- **2023.11** Dr. YUE Zjie has won the **Shanghai Super Postdoc Award**!
+
+- **2024.01 - 2025.12** Principal Investigator (Yue Zijie), **China Postdoctoral Science Foundation Project** (¥**K)
+[<i id="award-03" style="color:red" aria-hidden="true">more</i>]
+
+- **2023.06 - 2024.12** Principal Investigator, **China Overseas** (¥***K)
+[<i id="award-03" style="color:red" aria-hidden="true">more</i>]
+
+- **2023.06 - 2024.12** Principal Investigator, **High-End Foreign Experts Project** (¥***K)
+[<i id="award-03" style="color:red" aria-hidden="true">more</i>]
+
 - **2023.04** Dr. Shi becomes a <B>Senior Member</B> of IEEE!
 
 - **2022.12** Dr. Shi received **King's Recognition Award** for his contribution to King's College London during the academic year 2021/22.

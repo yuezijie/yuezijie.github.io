@@ -13,6 +13,8 @@ If you are interested, feel free to drop an message to Dr. Shi <B>mshi@tongji.ed
 
 </Body>
 
+- 11/2023 [<B>Open</B>] We are recruiting two postdocs at Tongji University, details can be found <a href="https://muchong.com/t-15877074-1"> here</a>
+
 - 08/2022  [<B>Closed</B>] Journal of Imaging - Call for Papers: <a href="https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5"> Special Issue on Visual Learning with Multi-Task Supervision.</a>
 
 - 01/2022  [<B>Closed</B>] Autonomous Intelligent Systems - Call for Papers: <a href="https://www.springer.com/journal/43684/updates/20046000"> Special Issue on Developing Reliable Machine Learning Methods for Autonomous Systems.</a>

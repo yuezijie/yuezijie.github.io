@@ -41,6 +41,8 @@ show_sidebar: false
 
 
 ## News
+- **Nov. 2023** Dr. YUE Zjie has won the <B>China Postdoctoral Science Foundation Project</B> and the <B>Shanghai Super Postdoc Award</B> !!!
+- **Nov. 2023** One paper accepted to <em>Autonomous Intelligent Systems</em>. Congrats to Xinyue and Yueyi!
 - **Sep. 2023** One paper accepted to <B>NeurIPS</B>. Congrats to Zijian, Tosin, and Meng!
 - **Sep. 2023** Welcome Mr. ZHANG Xiaowen (MS) and Dr. YUE Zijie (Postdoc) who recently joined VisCom-Tongji.  
 - **Aug. 2023** Dr. Shi gave an invited talk at IJCAI Symposium-[Medical Large Models](https://www.cair-cas.org.hk/article/ijcai-medical-large-models). 
@@ -48,7 +50,5 @@ show_sidebar: false
 - **Jul. 2023** One paper accepted to <B>IEEE TPAMI</B>. Congrats to Zijie! 
 - **Jul. 2023** One paper accepted to <B>ICCV</B>. Congrats to Zijian! 
 - **Jul. 2023** One paper accepted to <B>IEEE TNNLS</B>. 
-- **Jun. 2023** One paper accepted to <B>IEEE TGRS</B>. Congrats to Hamed! 
-- **Jun. 2023** Dr. Shi recently gave invited talks at Tongji Hospital, HFUT, and LalaMove.    
 
 [more news](/news/)
