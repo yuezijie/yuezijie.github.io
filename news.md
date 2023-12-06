@@ -4,7 +4,7 @@ layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
-- **Dec, 2023** One paper accepted to <em>ACM Transactions on Computing Education</em>. Congrats to Marcus!
+- **Dec. 2023** One paper accepted to <em>ACM Transactions on Computing Education</em>. Congrats to Marcus!
 - **Nov. 2023** Dr. YUE Zjie has won the <B>China Postdoctoral Science Foundation Project</B> and the <B>Shanghai Super Postdoc Award</B> !!!
 - **Nov. 2023** One paper accepted to <em>Autonomous Intelligent Systems</em>. Congrats to Xinyue and Yueyi!
 - **Sep. 2023** One paper accepted to <B>NeurIPS</B>. Congrats to Zijian, Tosin, and Meng!
