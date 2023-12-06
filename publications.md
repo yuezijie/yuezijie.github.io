@@ -13,6 +13,28 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/Du_Boosting.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2312.01220.pdf">
+    <font style="color: #aa2116;font-weight: bold">Boosting Object Detection with Zero-Shot Day-Night Domain Adaptation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2312.01220</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/VLPrompt.png">
             </figure>
             </td>
@@ -108,33 +130,13 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation</font>
     </a>
     </div>
-    <div style="margin-top: 10px"><B>Linfeng Yuan</B>, <B>Miaojing Shi</B>, <B>Zijie Yue</B></div>
+    <div style="margin-top: 10px"><B>Linfeng Yuan</B>, <B>Miaojing Shi</B>, <B>Zijie Yue</B>, Qijun Chen</div>
     <div style="margin-top: 10px"><B><i>arXiv:2306.08736</i></B></div>
     </td>
     </tr>
     </table>
 </div>
 
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/ARXIV.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2306.11722.pdf">
-    <font style="color: #aa2116;font-weight: bold">Automated Grading and Feedback Tools for Programming Education: A Systematic Review</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2306.11722</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
 
 <div>
 <table>
@@ -180,6 +182,31 @@ show_sidebar: false
     <div style="margin-top: 10px">
         [<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]
         </div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+### 2024
+----------------------
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/ARXIV.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2306.11722.pdf">
+    <font style="color: #aa2116;font-weight: bold">Automated Grading and Feedback Tools for Programming Education: A Systematic Review</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>ACM Transactions on Computing Education</i></B></div>
     </td>
     </tr>
     </table>
