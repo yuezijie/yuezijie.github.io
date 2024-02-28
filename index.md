@@ -41,6 +41,10 @@ show_sidebar: false
 
 
 ## News
+- **Feb. 2024** Two papers accepted to <B>CVPR</B>. Congrats to Linfeng and Zhipeng!
+- **Feb. 2024** One paper accepted to IPCAI. Congrats to Meng!
+- **Feb. 2024** Dr. Shi visited KCL, University of Edinburgh and University of Cambridge, gave invited talks respectively.
+- **Jan. 2024** One paper accepted to ISCAS.
 - **Dec. 2023** One paper accepted to <em>ACM Transactions on Computing Education</em>. Congrats to Marcus!
 - **Nov. 2023** Dr. YUE Zjie has won the <B>China Postdoctoral Science Foundation Project</B> and the <B>Shanghai Super Postdoc Award</B> !!!
 - **Nov. 2023** One paper accepted to <em>Autonomous Intelligent Systems</em>. Congrats to Xinyue and Yueyi!
