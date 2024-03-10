@@ -74,8 +74,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <!-- <td width="30%">
-            <div class="card">
+            <td width="30%">
+            <!-- <div class="card">
                   <div class="card-content">
                     <div class="media">
                       <div class="media-left">
