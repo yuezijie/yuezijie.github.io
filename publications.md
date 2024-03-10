@@ -13,6 +13,48 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/AdaTreeFormer.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2402.02956.pdf">
+    <font style="color: #aa2116;font-weight: bold">AdaTreeFormer: Few Shot Domain Adaptation for Tree Counting from a Single High-Resolution Image</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Hamed Amini Amirkolaee</B>, <B>Miaojing Shi</B>, Lianghua He, Mark Mulligan</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2402.02956</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/MLT_In_MIS_Review.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2401.08256.pdf">
+    <font style="color: #aa2116;font-weight: bold">Multitask Learning in Minimally Invasive Surgical Vision: A Review</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2401.08256</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/VLPrompt.png">
             </figure>
             </td>
@@ -143,6 +185,48 @@ show_sidebar: false
 
 ### 2024
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/IFSS.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="/publications/IFSS.pdf">
+    <font style="color: #aa2116;font-weight: bold">Memory-Based Contrastive Learning with Optimized Sampling for Incremental Few-Shot Semantic Segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Yuxuan Zhang, <B>Miaojing Shi</B>, Taiyi Su, Hanli Wang</div>
+    <div style="margin-top: 10px"><B><i>ISCAS</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/AdapterSIS.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="/publications/AdapterSIS.pdf">
+    <font style="color: #aa2116;font-weight: bold">Enhancing Surgical Instrument Segmentation: Integrating Vision Transformer Insights with Adapter</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Meng Wei</B>, <B>Miaojing Shi</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B><i>IPCAI 2024</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>

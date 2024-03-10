@@ -188,7 +188,7 @@ show_sidebar: false
                   </div>
                 </div>
            </td>
-            <td width="30%">
+            <!-- <td width="30%">
                 <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -212,7 +212,7 @@ show_sidebar: false
                     </div>  
                   </div>
                 </div>
-            </td>
+            </td> -->
             <td width="30%">
                 <div class="card">
                   <div class="card-content">
@@ -377,6 +377,7 @@ show_sidebar: false
 
 ### Former Members
 
+- **Zhipeng Du**, 2021.10 - 2023.09, PhD student, now at University of Edinburgh.
 - **Zijie Yue**, 2021.10 - 2023.01 Visiting PhD, now at Tongji University.
 - **Yingyue Xu**, 2021.10 - 2022.10 Postdoctoral Fellow, now at Zhuhai Fudan Innovation Institute.
 - [**Zedong Chu**](https://c8241998.github.io/), 2021.01 - 2021.12 Research Assistant, now at Alibaba.
@@ -404,7 +405,7 @@ show_sidebar: false
   </div>
 </div>
 
-<div id="detail-02" class="modal">
+<!-- <div id="detail-02" class="modal">
   <div class="modal-background"></div>
   <div class="modal-card">
     <header class="modal-card-head">
@@ -423,7 +424,7 @@ show_sidebar: false
         <button class="button" id="close-02">Close</button>
     </footer>
   </div>
-</div>
+</div> -->
 
 <div id="detail-03" class="modal">
   <div class="modal-background"></div>
