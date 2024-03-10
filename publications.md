@@ -191,48 +191,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/IFSS.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="/publications/IFSS.pdf">
-    <font style="color: #aa2116;font-weight: bold">Memory-Based Contrastive Learning with Optimized Sampling for Incremental Few-Shot Semantic Segmentation</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px">Yuxuan Zhang, <B>Miaojing Shi</B>, Taiyi Su, Hanli Wang</div>
-    <div style="margin-top: 10px"><B><i>ISCAS 2024</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/AdapterSIS.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="/publications/AdapterSIS.pdf">
-    <font style="color: #aa2116;font-weight: bold">Enhancing Surgical Instrument Segmentation: Integrating Vision Transformer Insights with Adapter</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Meng Wei</B>, <B>Miaojing Shi</B>, Tom Vercauteren</div>
-    <div style="margin-top: 10px"><B><i>IPCAI 2024</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/Du_Boosting.png">
             </figure>
             </td>
@@ -265,6 +223,48 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Linfeng Yuan</B>, <B>Miaojing Shi</B>, <B>Zijie Yue</B>, Qijun Chen</div>
     <div style="margin-top: 10px"><B><i>CVPR 2024</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/AdapterSIS.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="/publications/AdapterSIS.pdf">
+    <font style="color: #aa2116;font-weight: bold">Enhancing Surgical Instrument Segmentation: Integrating Vision Transformer Insights with Adapter</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Meng Wei</B>, <B>Miaojing Shi</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B><i>IPCAI 2024</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/IFSS.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="/publications/IFSS.pdf">
+    <font style="color: #aa2116;font-weight: bold">Memory-Based Contrastive Learning with Optimized Sampling for Incremental Few-Shot Semantic Segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Yuxuan Zhang, <B>Miaojing Shi</B>, Taiyi Su, Hanli Wang</div>
+    <div style="margin-top: 10px"><B><i>ISCAS 2024</i></B></div>
     </td>
     </tr>
     </table>
