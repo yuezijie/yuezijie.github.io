@@ -73,7 +73,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <td width="30%"></td>
+            <td width="30%">
             <!-- <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -89,8 +89,8 @@ show_sidebar: false
                       </div>
                     </div>  
                   </div>
-                </div>
-            </td> -->
+                </div> -->
+            </td>
             <td width="30%"></td>
         </tr>
     </table>
