@@ -201,7 +201,7 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px">Yuxuan Zhang, <B>Miaojing Shi</B>, Taiyi Su, Hanli Wang</div>
-    <div style="margin-top: 10px"><B><i>ISCAS</i></B></div>
+    <div style="margin-top: 10px"><B><i>ISCAS 2024</i></B></div>
     </td>
     </tr>
     </table>
