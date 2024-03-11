@@ -50,10 +50,5 @@ show_sidebar: false
 - **Nov. 2023** One paper accepted to <em>Autonomous Intelligent Systems</em>. Congrats to Xinyue and Yueyi!
 - **Sep. 2023** One paper accepted to <B>NeurIPS</B>. Congrats to Zijian, Tosin, and Meng!
 - **Sep. 2023** Welcome Mr. ZHANG Xiaowen (MS) and Dr. YUE Zijie (Postdoc) who recently joined VisCom-Tongji.  
-- **Aug. 2023** Dr. Shi gave an invited talk at IJCAI Symposium-[Medical Large Models](https://www.cair-cas.org.hk/article/ijcai-medical-large-models). 
-- **Aug. 2023** One paper accepted to <B>MICCAI FAIMI</B>. Congrats to Tiarna! 
-- **Jul. 2023** One paper accepted to <B>IEEE TPAMI</B>. Congrats to Zijie! 
-- **Jul. 2023** One paper accepted to <B>ICCV</B>. Congrats to Zijian! 
-- **Jul. 2023** One paper accepted to <B>IEEE TNNLS</B>. 
 
 [more news](/news/)
