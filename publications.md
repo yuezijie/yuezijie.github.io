@@ -13,6 +13,27 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/LM-RRG.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2403.06728.pdf">
+    <font style="color: #aa2116;font-weight: bold">Large Model driven Radiology Report Generation with Clinical Quality Reinforcement Learning</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Miaojing Shi</B>, <B>Meng Wei</B>, <B>Oluwatosin Alabi</B>, <B>Zijie Yue</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2403.06728</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/AdaTreeFormer.png">
             </figure>
             </td>
@@ -129,6 +150,27 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>arXiv:2307.14382</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/MEP3P.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2301.13335">
+    <font style="color: #aa2116;font-weight: bold">Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Jian Zhu, Hanli Wang, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2301.13335</i></B></div>
     </td>
     </tr>
     </table>
@@ -264,7 +306,7 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px">Yuxuan Zhang, <B>Miaojing Shi</B>, Taiyi Su, Hanli Wang</div>
-    <div style="margin-top: 10px"><B><i>ISCAS 2024</i></B></div>
+    <div style="margin-top: 10px"><B><i>ISCAS 2024(Oral)</i></B></div>
     </td>
     </tr>
     </table>
