@@ -22,7 +22,8 @@ show_sidebar: false
                                 <div class="media">
                                   <div class="media-left">
                                     <figure class="image is-96x96">
-                                      <img src="is-rounded" src="https://www.kcl.ac.uk/importedimages/schools/nms/informatics/miaojing-shi-profile.x850d2601.png?w=320&h=296&crop=160,160,79,20&f=webp" alt="Placeholder image">
+                                      <!-- <img src="is-rounded" src="https://www.kcl.ac.uk/importedimages/schools/nms/informatics/miaojing-shi-profile.x850d2601.png?w=320&h=296&crop=160,160,79,20&f=webp" alt="Placeholder image"> -->
+                                      <img src="/img/Photo_Miaojing.png" alt="Placeholder image">
                                     </figure>
                                   </div>
                                   <div class="media-content">
