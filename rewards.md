@@ -7,6 +7,8 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+- **2024.04** Dr. Shi has won the **Tongji WUSI Medal**!
+
 - **2023.11** Dr. YUE Zjie has won the **Shanghai Super Postdoc Award**!
 [<i id="award-06" style="color:red" aria-hidden="true">more</i>]
 

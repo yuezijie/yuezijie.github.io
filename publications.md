@@ -285,7 +285,7 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px"><B>Meng Wei</B>, <B>Miaojing Shi</B>, Tom Vercauteren</div>
-    <div style="margin-top: 10px"><B><i>IPCAI 2024</i></B></div>
+    <div style="margin-top: 10px"><B><i>IPCAI 2024 / International Journal of Computer Assisted Radiology and Surgery</i></B></div>
     </td>
     </tr>
     </table>

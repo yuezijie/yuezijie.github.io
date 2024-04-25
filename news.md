@@ -4,6 +4,9 @@ layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+- **Apr. 2024** Dr. Shi received Tongji WUSI Medal!
+- **Mar. 2024** One paper accepted to <B>ICME 2024</B> as an <B>oral</B> paper. Congrats to Xinyue!
+- **Mar. 2024** One paper accepted to AIED 2024. Congrats to Marcus!
 - **Feb. 2024** Two papers accepted to <B>CVPR</B>. Congrats to Linfeng and Zhipeng!
 - **Feb. 2024** One paper accepted to IPCAI. Congrats to Meng!
 - **Feb. 2024** Dr. Shi visited KCL, University of Edinburgh and University of Cambridge, gave invited talks respectively.
