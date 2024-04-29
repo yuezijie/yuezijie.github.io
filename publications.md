@@ -193,9 +193,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He, Jiming Chen, Kaicheng Yu</div>
     <div style="margin-top: 10px"><B><i>arXiv:2211.10105</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -217,9 +215,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding, Shanlin Yang</div>
     <div style="margin-top: 10px"><B><i>arXiv:2207.08960</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -266,6 +262,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng</div>
     <div style="margin-top: 10px"><B><i>CVPR 2024</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/ZPDu/DAI-Net">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -287,6 +284,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Linfeng Yuan</B>, <B>Miaojing Shi</B>, <B>Zijie Yue</B>, Qijun Chen</div>
     <div style="margin-top: 10px"><B><i>CVPR 2024</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/LinfengYuan1997/LoSh">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -419,9 +417,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Oluwatosin Alabi</B>, <B>Meng Wei</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>NeurIPS 2023</i></B></div>
-    <div style="margin-top: 10px">
-    [<a href="https://github.com/franciszzj/TP-SIS">code</a>]
-    </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/TP-SIS">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -443,9 +439,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding</div>
     <div style="margin-top: 10px"><B><i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/yuezijie/Video-based-Remote-Physiological-Measurement-via-Self-supervised-Learning">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/Video-based-Remote-Physiological-Measurement-via-Self-supervised-Learning">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -467,9 +461,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zijian Zhou</B>, <B>Miaojing Shi</B>, Holger Caesar</div>
     <div style="margin-top: 10px"><B><i>ICCV 2023</i></B></div>
-    <div style="margin-top: 10px">
-    [<a href="https://github.com/franciszzj/HiLo">code</a>]
-    </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/HiLo">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -491,9 +483,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px">Yu Du, <B>Miaojing Shi</B>, Fangyun Wei, Guoqi Li</div>
     <div style="margin-top: 10px"><B><i>IEEE Transactions on Neural Networks and Learning Systems</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/dyabel/CoAR-ZSL.git">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/dyabel/CoAR-ZSL.git">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -515,9 +505,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Hamed Amini Amirkolaee</B>, <B>Miaojing Shi</B>, Mark Mulligan</div>
     <div style="margin-top: 10px"><B><i>IEEE Transactions on Geoscience and Remote Sensing</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/HAAClassic/TreeFormer">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/HAAClassic/TreeFormer">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -539,9 +527,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zhipeng Du</B>, <B>Miaojing Shi</B>, Jiankang Deng, Stefanos Zafeiriou</div>
     <div style="margin-top: 10px"><B><i>IEEE Transactions on Image Processing</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/ZPDu/Redesigning-Multi-Scale-Neural-Network-for-Crowd-Counting">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -602,12 +588,8 @@ show_sidebar: false
         <font style="color: #aa2116;font-weight: bold">Domain-General Crowd Counting in Unseen Scenarios</font>
         </a>
         <div style="margin-top: 10px"><B>Zhipeng Du</B>, Jiankang Deng, <B>Miaojing Shi</B></div>
-        <div style="margin-top: 10px;">
-            <B><i>AAAI 2023(Oral) </i></B>
-        </div>
-        <div style="margin-top: 10px">
-        [<a href="https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios">code</a>]
-        </div>
+        <div style="margin-top: 10px;"><B><i>AAAI 2023(Oral) </i></B></div>
+        <div style="margin-top: 10px">[<a href="https://github.com/ZPDu/Domain-general-Crowd-Counting-in-Unseen-Scenarios">code</a>]</div>
         </td>
     </tr>
 </table>
@@ -654,12 +636,8 @@ show_sidebar: false
         </a>
         </div>
         <div style="margin-top: 10px">Miao Zhang, <B>Miaojing Shi</B>, Li Li</div>
-        <div style="margin-top: 10px;">
-            <B><i>IEEE Transactions on Circuits and Systems for Video Technology</i></B>
-        </div>
-        <div style="margin-top: 10px">
-        [<a href="https://github.com/roywithfiringblade/MFNet">code</a>]
-        </div>
+        <div style="margin-top: 10px;"><B><i>IEEE Transactions on Circuits and Systems for Video Technology</i></B></div>
+        <div style="margin-top: 10px">[<a href="https://github.com/roywithfiringblade/MFNet">code</a>]</div>
         </td>
     </tr>
 </table>
@@ -703,9 +681,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px">Arnout van Soesbergen, <B>Zedong Chu</B>, <B>Miaojing Shi</B>, Mark Mulligan</div>
     <div style="margin-top: 10px"><B><i>IEEE Transactions on Geoscience and Remote Sensing</i></B></div>
-    <div style="margin-top: 10px">
-        [<a href="https://github.com/c8241998/Dam-Reservoir-Extraction">code</a>]
-        </div>
+    <div style="margin-top: 10px">[<a href="https://github.com/c8241998/Dam-Reservoir-Extraction">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -727,9 +703,7 @@ show_sidebar: false
         <div style="margin-top: 10px;">
             <B><i>CVPR 2022</i></B>
         </div>
-        <div style="margin-top: 10px">
-        [<a href="https://github.com/dyabel/detpro">code</a>]
-        </div>
+        <div style="margin-top: 10px">[<a href="https://github.com/dyabel/detpro">code</a>]</div>
         </td>
     </tr>
 </table>
@@ -754,9 +728,7 @@ show_sidebar: false
         <div style="margin-top: 10px;">
             <B><i>Pattern Recognition</i></B>
         </div>
-        <div style="margin-top: 10px">
-        [<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">code</a>]
-        </div>
+        <div style="margin-top: 10px">[<a href="https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fzhaohui-yang%2FNSOD&sa=D&sntz=1&usg=AFQjCNGf_MGir9OC6-8-G8cmhSE5_MF8fw">code</a>]</div>
         </td>
     </tr>
 </table>
@@ -895,9 +867,7 @@ show_sidebar: false
                 Wenqing Liu*, <B>Miaojing Shi*</B>, Teddy Furon, Li Li(<B>*Co-first author</B>) 
             </div>
             <div style="margin-top: 10px"><i><B>ACM MM 2020</B></i></div>
-            <div style="margin-top: 10px">
-                [<a href="https://github.com/LiuWenQingS/Defending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement">code</a>]
-            </div>
+            <div style="margin-top: 10px">[<a href="https://github.com/LiuWenQingS/Defending-Adversarial-Examples-via-DNN-Bottleneck-Reinforcement">code</a>]</div>
             </td>
         </tr>
     </table>
