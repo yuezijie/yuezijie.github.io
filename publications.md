@@ -233,6 +233,28 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/AIED2024.jpg">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://kclpure.kcl.ac.uk/portal/en/publications/grading-documentation-with-machine-learning">
+    <font style="color: #aa2116;font-weight: bold">Grading Documentation with Machine Learning</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, <B>Miaojing Shi</B>, Neil Brown, Michael Kölling</div>
+    <div style="margin-top: 10px"><B><i>International Conference on Artificial Intelligence in Education (AIED) 2024 </i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/Du_Boosting.png">
             </figure>
             </td>
