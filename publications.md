@@ -307,6 +307,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Meng Wei</B>, <B>Miaojing Shi</B>, Tom Vercauteren</div>
     <div style="margin-top: 10px"><B><i>IPCAI 2024 / International Journal of Computer Assisted Radiology and Surgery</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/weimengmeng1999/AdapterSIS">code</a>]</div>
     </td>
     </tr>
     </table>
