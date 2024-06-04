@@ -18,7 +18,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2403.06728.pdf">
+    <a href="https://arxiv.org/pdf/2406.00545.pdf">
     <font style="color: #aa2116;font-weight: bold">Memory-guided Network with Uncertainty-based Feature Augmentation for Few-shot Semantic Segmentation</font>
     </a>
     </div>
