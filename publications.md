@@ -13,27 +13,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/MENUA.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2406.00545.pdf">
-    <font style="color: #aa2116;font-weight: bold">Memory-guided Network with Uncertainty-based Feature Augmentation for Few-shot Semantic Segmentation</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2406.00545</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/LM-RRG.png">
             </figure>
             </td>
@@ -245,6 +224,27 @@ show_sidebar: false
 
 ### 2024
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/MENUA.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2406.00545.pdf">
+    <font style="color: #aa2116;font-weight: bold">Memory-guided Network with Uncertainty-based Feature Augmentation for Few-shot Semantic Segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>IEEE International Conference on Multimedia and Expo (ICME) 2024</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
