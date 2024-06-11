@@ -240,7 +240,7 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>IEEE International Conference on Multimedia and Expo (ICME) 2024</i></B></div>
+    <div style="margin-top: 10px"><B><i>IEEE International Conference on Multimedia and Expo (ICME) 2024(Oral)</i></B></div>
     </td>
     </tr>
     </table>
