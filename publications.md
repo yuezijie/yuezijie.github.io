@@ -34,27 +34,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/AdaTreeFormer.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2402.02956.pdf">
-    <font style="color: #aa2116;font-weight: bold">AdaTreeFormer: Few Shot Domain Adaptation for Tree Counting from a Single High-Resolution Image</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Hamed Amini Amirkolaee</B>, <B>Miaojing Shi</B>, Lianghua He, Mark Mulligan</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2402.02956</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/MLT_In_MIS_Review.png">
             </figure>
             </td>
@@ -224,6 +203,27 @@ show_sidebar: false
 
 ### 2024
 ----------------------
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/AdaTreeFormer.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2402.02956.pdf">
+    <font style="color: #aa2116;font-weight: bold">AdaTreeFormer: Few Shot Domain Adaptation for Tree Counting from a Single High-Resolution Image</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Hamed Amini Amirkolaee</B>, <B>Miaojing Shi</B>, Lianghua He, Mark Mulligan</div>
+    <div style="margin-top: 10px"><B><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/HAAClassic/AdaTreeFormer">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
