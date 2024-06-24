@@ -4,6 +4,7 @@ layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+- **Jun. 2024** One paper accepted to <B>ISPRS Journal of Photogrammetry and Remote Sensing</B>. Congrats to Hamed!
 - **Apr. 2024** Dr. Shi received Tongji WUSI Medal!
 - **Mar. 2024** One paper accepted to <B>ICME 2024</B> as an <B>oral</B> paper. Congrats to Xinyue!
 - **Mar. 2024** One paper accepted to AIED 2024. Congrats to Marcus!
