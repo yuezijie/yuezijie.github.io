@@ -19,7 +19,7 @@ show_sidebar: false
 - **2024.01 - 2025.12** Principal Investigator (Yue Zijie), **China Postdoctoral Science Foundation Project** (¥80K)
 [<i id="award-05" style="color:red" aria-hidden="true">more</i>]
 
-- **2023.06 - 2024.12** Principal Investigator, **Zhejiang Rail and Transit Rroject** (¥***K)
+- **2023.06 - 2024.12** Principal Investigator, **Zhejiang Rail and Transit Project** (¥***K)
 
 - **2023.01 - 2024.12** Principal Investigator, **High-End Foreign Experts Project** (¥***K)
 
