@@ -7,7 +7,11 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
-- **2024.04** Dr. Shi has won the **Tongji WUSI Medal**!
+- **2024.07** ZHOU Zijian has won the **China Outstanding Self-financed Students Abroad**(¥**K)
+
+- **2024.07** Dr. YUE Zijie has won the **China Postdoctoral Innovation Talent Support Program**(¥180K)
+
+- **2024.04** Prof. Shi has won the **Tongji WUSI Medal**!
 
 - **2023.11** Dr. YUE Zjie has won the **Shanghai Super Postdoc Award**!
 [<i id="award-06" style="color:red" aria-hidden="true">more</i>]
