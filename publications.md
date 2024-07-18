@@ -13,6 +13,48 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/CholecInstanceSeg.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2407.08507">
+    <font style="color: #aa2116;font-weight: bold">Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Hanli Wang, Shuai Ding, Qijun Chen, Shanlin Yang</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2407.08507</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/CholecInstanceSeg.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2406.16039">
+    <font style="color: #aa2116;font-weight: bold">CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2406.16039</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/LM-RRG.png">
             </figure>
             </td>
@@ -119,48 +161,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/WhenMulti-TaskLearningMeetsPartialSupervisionAComputerVisionReview.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2307.14382.pdf">
-    <font style="color: #aa2116;font-weight: bold">When Multi-Task Learning Meets Partial Supervision: A Computer Vision Review</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2307.14382</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/MEP3P.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2301.13335">
-    <font style="color: #aa2116;font-weight: bold">Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px">Jian Zhu, Hanli Wang, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2301.13335</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/alphaDARTS.png">
             </figure>
             </td>
@@ -203,6 +203,71 @@ show_sidebar: false
 
 ### 2024
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/OpenPSG.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2407.11213">
+    <font style="color: #aa2116;font-weight: bold">OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, Zheng Zhu, Holger Caesar, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>ECCV 2024</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/OpenPSG">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/WhenMulti-TaskLearningMeetsPartialSupervisionAComputerVisionReview.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2307.14382.pdf">
+    <font style="color: #aa2116;font-weight: bold">When Multi-Task Learning Meets Partial Supervision: A Computer Vision Review</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>Proceedings of the IEEE</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/MEP3P.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2301.13335">
+    <font style="color: #aa2116;font-weight: bold">Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Jian Zhu, Hanli Wang, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Circuits and Systems for Video Technology</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
 <div>
 <table>
     <tr>
