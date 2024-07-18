@@ -124,7 +124,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2310.07355.pdf">
+    <a href="https://arxiv.org/pdf/2310.07355">
     <font style="color: #aa2116;font-weight: bold">IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training</font>
     </a>
     </div>
@@ -145,7 +145,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2308.05232.pdf">
+    <a href="https://arxiv.org/pdf/2308.05232">
     <font style="color: #aa2116;font-weight: bold">SegMatch: A semi-supervised learning method for surgical instrument segmentation</font>
     </a>
     </div>
@@ -257,7 +257,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2301.13335">
+    <a href="https://arxiv.org/pdf/2301.13335">
     <font style="color: #aa2116;font-weight: bold">Multi-modal Large Language Model Enhanced Pseudo 3D Perception Framework for Visual Commonsense Reasoning</font>
     </a>
     </div>
@@ -696,7 +696,7 @@ show_sidebar: false
         </figure>
         </td>
         <td>
-        <a href="https://arxiv.org/abs/2209.01627.pdf">
+        <a href="https://arxiv.org/pdf/2209.01627">
         <font style="color: #aa2116;font-weight: bold">A systematic study of race and sex bias in CNN-based cardiac MR segmentation</font>
         </a>
         <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, <B>Miaojing Shi</B>, Andrew P. King</div>
@@ -719,7 +719,7 @@ show_sidebar: false
         </td>
         <td>
         <div style="margin-top: 10px">
-        <a href="https://arxiv.org/abs/2111.00232">
+        <a href="https://arxiv.org/pdf/2111.00232">
         <font style="color: #aa2116;font-weight: bold">MFNet: Multi-class Few-shot Segmentation Network with Pixel-wise Metric Learning</font>
         </a>
         </div>
