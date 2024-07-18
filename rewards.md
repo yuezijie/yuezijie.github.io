@@ -13,7 +13,7 @@ show_sidebar: false
 
 - **2024.04** Prof. Shi has won the **Tongji WUSI Medal**!
 
-- **2023.11** Dr. YUE Zjie has won the **Shanghai Super Postdoc Award**!
+- **2023.11** Dr. YUE Zijie has won the **Shanghai Super Postdoc Award**!
 [<i id="award-06" style="color:red" aria-hidden="true">more</i>]
 
 - **2024.01 - 2025.12** Principal Investigator (Yue Zijie), **China Postdoctoral Science Foundation Project** (¥80K)
