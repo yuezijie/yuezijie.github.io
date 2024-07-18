@@ -13,7 +13,7 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/CholecInstanceSeg.png">
+              <img src="/img/VL-phys.png">
             </figure>
             </td>
     <td>
