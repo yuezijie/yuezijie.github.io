@@ -49,7 +49,7 @@ show_sidebar: false
 </div>
 </Body>
 
-
+<!-- 
 ### Post-doctoral Fellow
 <Body>
 <div>
@@ -84,7 +84,7 @@ show_sidebar: false
     </table>
     
 </div>
-</Body>
+</Body> -->
 
 ### PhDs
 <Body>
@@ -325,7 +325,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <td width="31%">
+            <!-- <td width="31%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -348,8 +348,8 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-          </tr>
-          <tr align="center">
+          </tr> -->
+          <!-- <tr align="center">
             <td width="30%">
               <div class="card">
                   <div class="card-content">
@@ -369,7 +369,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-        </tr>
+        </tr> -->
     </table>
 </div>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>

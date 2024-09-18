@@ -119,27 +119,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/IMITATE.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2310.07355">
-    <font style="color: #aa2116;font-weight: bold">IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px">Che Liu, Sibo Cheng, <B>Miaojing Shi</B>, Anand Shah, Wenjia Bai, Rossella Arcucci</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2310.07355</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/SegMatch.png">
             </figure>
             </td>
@@ -151,29 +130,6 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Meng Wei</B>, Charlie Budd, Luis C. Garcia-Peraza-Herrera, Reuben Dorent, <B>Miaojing Shi</B>, Tom Vercauteren</div>
     <div style="margin-top: 10px"><B><i>arXiv:2308.05232</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/alphaDARTS.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2211.10105.pdf">
-    <font style="color: #aa2116;font-weight: bold">α DARTS Once More: Enhancing Differentiable Architecture Search
-                                                   by Masked Image Modeling</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He, Jiming Chen, Kaicheng Yu</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2211.10105</i></B></div>
-    <div style="margin-top: 10px">[<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -201,8 +157,78 @@ show_sidebar: false
     </table>
 </div>
 
+
+### 2025
+----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/WACV-2025.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/">
+    <font style="color: #aa2116;font-weight: bold">Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>WACV 2025</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
 ### 2024
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/alphaDARTS.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="/publications/Semantic_DARTS_IoTJ_Final_Sub.pdf">
+    <font style="color: #aa2116;font-weight: bold">α DARTS Once More: Enhancing Differentiable Architecture Search
+                                                   by Masked Image Modeling</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He, Jiming Chen, Kaicheng Yu</div>
+    <div style="margin-top: 10px"><B><i>IEEE Internet of Things</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/AlbertiPot/MIM-DARTS">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/IMITATE.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2310.07355">
+    <font style="color: #aa2116;font-weight: bold">IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Che Liu, Sibo Cheng, <B>Miaojing Shi</B>, Anand Shah, Wenjia Bai, Rossella Arcucci</div>
+    <div style="margin-top: 10px"><B><i>IEEE Transactions on Medical Imaging</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
