@@ -277,7 +277,7 @@ show_sidebar: false
                   </div>
                 </div>
            </td> -->
-           <td width="50%">
+           <td width="30%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -302,7 +302,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <td width="50%">
+            <td width="31%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -349,8 +349,8 @@ show_sidebar: false
                 </div>
             </td>
           </tr> -->
-          <!-- <tr align="center">
-            <td width="30%">
+          <tr align="center">
+            <!-- <td width="30%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -368,8 +368,8 @@ show_sidebar: false
                     </div>  
                   </div>
                 </div>
-            </td>
-        </tr> -->
+            </td> -->
+        </tr>
     </table>
 </div>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
