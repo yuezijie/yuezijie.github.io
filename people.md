@@ -250,7 +250,7 @@ show_sidebar: false
 <p> &#9670; Affiliated Members </p>
 <Body>
 <div>
-    <table width="50%">        
+    <table width="50%">
         <tr align="center">
            <!-- <td width="30%">
               <div class="card">
@@ -277,7 +277,7 @@ show_sidebar: false
                   </div>
                 </div>
            </td> -->
-           <td width="30%">
+           <td width="50%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -302,7 +302,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <td width="31%">
+            <td width="50%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
