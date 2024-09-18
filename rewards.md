@@ -7,6 +7,8 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+- **2024.08** Dr. YUE ZIJIE Received the **NSFC Youth Project**(¥***K)
+
 - **2024.07** ZHOU Zijian has won the **China Outstanding Self-financed Students Abroad**(¥**K)
 
 - **2024.07** Dr. YUE Zijie has won the **China Postdoctoral Innovation Talent Support Program**(¥180K)

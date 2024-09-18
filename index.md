@@ -41,17 +41,18 @@ show_sidebar: false
 
 
 ## News
+- **Sep. 2024** One paper accepted to WACV 2025 (early acceptance)! Well done, Maxime!
+- **Sep. 2024** One paper accepted to <B>IEEE Internet of Things</B>!
+- **Aug. 2024** Dr. YUE Zijie received the NSFC Youth Project, Big congrats!
+- **Aug. 2024** One paper accepted to <B>IEEE TMI</B>!
 - **Jul. 2024** Our PhD student ZHOU Zijian has been awarded the China Outstanding Self-financed Students Abroad. A Milestone! 
 - **Jul. 2024** Prof. Shi gave a talk at MICS 2024.  
 - **Jul. 2024** One paper accepted to <B>ECCV 2024</B>, Congrats to Zijian! 
 - **Jul. 2024** One paper accepted to <B>Proccedings of the IEEE</B>, Congrats to Maxime! 
-- **Jul. 2024** One paper accepted to <B>IEEE TCSVT</B> ! 
+- **Jul. 2024** One paper accepted to <B>IEEE TCSVT</B>! 
 - **Jun. 2024** Dr. YUE Zijie has been awarded the China Postdoctoral Innovation Talent Support Program! Another Achievement!
 - **Jun. 2024** One paper accepted to ISPRS Journal of Photogrammetry and Remote Sensing. Congrats to Hamed!
+- **May. 2024** Kholoud successfully defended <B>her thesis<B>, huge congrats to <B>Dr.Alghamdi<B>!
 - **May. 2024** Prof. Shi gave a talk at VALSE 2024. 
-- **Apr. 2024** Dr. Shi received Tongji <B>WUSI</B> Medal!
-- **Mar. 2024** One paper accepted to <B>ICME 2024</B> as an <B>oral</B> paper. Congrats to Xinyue!
-- **Mar. 2024** One paper accepted to AIED 2024. Congrats to Marcus!
-- **Feb. 2024** Two papers accepted to <B>CVPR 2024</B>. Congrats to Linfeng and Zhipeng!
 
 [more news](/news/)
