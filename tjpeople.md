@@ -108,7 +108,7 @@ show_sidebar: false
                   <div class="card-content">
                     <div class="media">
                       <div class="media-left">
-                        <figure class="image is-128x128">
+                        <figure class="image is-96x96">
                           <img src="/img/Photo_YikunMa.jpg" alt="Placeholder image">
                         </figure>
                       </div>
