@@ -247,36 +247,11 @@ show_sidebar: false
 </Body>
 
 
-<p> Affiliated Members </p>
+### Affiliated Members
 <Body>
 <div>
     <table width="50%">
         <tr align="center">
-           <!-- <td width="30%">
-              <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
-                          <img src="/img/Photo_Iman.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Iman Islam
-                           <a>
-                              <i id="people-07" aria-hidden="true">
-                                 <ion-icon name="home-outline"></ion-icon>
-                              </i>
-                           </a>
-                        </p>
-                        <p class="subtitle is-6">iman.islam@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2022-)</p>
-                        <p class="subtitle is-6">co-advised by Andrew King</p>
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-           </td> -->
            <td width="30%">
               <div class="card">
                   <div class="card-content">
@@ -302,7 +277,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <td width="31%">
+            <td width="30%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -348,9 +323,9 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-          </tr> -->
+          </tr>
           <tr align="center">
-            <!-- <td width="30%">
+            <td width="30%">
               <div class="card">
                   <div class="card-content">
                     <div class="media">
@@ -369,7 +344,7 @@ show_sidebar: false
                   </div>
                 </div>
             </td> -->
-        </tr>
+        </tr> 
     </table>
 </div>
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
