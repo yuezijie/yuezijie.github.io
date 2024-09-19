@@ -196,9 +196,8 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="/publications/Semantic_DARTS_IoTJ_Final_Sub.pdf">
-    <font style="color: #aa2116;font-weight: bold">α DARTS Once More: Enhancing Differentiable Architecture Search
-                                                   by Masked Image Modeling</font>
+    <a href="https://arxiv.org/abs/2211.10105">
+    <font style="color: #aa2116;font-weight: bold">Semantic-DARTS: Elevating Semantic Learning for Mobile Differentiable Architecture Search</font>
     </a>
     </div>
     <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He, Jiming Chen, Kaicheng Yu</div>
