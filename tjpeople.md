@@ -169,7 +169,24 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-            <td width="30%"></td>
+            <td width="30%">
+                <div class="card">
+                  <div class="card-content">
+                    <div class="media">
+                      <div class="media-left">
+                        <figure class="image is-96x96">
+                          <img src="/img/Photo_JunyangZhang.jpg" alt="Placeholder image">
+                        </figure>
+                      </div>
+                      <div class="media-content">
+                        <p class="title is-4">Junyang Zhang
+                        </p>
+                        <p class="subtitle is-6">zhangjunyang@zpmc.com</p>
+                       </div>
+                    </div>  
+                  </div>
+                </div>
+            </td>
         </tr>
     </table>
 </div>
