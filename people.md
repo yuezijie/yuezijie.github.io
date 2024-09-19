@@ -354,6 +354,9 @@ show_sidebar: false
 
 ### Former Members
 
+- **Kholoud AlGhamdi**, 2020.04 - 2024.04, PhD, now Lecturer at Jeddah University.
+- **Hamed Amini**, 2022.04 - 2024.04, Post-doc, now in Iran.
+- **Jinlai Ning**, 2020.10 - 2024, PhD at King's College London.
 - **Zhipeng Du**, 2021.10 - 2023.09, PhD student, now at University of Edinburgh.
 - **Zijie Yue**, 2021.10 - 2023.01 Visiting PhD, now at Tongji University.
 - **Yingyue Xu**, 2021.10 - 2022.10 Postdoctoral Fellow, now at Zhuhai Fudan Innovation Institute.
