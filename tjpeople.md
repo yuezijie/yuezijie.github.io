@@ -63,11 +63,11 @@ show_sidebar: false
                       </div>
                       <div class="media-content">
                         <p class="title is-4">Zijie Yue
-                            <a href="https://www.researchgate.net/profile/Zijie-Yue">
+                            <a href="https://scholar.google.com/citations?user=-u1GPLQAAAAJ&hl=zh-CN">
                                 <ion-icon name="home-outline"></ion-icon>
                             </a>
                         </p>
-                        <p class="subtitle is-6">zijie.yue@kcl.ac.uk</p>
+                        <p class="subtitle is-6">23310203@tongji.edu.cn</p>
                       </div>
                     </div>  
                   </div>
