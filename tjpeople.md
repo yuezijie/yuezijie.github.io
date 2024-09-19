@@ -113,9 +113,9 @@ show_sidebar: false
                         </figure>
                       </div>
                       <div class="media-content">
-                        <p class="title is-4">Linfeng Yuan
+                        <p class="title is-4">Yikun Ma
                         </p>
-                        <p class="subtitle is-6">linfengyuan1997@gmail.com</p>
+                        <p class="subtitle is-6">yikunma@tongji.edu.cn</p>
                        </div>
                     </div>  
                   </div>
