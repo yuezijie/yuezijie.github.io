@@ -109,7 +109,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="/img/Photo_LinfengYuan.jpg" alt="Placeholder image">
+                          <img src="/img/Photo_YikunMa.jpg" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
