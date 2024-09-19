@@ -246,8 +246,8 @@ show_sidebar: false
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </Body>
 
-<br> 
-<p> &#9670; Affiliated Members </p>
+
+<p> Affiliated Members </p>
 <Body>
 <div>
     <table width="50%">
