@@ -178,6 +178,10 @@ show_sidebar: false
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
+### Former Members
+
+- **Linfeng Yuan**, 2023.05 - 2024.05, Research Assistant, now at Huawei.
+
 
 <div id="detail-02" class="modal">
   <div class="modal-background"></div>
