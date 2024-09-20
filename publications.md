@@ -200,7 +200,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">Semantic-DARTS: Elevating Semantic Learning for Mobile Differentiable Architecture Search</font>
     </a>
     </div>
-    <div style="margin-top: 10px">Bicheng Guo, Shuxuan Guo, <B>Miaojing Shi</B>, Peng Chen, Shibo He, Jiming Chen, Kaicheng Yu</div>
+    <div style="margin-top: 10px">Bicheng Guo, Shibo He, <B>Miaojing Shi</B>, Kaicheng Yu, Jiming Chen, Xuemin Shen</div>
     <div style="margin-top: 10px"><B><i>IEEE Internet of Things</i></B></div>
     </td>
     </tr>
