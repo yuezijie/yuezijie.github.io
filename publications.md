@@ -135,6 +135,9 @@ show_sidebar: false
     </table>
 </div>
 
+
+### 2025
+----------------------
 <div>
 <table>
     <tr>
@@ -150,16 +153,12 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding, Shanlin Yang</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2207.08960</i></B></div>
+    <div style="margin-top: 10px"><B><i>Neural Networks</i></B></div>
     <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]</div>
     </td>
     </tr>
     </table>
 </div>
-
-
-### 2025
-----------------------
 
 <div>
 <table>
@@ -171,7 +170,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/">
+    <a href="https://arxiv.org/abs/2412.03179">
     <font style="color: #aa2116;font-weight: bold">Optimizing Dense Visual Predictions Through Multi-Task Coherence and Prioritization</font>
     </a>
     </div>

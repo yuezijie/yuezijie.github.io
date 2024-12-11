@@ -41,6 +41,12 @@ show_sidebar: false
 
 
 ## News
+
+- **Dec. 2024** One paper accepted at <B>AAAI 2025</B>. Congrats to Xinyue!  
+- **Dec. 2024** One paper accepted at <B>Neural Networks</B>. Congrats to Zijie!  
+- **Nov. 2024** Prof. Shi gave talks in the ninth Shanghai Gastroenterology Forum at Tongji Hospital. 
+- **Oct. 2024** Prof. Shi gave talk in the third Information Managagement Workshop at Shanghai University.
+- **Oct. 2024** The VisCom Lab has successfully hosted the second Shanghai Computer Vision Workshop!
 - **Sep. 2024** One paper accepted to WACV 2025 (early acceptance)! Well done, Maxime!
 - **Sep. 2024** One paper accepted to <B>IEEE Internet of Things</B>!
 - **Aug. 2024** Dr. YUE Zijie received the NSFC Youth Project, Big congrats!
@@ -50,9 +56,5 @@ show_sidebar: false
 - **Jul. 2024** One paper accepted to <B>ECCV 2024</B>, Congrats to Zijian! 
 - **Jul. 2024** One paper accepted to <B>Proccedings of the IEEE</B>, Congrats to Maxime! 
 - **Jul. 2024** One paper accepted to <B>IEEE TCSVT</B>! 
-- **Jun. 2024** Dr. YUE Zijie has been awarded the China Postdoctoral Innovation Talent Support Program! Another Achievement!
-- **Jun. 2024** One paper accepted to ISPRS Journal of Photogrammetry and Remote Sensing. Congrats to Hamed!
-- **May. 2024** Kholoud successfully defended <B>her thesis<B>, huge congrats to <B>Dr.Alghamdi<B>!
-- **May. 2024** Prof. Shi gave a talk at VALSE 2024. 
 
 [more news](/news/)
