@@ -152,7 +152,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction</font>
     </a>
     </div>
-    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding, Shanlin Yang</div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>Neural Networks</i></B></div>
     <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]</div>
     </td>
