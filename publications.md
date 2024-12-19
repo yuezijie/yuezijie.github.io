@@ -44,7 +44,10 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2406.16039</i></B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2406.16039</i></B>
+</div>
+<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]</div>
+<div style="margin-top: 10px">[<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -152,7 +155,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">Enhancing Space-time Video Super-resolution via Spatial-temporal Feature Interaction</font>
     </a>
     </div>
-    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Shuai Ding, Shanlin Yang</div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>Neural Networks</i></B></div>
     <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/STINet-Space-time-Video-Super-resolution">code</a>]</div>
     </td>
@@ -176,6 +179,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>WACV 2025</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/Klodivio355/MT-CP">code</a>]
     </td>
     </tr>
     </table>
@@ -265,6 +269,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>Proceedings of the IEEE</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/Klodivio355/MTL-CV-Review">code</a>]</div>
     </td>
     </tr>
     </table>
