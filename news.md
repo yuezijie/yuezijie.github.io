@@ -4,6 +4,7 @@ layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+- **Dec. 2024** One paper accepted at <B>SIGCSE 2025</B>. Congrats to Marcus!  
 - **Dec. 2024** One paper accepted at <B>AAAI 2025</B>. Congrats to Xinyue!  
 - **Dec. 2024** One paper accepted at <B>Neural Networks</B>. Congrats to Zijie!  
 - **Nov. 2024** Prof. Shi gave talks in the ninth Shanghai Gastroenterology Forum at Tongji Hospital. 
