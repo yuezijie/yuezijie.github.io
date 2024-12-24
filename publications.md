@@ -68,6 +68,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Zijian Zhou</B>, Shikun Liu, Xiao Han, Haozhe Liu, Kam Woh Ng, Tian Xie, Yuren Cong, Hang Li, Mengmeng Xu, Juan-Manuel Pérez-Rúa, Aditya Patel, Tao Xiang, <B>Miaojing Shi</B>, Sen He</div>
     <div style="margin-top: 10px"><B><i>arXiv:2412.08486</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/Leffa">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -267,6 +268,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Miaojing Shi</B>, <B>Zijian Zhou</B>, Lianghua He, Sophia Tsoka</div>
     <div style="margin-top: 10px"><B><i>AAAI 2025</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/HHHHedy/GFSS-EKT">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -300,7 +302,7 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/WACV-2025.png">
+              <img src="/img/MTCP.png">
             </figure>
             </td>
     <td>
