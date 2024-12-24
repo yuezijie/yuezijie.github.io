@@ -18,7 +18,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2411.11727">
+    <a href="https://arxiv.org/abs/2411.11727.pdf">
     <font style="color: #aa2116;font-weight: bold">Aligning Few-Step Diffusion Models with Dense Reward Difference Learning </font>
     </a>
     </div>
@@ -40,7 +40,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2408.02462">
+    <a href="https://arxiv.org/abs/2408.02462.pdf">
     <font style="color: #aa2116;font-weight: bold">An investigation into the causes of race bias in AI-based cine CMR segmentation</font>
     </a>
     </div>
@@ -62,7 +62,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2412.08486">
+    <a href="https://arxiv.org/abs/2412.08486.pdf">
     <font style="color: #aa2116;font-weight: bold">Learning Flow Fields in Attention for Controllable Person Image Generation</font>
     </a>
     </div>
@@ -84,7 +84,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2412.12660">
+    <a href="https://arxiv.org/abs/2412.12660.pdf">
     <font style="color: #aa2116;font-weight: bold">SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation </font>
     </a>
     </div>
@@ -105,7 +105,7 @@ show_sidebar: false
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2407.08507">
+    <a href="https://arxiv.org/pdf/2407.08507.pdf">
     <font style="color: #aa2116;font-weight: bold">Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement</font>
     </a>
     </div>
@@ -228,6 +228,52 @@ show_sidebar: false
 
 ### 2025
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/ARXIV.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/312381991/Meneragie_A_Dataset_of_Graded_Programming_Assignments.pdf">
+    <font style="color: #aa2116;font-weight: bold">Menagerie: A Dataset of Graded Programming Assignments</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>SIGCSE TS 2025</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/m-messer/Menagerie/tree/main">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/GFSS-EKT.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2412.15835.pdf">
+    <font style="color: #aa2116;font-weight: bold">Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge Transfer</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Miaojing Shi</B>, <B>Zijian Zhou</B>, Lianghua He, Sophia Tsoka</div>
+    <div style="margin-top: 10px"><B><i>AAAI 2025</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
 <div>
 <table>
     <tr>
