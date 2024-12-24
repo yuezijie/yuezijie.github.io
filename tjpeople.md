@@ -192,7 +192,7 @@ show_sidebar: false
                     <div class="media">
                       <div class="media-left">
                         <figure class="image is-96x96">
-                          <img src="/img/Photo_JunfanShen.png" alt="Placeholder image">
+                          <img src="/img/Photo_JunfanShen.jpg" alt="Placeholder image">
                         </figure>
                       </div>
                       <div class="media-content">
