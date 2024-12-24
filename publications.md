@@ -13,50 +13,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/SDPO.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2411.11727.pdf">
-    <font style="color: #aa2116;font-weight: bold">Aligning Few-Step Diffusion Models with Dense Reward Difference Learning </font>
-    </a>
-    </div>
-    <div style="margin-top: 10px">Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, <B>Miaojing Shi</B>, Bo Du, Dacheng Tao</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2411.11727</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/cine CMR.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2408.02462.pdf">
-    <font style="color: #aa2116;font-weight: bold">An investigation into the causes of race bias in AI-based cine CMR segmentation</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, Sebastien Roujol, Theodore Barfoot, Shaheim Ogbomo-Harmitt, <B>Miaojing Shi</B>, Andrew P. King</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2408.02462</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/Leffa.png">
             </figure>
             </td>
@@ -91,6 +47,49 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px">Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, <B>Zijian Zhou</B>, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>arXiv:2412.12660</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/SDPO.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2411.11727.pdf">
+    <font style="color: #aa2116;font-weight: bold">Aligning Few-Step Diffusion Models with Dense Reward Difference Learning </font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, <B>Miaojing Shi</B>, Bo Du, Dacheng Tao</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2411.11727</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/cine CMR.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2408.02462.pdf">
+    <font style="color: #aa2116;font-weight: bold">An investigation into the causes of race bias in AI-based cine CMR segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, Sebastien Roujol, Theodore Barfoot, Shaheim Ogbomo-Harmitt, <B>Miaojing Shi</B>, Andrew P. King</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2408.02462</i></B></div>
     </td>
     </tr>
     </table>
