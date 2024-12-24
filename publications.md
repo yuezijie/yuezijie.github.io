@@ -179,7 +179,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>WACV 2025</i></B></div>
-    <div style="margin-top: 10px">[<a href="https://github.com/Klodivio355/MT-CP">code</a>]
+    <div style="margin-top: 10px">[<a href="https://github.com/Klodivio355/MT-CP">code</a>]</div>
     </td>
     </tr>
     </table>
