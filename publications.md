@@ -79,6 +79,28 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/ARXIV.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2409.12967.pdf">
+    <font style="color: #aa2116;font-weight: bold">How Consistent Are Humans When Grading Programming Assignments?</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2409.12967</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/cine CMR.png">
             </figure>
             </td>
