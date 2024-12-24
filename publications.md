@@ -133,8 +133,7 @@ show_sidebar: false
     <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
     <div style="margin-top: 10px"><B><i>arXiv:2406.16039</i></B>
 </div>
-<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]</div>
-<div style="margin-top: 10px">[<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
+<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]</div><div style="margin-top: 10px">[<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
     </td>
     </tr>
     </table>
