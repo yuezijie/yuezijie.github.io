@@ -42,6 +42,9 @@ show_sidebar: false
 
 ## News
 
+- **Jan. 2025** One paper accepted at <B>IJCV</B>. Congrats to Zijie!
+- **Jan. 2025** One paper accepted at <B>Medical Image Analysis</B>. Congrats to Tosin!
+- **Jan. 2025** One paper accepted at <B>European Heart Journal – Digital Health</B>. Congrats to Tiarna!  
 - **Dec. 2024** One paper accepted at <B>SIGCSE 2025</B>. Congrats to Marcus!  
 - **Dec. 2024** One paper accepted at <B>AAAI 2025</B>. Congrats to Xinyue!  
 - **Dec. 2024** One paper accepted at <B>Neural Networks</B>. Congrats to Zijie!  
@@ -52,10 +55,5 @@ show_sidebar: false
 - **Sep. 2024** One paper accepted to <B>IEEE Internet of Things</B>!
 - **Aug. 2024** Dr. YUE Zijie received the NSFC Youth Project, Big congrats!
 - **Aug. 2024** One paper accepted to <B>IEEE TMI</B>!
-- **Jul. 2024** Our PhD student ZHOU Zijian has been awarded the China Outstanding Self-financed Students Abroad. A Milestone! 
-- **Jul. 2024** Prof. Shi gave a talk at MICS 2024.  
-- **Jul. 2024** One paper accepted to <B>ECCV 2024</B>, Congrats to Zijian! 
-- **Jul. 2024** One paper accepted to <B>Proccedings of the IEEE</B>, Congrats to Maxime! 
-- **Jul. 2024** One paper accepted to <B>IEEE TCSVT</B>! 
 
 [more news](/news/)

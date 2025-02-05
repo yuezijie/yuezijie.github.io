@@ -4,6 +4,9 @@ layout: page
 hero_height: is-fullwidth
 show_sidebar: false
 ---
+- **Jan. 2025** One paper accepted at <B>IJCV</B>. Congrats to Zijie!
+- **Jan. 2025** One paper accepted at <B>Medical Image Analysis</B>. Congrats to Tosin!
+- **Jan. 2025** One paper accepted at <B>European Heart Journal – Digital Health</B>. Congrats to Tiarna!  
 - **Dec. 2024** One paper accepted at <B>SIGCSE 2025</B>. Congrats to Marcus!  
 - **Dec. 2024** One paper accepted at <B>AAAI 2025</B>. Congrats to Xinyue!  
 - **Dec. 2024** One paper accepted at <B>Neural Networks</B>. Congrats to Zijie!  
