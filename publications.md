@@ -166,27 +166,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/MLT_In_MIS_Review.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2401.08256.pdf">
-    <font style="color: #aa2116;font-weight: bold">Multitask Learning in Minimally Invasive Surgical Vision: A Review</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2401.08256</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/VLPrompt.png">
             </figure>
             </td>
@@ -246,6 +225,27 @@ show_sidebar: false
     <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Hanli Wang, Shuai Ding, Qijun Chen, Shanlin Yang</div>
     <div style="margin-top: 10px"><B><i>International Journal of Computer Vision</i></B></div>
     <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/Bootstrapping-VLM-for-Frequency-centric-Self-supervised-Remote-Physiological-Measurement">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/MLT_In_MIS_Review.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2401.08256.pdf">
+    <font style="color: #aa2116;font-weight: bold">Multitask Learning in Minimally Invasive Surgical Vision: A Review</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Tom Vercauteren, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>Medical Image Analysis </i></B></div>
     </td>
     </tr>
     </table>
