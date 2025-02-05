@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 - **Jan. 2025** One paper accepted at <B>IJCV</B>. Congrats to Zijie!
 - **Jan. 2025** One paper accepted at <B>Medical Image Analysis</B>. Congrats to Tosin!
-- **Jan. 2025** One paper accepted at <B>European Heart Journal � Digital Health</B>. Congrats to Tiarna!  
+- **Jan. 2025** One paper accepted at <B>European Heart Journal - Digital Health</B>. Congrats to Tiarna!  
 - **Dec. 2024** One paper accepted at <B>SIGCSE 2025</B>. Congrats to Marcus!  
 - **Dec. 2024** One paper accepted at <B>AAAI 2025</B>. Congrats to Xinyue!  
 - **Dec. 2024** One paper accepted at <B>Neural Networks</B>. Congrats to Zijie!  
@@ -64,7 +64,7 @@ show_sidebar: false
 - **Jul. 2022**  One paper accepted to <B>IEEE Transactions on Circuits and Systems for Video Technology</B>.
 - **Jul. 2022**  Dr. Shi becomes a <B>Fellow</B> of Higher Education Academy (HEA).
 - **Jul. 2022**  Dr. Shi will be an invited speaker for [RoboAICon2023](https://2023.theresearchcatalyst-robo.com/#invited).
-- **Jun. 2022**  Our proposal to <B>King’s–NVIDIA</B> Cambridge1 grant is accepted (PI: Dr. Shi).
+- **Jun. 2022**  Our proposal to <B>Kingâ€™sâ€“NVIDIA</B> Cambridge1 grant is accepted (PI: Dr. Shi).
 
 - **Apr. 2022**  One paper accepted to <B>IEEE Transactions on Geoscience and Remote Sensing</B>. Congrats to Zedong!
 - **Apr. 2022**  One paper accepted to <B>Neurocomputing</B>.
