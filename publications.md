@@ -235,7 +235,7 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/MLT_In_MIS_Review.png">
+              <img src="/img/MLT_In_MIS_Review1.png">
             </figure>
             </td>
     <td>
