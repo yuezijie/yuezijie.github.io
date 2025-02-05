@@ -13,12 +13,121 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
+              <img src="/img/Leffa.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2412.08486.pdf">
+    <font style="color: #aa2116;font-weight: bold">Learning Flow Fields in Attention for Controllable Person Image Generation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, Shikun Liu, Xiao Han, Haozhe Liu, Kam Woh Ng, Tian Xie, Yuren Cong, Hang Li, Mengmeng Xu, Juan-Manuel Pérez-Rúa, Aditya Patel, Tao Xiang, <B>Miaojing Shi</B>, Sen He</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2412.08486</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/Leffa">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/SEG-SAM.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2412.12660.pdf">
+    <font style="color: #aa2116;font-weight: bold">SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation </font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, <B>Zijian Zhou</B>, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2412.12660</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/SDPO.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2411.11727.pdf">
+    <font style="color: #aa2116;font-weight: bold">Aligning Few-Step Diffusion Models with Dense Reward Difference Learning </font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, <B>Miaojing Shi</B>, Bo Du, Dacheng Tao</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2411.11727</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/ARXIV.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2409.12967.pdf">
+    <font style="color: #aa2116;font-weight: bold">How Consistent Are Humans When Grading Programming Assignments?</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>arXiv:2409.12967</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/cine CMR.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2408.02462.pdf">
+    <font style="color: #aa2116;font-weight: bold">An investigation into the causes of race bias in AI-based cine CMR segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, Sebastien Roujol, Theodore Barfoot, Shaheim Ogbomo-Harmitt, <B>Miaojing Shi</B>, Andrew P. King</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2408.02462</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
               <img src="/img/VL-phys.png">
             </figure>
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2407.08507">
+    <a href="https://arxiv.org/pdf/2407.08507.pdf">
     <font style="color: #aa2116;font-weight: bold">Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement</font>
     </a>
     </div>
@@ -46,8 +155,7 @@ show_sidebar: false
     <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
     <div style="margin-top: 10px"><B><i>arXiv:2406.16039</i></B>
 </div>
-<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]</div>
-<div style="margin-top: 10px">[<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
+<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]  [<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -141,6 +249,53 @@ show_sidebar: false
 
 ### 2025
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/ARXIV.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://kclpure.kcl.ac.uk/ws/portalfiles/portal/312381991/Meneragie_A_Dataset_of_Graded_Programming_Assignments.pdf">
+    <font style="color: #aa2116;font-weight: bold">Menagerie: A Dataset of Graded Programming Assignments</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>SIGCSE TS 2025</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/m-messer/Menagerie/tree/main">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/GFSS-EKT.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2412.15835.pdf">
+    <font style="color: #aa2116;font-weight: bold">Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge Transfer</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Xinyue Chen</B>, <B>Miaojing Shi</B>, <B>Zijian Zhou</B>, Lianghua He, Sophia Tsoka</div>
+    <div style="margin-top: 10px"><B><i>AAAI 2025</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/HHHHedy/GFSS-EKT">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+
 <div>
 <table>
     <tr>
@@ -168,7 +323,7 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/WACV-2025.png">
+              <img src="/img/MTCP.png">
             </figure>
             </td>
     <td>
@@ -179,7 +334,7 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px"><B>Maxime Fontana</B>, Michael Spratling, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>WACV 2025</i></B></div>
-    <div style="margin-top: 10px">[<a href="https://github.com/Klodivio355/MT-CP">code</a>]
+    <div style="margin-top: 10px">[<a href="https://github.com/Klodivio355/MT-CP">code</a>]</div>
     </td>
     </tr>
     </table>
