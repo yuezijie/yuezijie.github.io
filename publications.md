@@ -122,27 +122,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/VL-phys.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2407.08507.pdf">
-    <font style="color: #aa2116;font-weight: bold">Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Hanli Wang, Shuai Ding, Qijun Chen, Shanlin Yang</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2407.08507</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/CholecInstanceSeg.png">
             </figure>
             </td>
@@ -249,6 +228,28 @@ show_sidebar: false
 
 ### 2025
 ----------------------
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/VL-phys.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2407.08507.pdf">
+    <font style="color: #aa2116;font-weight: bold">Bootstrapping Vision-language Models for Self-supervised Remote Physiological Measurement</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijie Yue</B>, <B>Miaojing Shi</B>, Hanli Wang, Shuai Ding, Qijun Chen, Shanlin Yang</div>
+    <div style="margin-top: 10px"><B><i>International Journal of Computer Vision</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/yuezijie/Bootstrapping-VLM-for-Frequency-centric-Self-supervised-Remote-Physiological-Measurement">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
