@@ -101,27 +101,6 @@ show_sidebar: false
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/cine CMR.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2408.02462.pdf">
-    <font style="color: #aa2116;font-weight: bold">An investigation into the causes of race bias in AI-based cine CMR segmentation</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, Sebastien Roujol, Theodore Barfoot, Shaheim Ogbomo-Harmitt, <B>Miaojing Shi</B>, Andrew P. King</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2408.02462</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
               <img src="/img/CholecInstanceSeg.png">
             </figure>
             </td>
@@ -250,6 +229,28 @@ show_sidebar: false
     </tr>
     </table>
 </div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/cine CMR.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2408.02462.pdf">
+    <font style="color: #aa2116;font-weight: bold">An investigation into the causes of race bias in AI-based cine CMR segmentation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Anton, Bram Ruijsink, Sebastien Roujol, Theodore Barfoot, Shaheim Ogbomo-Harmitt, <B>Miaojing Shi</B>, Andrew P. King</div>
+    <div style="margin-top: 10px"><B><i>European Heart Journal – Digital Health</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
+
 
 <div>
 <table>
