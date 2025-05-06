@@ -41,7 +41,7 @@ show_sidebar: false
 
 
 ## News
-
+- **<strong style="color: red;">**This team homepage is no longer being updated. A new homepage link will be announced later.</strong>
 - **Jan. 2025** One paper accepted at <B>IJCV</B>. Congrats to Zijie!
 - **Jan. 2025** One paper accepted at <B>Medical Image Analysis</B>. Congrats to Tosin!
 - **Jan. 2025** One paper accepted at <B>European Heart Journal – Digital Health</B>. Congrats to Tiarna!  
