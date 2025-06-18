@@ -41,7 +41,6 @@ show_sidebar: false
 
 
 ## News
-<strong style="color: red;">This homepage is no longer being updated. A new link will be announced later.</strong>
 - **Jun. 2025** Dr. Yue was awarded with the special funding by China Postdoctoral Science Foundation.  
 - **May. 2025** Prof. Shi gave a talk at the Embodied AI Forum, Annual Congress of Automation. 
 - **May. 2025** One paper accepted at <B>Scientific Data</B>. Congrats to Oluwatosin!
