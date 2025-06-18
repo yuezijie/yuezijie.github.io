@@ -47,7 +47,7 @@ show_sidebar: false
 </Body>
 
 
-### Post-doctoral Fellow
+### Assistant Professor
 <Body>
 <div>
     <table width="50%">
