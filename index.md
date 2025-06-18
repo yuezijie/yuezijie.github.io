@@ -42,6 +42,9 @@ show_sidebar: false
 
 ## News
 <strong style="color: red;">This homepage is no longer being updated. A new link will be announced later.</strong>
+- **May. 2025** One paper accepted at <B>Scientific Data</B>. Congrats to Oluwatosin!
+- **Apr. 2025** One paper accepted at <B>Scientific Reports</B>. Congrats to Meng!
+- **Mar. 2025** One paper accepted at <B>CVPR 2025</B>. Congrats to Zijian!
 - **Jan. 2025** One paper accepted at <B>IJCV</B>. Congrats to Zijie!
 - **Jan. 2025** One paper accepted at <B>Medical Image Analysis</B>. Congrats to Tosin!
 - **Jan. 2025** One paper accepted at <B>European Heart Journal – Digital Health</B>. Congrats to Tiarna!  
