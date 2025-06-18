@@ -50,7 +50,7 @@ show_sidebar: false
 </Body>
 
 <!-- 
-### Post-doctoral Fellow
+### Assistant Professor
 <Body>
 <div>
     <table width="50%">
@@ -91,54 +91,6 @@ show_sidebar: false
 <div>
     <table width="50%">
         <tr align="center">
-            <td width="30%">
-                <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
-                          <img src="/img/Photo_XinyueChen.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Xinyue Chen
-                           <a>
-                              <i id="people-08" aria-hidden="true">
-                                 <ion-icon name="home-outline"></ion-icon>
-                              </i>
-                           </a>
-                        </p>
-                        <p class="subtitle is-6">xinyue.1.chen@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2022-)</p>
-<p class="subtitle is-6">co-advised by Sophia Tsoka</p> 
-                                              </div>
-                    </div>  
-                  </div>
-                </div>
-           </td>
-            <td width="30%">
-                <div class="card">
-                  <div class="card-content">
-                    <div class="media">
-                      <div class="media-left">
-                        <figure class="image is-96x96">
-                          <img src="/img/Photo_ZijianZhou.png" alt="Placeholder image">
-                        </figure>
-                      </div>
-                      <div class="media-content">
-                        <p class="title is-4">Zijian Zhou 
-                            <a href="https://sites.google.com/view/zijian-zhou/home">
-                                <ion-icon name="home-outline"></ion-icon>
-                            </a>
-                        </p>
-                        <p class="subtitle is-6">zijian.zhou@kcl.ac.uk</p>
-                        <p class="subtitle is-6">(2022-)</p> 
-                        <p class="subtitle is-6">co-advised by Tomasz Radzik</p>      
-                      </div>
-                    </div>  
-                  </div>
-                </div>
-           </td>
            <td width="30%">
               <div class="card">
                   <div class="card-content">
