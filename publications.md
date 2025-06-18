@@ -7,29 +7,48 @@ show_sidebar: false
 
 ### Preprints
 ----------------------
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/TRAIL.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2505.16166">
+    <font style="color: #aa2116;font-weight: bold">TRAIL: Transferable Robust Adversarial Images via Latent diffusion </font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Yuhao Xue, Zhifei Zhang, Xinyang Jiang, Yifei Shen, Junyao Gao, Wentao Gu, Jiale Zhao, <B>Miaojing Shi</B>, Cairong Zhao</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2505.16166</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
     <tr>
             <td style="width: 23%">
             <figure style="width: 90%;margin: auto">
-              <img src="/img/Leffa.png">
+              <img src="/img/ARXIV.png">
             </figure>
             </td>
     <td>
     <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2412.08486.pdf">
-    <font style="color: #aa2116;font-weight: bold">Learning Flow Fields in Attention for Controllable Person Image Generation</font>
+    <a href="https://arxiv.org/abs/2503.17089">
+    <font style="color: #aa2116;font-weight: bold">Does a Rising Tide Lift All Boats? Bias Mitigation for AI-based CMR Segmentation </font>
     </a>
     </div>
-    <div style="margin-top: 10px"><B>Zijian Zhou</B>, Shikun Liu, Xiao Han, Haozhe Liu, Kam Woh Ng, Tian Xie, Yuren Cong, Hang Li, Mengmeng Xu, Juan-Manuel Pérez-Rúa, Aditya Patel, Tao Xiang, <B>Miaojing Shi</B>, Sen He</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2412.08486</i></B></div>
-    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/Leffa">code</a>]</div>
+    <div style="margin-top: 10px"><B>Tiarna Lee</B>, Esther Puyol-Antón, Bram Ruijsink, <B>Miaojing Shi</B>, Andrew P King</div>
+    <div style="margin-top: 10px"><B><i>arXiv:2503.17089</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/tiarnaleeKCL/nnUNet-bias-mitigation">code</a>]</div>
     </td>
     </tr>
     </table>
 </div>
-
 
 <div>
 <table>
@@ -68,52 +87,6 @@ show_sidebar: false
     </div>
     <div style="margin-top: 10px">Ziyi Zhang, Li Shen, Sen Zhang, Deheng Ye, Yong Luo, <B>Miaojing Shi</B>, Bo Du, Dacheng Tao</div>
     <div style="margin-top: 10px"><B><i>arXiv:2411.11727</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/ARXIV.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/abs/2409.12967.pdf">
-    <font style="color: #aa2116;font-weight: bold">How Consistent Are Humans When Grading Programming Assignments?</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
-    <div style="margin-top: 10px"><B><i>arXiv:2409.12967</i></B></div>
-    </td>
-    </tr>
-    </table>
-</div>
-
-
-<div>
-<table>
-    <tr>
-            <td style="width: 23%">
-            <figure style="width: 90%;margin: auto">
-              <img src="/img/CholecInstanceSeg.png">
-            </figure>
-            </td>
-    <td>
-    <div style="margin-top: 10px">
-    <a href="https://arxiv.org/pdf/2406.16039">
-    <font style="color: #aa2116;font-weight: bold">CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery</font>
-    </a>
-    </div>
-    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2406.16039</i></B>
-</div>
-<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]  [<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
     </td>
     </tr>
     </table>
@@ -162,6 +135,12 @@ show_sidebar: false
     </table>
 </div>
 
+
+
+
+### 2025
+----------------------
+
 <div>
 <table>
     <tr>
@@ -177,15 +156,78 @@ show_sidebar: false
     </a>
     </div>
     <div style="margin-top: 10px"><B>Meng Wei</B>, Charlie Budd, Luis C. Garcia-Peraza-Herrera, Reuben Dorent, <B>Miaojing Shi</B>, Tom Vercauteren</div>
-    <div style="margin-top: 10px"><B><i>arXiv:2308.05232</i></B></div>
+    <div style="margin-top: 10px"><B><i>Scientific Reports</i></B></div>
     </td>
     </tr>
     </table>
 </div>
 
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/CholecInstanceSeg.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/pdf/2406.16039">
+    <font style="color: #aa2116;font-weight: bold">CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B><i>Scientific Data</i></B>
+</div>
+<div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]  [<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
 
-### 2025
-----------------------
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/MPDrive.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2504.00379">
+    <font style="color: #aa2116;font-weight: bold">MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px">Zhiyuan Zhang, Xiaofan Li, Zhihao Xu, Wenjie Peng,<b>Zijian Zhou</b>,<b>Miaojing Shi</b>, Shuangping Huang , S Huang</div>
+    <div style="margin-top: 10px"><B><i>CVPR 2025</i></B>
+</div>
+    </td>
+    </tr>
+    </table>
+</div>
+
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/Leffa.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2412.08486.pdf">
+    <font style="color: #aa2116;font-weight: bold">Learning Flow Fields in Attention for Controllable Person Image Generation</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Zijian Zhou</B>, Shikun Liu, Xiao Han, Haozhe Liu, Kam Woh Ng, Tian Xie, Yuren Cong, Hang Li, Mengmeng Xu, Juan-Manuel Pérez-Rúa, Aditya Patel, Tao Xiang, <B>Miaojing Shi</B>, Sen He</div>
+    <div style="margin-top: 10px"><B><i>CVPR 2025</i></B></div>
+    <div style="margin-top: 10px">[<a href="https://github.com/franciszzj/Leffa">code</a>]</div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
@@ -345,6 +387,26 @@ show_sidebar: false
 
 ### 2024
 ----------------------
+<div>
+<table>
+    <tr>
+            <td style="width: 23%">
+            <figure style="width: 90%;margin: auto">
+              <img src="/img/ARXIV.png">
+            </figure>
+            </td>
+    <td>
+    <div style="margin-top: 10px">
+    <a href="https://arxiv.org/abs/2409.12967.pdf">
+    <font style="color: #aa2116;font-weight: bold">How Consistent Are Humans When Grading Programming Assignments?</font>
+    </a>
+    </div>
+    <div style="margin-top: 10px"><B>Marcus Messer</B>, Neil C. C. Brown, Michael Kölling, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px"><B><i>OSF</i></B></div>
+    </td>
+    </tr>
+    </table>
+</div>
 
 <div>
 <table>
