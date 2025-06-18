@@ -162,7 +162,6 @@ show_sidebar: false
                   </div>
                 </div>
             </td>
-        </tr>
 <!--         <tr align="center"> -->
             <td width="30%">
                 <div class="card">
