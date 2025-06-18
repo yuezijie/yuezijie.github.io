@@ -1,10 +1,5 @@
 - name: Members
-  # link: /people/
-  dropdown:
-    - name: Tongji University
-      link: /tjpeople/
-    - name: King's College London
-      link: /people/
+  link: /tjpeople/
 - name: Publications
   link: /publications/
 - name: Awards
