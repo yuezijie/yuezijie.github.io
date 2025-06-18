@@ -9,11 +9,11 @@ show_sidebar: false
 <Body>
 We are always looking for excellent researchers, including interns, PhDs, post-docs, and visiting students to work with us on computer vision and multimedia projects.
 
-If you are interested, feel free to drop an message to Dr. Shi <B>mshi@tongji.edu.cn</B>/<B>miaojing.shi@kcl.ac.uk</B>.
+If you are interested, feel free to drop an message to Prof. Shi <B>mshi@tongji.edu.cn</B>.
 
 </Body>
 
-- 11/2023 [<B>Open</B>] We are recruiting two postdocs at Tongji University, details can be found <a href="https://muchong.com/t-15877074-1"> here</a>
+- 11/2023 [<B>Closed</B>] We are recruiting postdocs at Tongji University, details can be found <a href="https://muchong.com/t-15877074-1"> here</a>
 
 - 08/2022  [<B>Closed</B>] Journal of Imaging - Call for Papers: <a href="https://www.mdpi.com/journal/jimaging/special_issues/73YBDM62Q5"> Special Issue on Visual Learning with Multi-Task Supervision.</a>
 

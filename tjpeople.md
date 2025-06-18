@@ -33,7 +33,7 @@ show_sidebar: false
                                             <ion-icon name="school-outline"></ion-icon>
                                         </a>
                                     </p>
-                                    <p class="subtitle is-6">miaojing.shi@kcl.ac.uk</p>                                                               
+                                    <p class="subtitle is-6">mshi@tongji.edu.cn</p>                                                               
                                   </div>
                                 </div>  
                               </div>
