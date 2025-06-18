@@ -64,7 +64,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation </font>
     </a>
     </div>
-    <div style="margin-top: 10px">Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, <B>Zijian Zhou</B>, <B>Miaojing Shi</B></div>
+    <div style="margin-top: 10px">Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, Zijian Zhou, <B>Miaojing Shi</B></div>
     <div style="margin-top: 10px"><B><i>arXiv:2412.12660</i></B></div>
     </td>
     </tr>
@@ -176,7 +176,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">CholecInstanceSeg: A Tool Instance Segmentation Dataset for Laparoscopic Surgery</font>
     </a>
     </div>
-    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, <B>Zijian Zhou</B>, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
+    <div style="margin-top: 10px"><B>Oluwatosin Alabi</B>, Ko Ko Zayar Toe, Zijian Zhou, Charlie Budd, Nicholas Raison, <B>Miaojing Shi</B>, Tom Vercauteren</div>
     <div style="margin-top: 10px"><B><i>Scientific Data</i></B>
 </div>
 <div style="margin-top: 10px">[<a href="https://www.synapse.org/Synapse:syn60239970/wiki/628710">data</a>]  [<a href="https://github.com/labdeeman7/cholec_instance_seg">code</a>]</div>
@@ -199,7 +199,7 @@ show_sidebar: false
     <font style="color: #aa2116;font-weight: bold">MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving</font>
     </a>
     </div>
-    <div style="margin-top: 10px">Zhiyuan Zhang, Xiaofan Li, Zhihao Xu, Wenjie Peng,<b>Zijian Zhou</b>,<b>Miaojing Shi</b>, Shuangping Huang , S Huang</div>
+    <div style="margin-top: 10px">Zhiyuan Zhang, Xiaofan Li, Zhihao Xu, Wenjie Peng, Zijian Zhou, <b>Miaojing Shi</b>, Shuangping Huang</div>
     <div style="margin-top: 10px"><B><i>CVPR 2025</i></B>
 </div>
     </td>

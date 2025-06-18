@@ -7,6 +7,8 @@ show_sidebar: false
 
 <script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
+- **2025.08 - 2026.08** Principal Investigator (Yue Zijie), **China Postdoctoral Science Foundation Special Funding** (¥180K)
+
 - **2024.08** Dr. YUE ZIJIE Received the **NSFC Youth Project**(¥***K)
 
 - **2024.07** ZHOU Zijian has won the **China Outstanding Self-financed Students Abroad**(¥**K)

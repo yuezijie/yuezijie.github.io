@@ -14,7 +14,7 @@ show_sidebar: false
                       <td width="15%"><img src="img/logo.jpg"></td>
                       <td width="80%">
                               <div>
-                                          <B>Welcome to the Visual Computing (VisCom) research lab. This is a joint lab belonging to both the College of Electronic and Information Engineering, Tongji University and the Department of Informatics, King's College London. </B>
+                                          <B>Welcome to the Visual Computing (VisCom) research lab. This lab was initiated in the Department of Informatics, King's College London; and now belongs to the College of Electronic and Information Engineering, Tongji University.</B>
                               </div>
                       </td>
                     </tr>
@@ -25,7 +25,7 @@ show_sidebar: false
                           <div>
                               Our research field is <i>computer vision</i> and <i>multimedia computing</i>.
                               We are interested in a wide range of topics, and our current focus is on
-                              visual learning and understanding with multi-task and limited supervision.
+                             multimodal visual learning and its application in medical image analysis.
                           </div>
                           </td>
                     </tr>
@@ -42,21 +42,17 @@ show_sidebar: false
 
 ## News
 <strong style="color: red;">This homepage is no longer being updated. A new link will be announced later.</strong>
+- **Jun. 2025** Dr. Yue was awarded with the special funding by China Postdoctoral Science Foundation.  
+- **May. 2025** Prof. Shi gave a talk at the Embodied AI Forum, Annual Congress of Automation. 
 - **May. 2025** One paper accepted at <B>Scientific Data</B>. Congrats to Oluwatosin!
 - **Apr. 2025** One paper accepted at <B>Scientific Reports</B>. Congrats to Meng!
-- **Mar. 2025** One paper accepted at <B>CVPR 2025</B>. Congrats to Zijian!
+- **Mar. 2025** Two papers accepted at <B>CVPR 2025</B>. 
 - **Jan. 2025** One paper accepted at <B>IJCV</B>. Congrats to Zijie!
 - **Jan. 2025** One paper accepted at <B>Medical Image Analysis</B>. Congrats to Tosin!
+- **Jan. 2025** Prof. Shi was appointed as the Vice Dean (QingGan) of  Research Institute of Science and Technology, Tongji University.  
 - **Jan. 2025** One paper accepted at <B>European Heart Journal – Digital Health</B>. Congrats to Tiarna!  
 - **Dec. 2024** One paper accepted at <B>SIGCSE 2025</B>. Congrats to Marcus!  
 - **Dec. 2024** One paper accepted at <B>AAAI 2025</B>. Congrats to Xinyue!  
 - **Dec. 2024** One paper accepted at <B>Neural Networks</B>. Congrats to Zijie!  
-- **Nov. 2024** Prof. Shi gave talk in the ninth Shanghai Gastroenterology Forum at Tongji Hospital. 
-- **Oct. 2024** Prof. Shi gave talk in the third Information Managagement Workshop at Shanghai University.
-- **Oct. 2024** The VisCom Lab has successfully hosted the second Shanghai Computer Vision Workshop!
-- **Sep. 2024** One paper accepted to WACV 2025 (early acceptance)! Well done, Maxime!
-- **Sep. 2024** One paper accepted to <B>IEEE Internet of Things</B>!
-- **Aug. 2024** Dr. YUE Zijie received the NSFC Youth Project, Big congrats!
-- **Aug. 2024** One paper accepted to <B>IEEE TMI</B>!
 
 [more news](/news/)
